@@ -1,6 +1,6 @@
 ## Data 512 A1
 ### Description of the goal of the assignment
-This goal of this assignment is to build, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2019.
+The goal of this assignment is to build, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2019.
 
 ### Data Source
 - Legacy Pagecounts API: https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end
@@ -16,3 +16,9 @@ This goal of this assignment is to build, analyze, and publish a dataset of mont
 - pageview_desktop_views: views count of pageview through desktop
 - pageview_mobile_views: views count of pageview through mobile
 - pageview_all_views: total of pageview_desktop_views and pageview_mobile_views
+
+### Note
+- Data from the Pageview API does not include spiders or crawlers, but data from the Pagecounts APT does.
+- There is 1 year (2016) of overlapping traffic data between the two APIs.
+- For all months with 0 views, the values for those are listed as 0.
+
