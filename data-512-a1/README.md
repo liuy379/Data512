@@ -8,11 +8,11 @@ This goal of this assignment is to build, analyze, and publish a dataset of mont
 - Wikimedia Foundation REST API: https://en.wikipedia.org/api/rest_v1/
 
 ### Description of fields in the output csv file
-year: year of the instance
-month: month of the instance
-pagecount_desktop_views: views count of legacy pagecount through desktop
-pagecount_mobile_views: views count of legacy pagecount through mobile
-pagecount_all_views: total of pagecount_desk_views and pagecount_mobile_views
-pageview_desktop_views: views count of pageview through desktop
-pageview_mobile_views: views count of pageview through mobile
-pageview_all_views: total of pageview_desktop_views and pageview_mobile_views
+- year: year of the instance
+- month: month of the instance
+- pagecount_desktop_views: views count of legacy pagecount through desktop
+- pagecount_mobile_views: views count of legacy pagecount through mobile
+- pagecount_all_views: total of pagecount_desk_views and pagecount_mobile_views
+- pageview_desktop_views: views count of pageview through desktop
+- pageview_mobile_views: views count of pageview through mobile
+- pageview_all_views: total of pageview_desktop_views and pageview_mobile_views
