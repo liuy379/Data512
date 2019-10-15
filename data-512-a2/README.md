@@ -1,10 +1,12 @@
-## This is a2
+## Data 512 A2
 
 ## Data
 - page_data.csv is the Wikipedia politician by country dataset ([Source](https://figshare.com/articles/Untitled_Item/5513449))
 - WPDS_2018_data.csv is the population by country dataset ([Source](https://www.prb.org/international/indicator/population/table/))
 - wp_wpds_politicians_by_country.csv is the joined and cleaned dataset used in the analysis
 - wp_wpds_countries-no_match.csv is the data that cannot be merged because of entries found in Wikipedia country but not in population country
+- revid_no_prediction.csv contains rev_ids that have "ERROR" in their ORES predictions
+
 
 ## Reflection
 #### Data Quality
@@ -21,22 +23,20 @@ North Korea, Saudi Arbia, and Mauritania are the top 3 countries and Belgium, Ta
 
 
 ## Questions
-#### 1. "What biases did you expect to find in the data (before you started working with it), and why?"
+#### "What biases did you expect to find in the data (before you started working with it), and why?"
+The number of Wikipedia politician articles at certain time point is determined by many different factors such as population, economics and political events. So when I saw the focus of this analysis is on some ratio metrics, I expected there to be biases in the result.
 
-#### 2. "What (potential) sources of bias did you discover in the course of your data processing and analysis?"
+#### "What (potential) sources of bias did you discover in the course of your data processing and analysis?"
+Population is a large factor causing biases in the analysis. Biases in analysis also occur because of lack of other important attributes. (ex. educated population, GDP)
 
-#### 3. "What might your results suggest about (English) Wikipedia as a data source?"
+#### "Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?"
+Conducting statistical test such as t-test on the difference between countries' raitos of high quality politician articles to total articles can be valid and informative. However, not all countries are suitable to be used in the test as some of the sample sizes (number of total articles) are quite small.
 
-#### 4. "What might your results suggest about the internet and global society in general?"
-
-
-#### 5. "Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?"
-
-
-#### 6. "Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?"
+#### "How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?"
+Gathering more data is the first choice. More attributes such as educated population, economics and political events can provide more perspectives about the data so that biases can be better understood and handled.
 
 
-#### 7. "How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?"
+
 
 
 
