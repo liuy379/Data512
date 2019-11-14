@@ -1,5 +1,7 @@
 ## Project Plan
 ### Introduction
+When we run into emergencies, knowing that polices are typically only a few minutes away and they can reach us in fairly short amount of time is definitely comforting. Clearly, average response times in different cities can vary a lot due to factors such as city population, police funding, and available resources in a given region. Specifically, according to [this article by Matt Halpin](https://www.asecurelife.com/average-police-response-time/), the average police response time in Seattle is 9 minutes, which is quite higher than the response time in other US major cities. When it comes to emergencies, every minute counts. Therefore, I decide to take a look at the police response time in Seattle alone with other interesting/helpful characteristics.
+
 
 ### Data
 - Data: [https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
@@ -25,9 +27,9 @@ Data is queried from Data Analytics Platformm (DAP) and updated incrementally on
 This dataset only contains records of police response. If a call is queued in the system but cleared before an officer can respond, it will not be included. The data ifself does not contain any identify or ethical information. However, the CAD Event Number is an unique identifier for each call (or instance), and there might exist external source that happens to have this information as well alone with other detailed information such as name of the caller and specific location of the instance. Currently, I am not able to find any of the external source. 
 
 ### Research questions
+- Is the response time to high priority calls significantly shorter than that to low priority calls?
 - How do call trends differ by precinct/sector/beat?
 - How do priorities of calls look like over time?
-- Is the response time to high priority calls significantly shorter than that to low priority calls?
 - Are proportions of call types significantly different?
 - Do final call types (identified by officers) match initial call types (identified by communication center) well?
 
@@ -36,10 +38,6 @@ Most of the attributes in the dataset are categorical. The Original_Time_Queued 
 
 ### Methodology and Tools
 As we are comparing differences between groups, `t-test` for difference between groups and proportions and `chi-square test` are two of the major parts in this project. Also, since we have some geographic information, visualizations are also crucial. So I decide to to use `R` in this project since it is language made for statistical tests, and use R's `ggplot2` packages for visualization to maintain consistency. I also plan to build interactive dashboard using `Bokeh` if I have time.
-
-
-
-
 
 
 
