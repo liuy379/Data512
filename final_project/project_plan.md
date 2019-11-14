@@ -1,7 +1,9 @@
-## Project Plan
+## Project Plan - Seattle Police Call Response Time Analysis
+- Yiming Liu
+- Data 512
+
 ### Introduction
 When we run into emergencies, knowing that polices are typically only a few minutes away and they can reach us in fairly short amount of time is definitely comforting. Clearly, average response times in different cities can vary a lot due to factors such as city population, police funding, and available resources in a given region. Specifically, according to [this article by Matt Halpin](https://www.asecurelife.com/average-police-response-time/), the average police response time in Seattle is 9 minutes, which is quite higher than the response time in other US major cities. When it comes to emergencies, every minute counts. Therefore, I decide to take a look at the police response time in Seattle alone with other interesting/helpful characteristics.
-
 
 ### Data
 - Data: [https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
@@ -45,7 +47,5 @@ As we are comparing differences between groups, `t-test` for difference between 
 - https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
 - http://www.seattle.gov/police/
 - https://www.asecurelife.com/average-police-response-time/
-
-
 
 
