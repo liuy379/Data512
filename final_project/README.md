@@ -12,16 +12,6 @@ The Kaggle dataset is collected by Rishabh Misra from IMDb. The dataset consists
 
 #### Unknowns and Dependencies
 I am planning to use TF-IDF and embeddings as starting point, and then try to leverage some deep learning techniques. The only unknow right now is that I am unsure how fast I can implement these and have a deliverable model that can hopefully do better than just random guessing since I do not have much NLP related experience, but my plan is to start early and quickly finish the first cycle of the analysis (starting with simple approach such as TF-IDF) and adjust following plans based on the results. One dependency is that I plan to leverage pre-trained language model to do transfer learning if I have extra time after completing TF-IDF and embeddings steps.
- 
-## Project Plan
-### Introduction
-
-### Data
-
-### Research questions
-
-### Methodology
-
 
 
 
