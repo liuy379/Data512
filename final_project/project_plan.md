@@ -26,15 +26,22 @@ This dataset only contains records of police response. If a call is queued in th
 
 ### Research questions
 - How do call trends differ by precinct/sector/beat?
-- How do priorities of calls look over time?
+- How do priorities of calls look like over time?
 - Is the response time to high priority calls significantly shorter than that to low priority calls?
 - Are proportions of call types significantly different?
 - Do final call types (identified by officers) match initial call types (identified by communication center) well?
 
+Most of the attributes in the dataset are categorical. The Original_Time_Queued ranges between April 2010 to April 2019, so it can be used alone with other aggregated statistics to analyze how those statistics increase and decrease over time. The difference between Original_Time_Queued and Arrive_Time gives us the response time, which will be the only numeric feature in the dataset. 
+
+
+### Methodology and Tools
+As we are comparing differences between groups, `t-test` for difference between groups and proportions and `chi-square test` are two of the major parts in this project. Also, since we have some geographic information, visualizations are also crucial. So I decide to to use `R` in this project since it is language made for statistical tests, and use R's `ggplot2` packages for visualization to maintain consistency. I also plan to build interactive dashboard using `Bokeh` if I have time.
 
 
 
-### Methodology
+
+
+
 
 
 
