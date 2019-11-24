@@ -1,0 +1,1334 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20182.18.1009.2120                               -->
+<workbook source-build='2018.2.3 (20182.18.1009.2120)' source-platform='mac' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SortTagCleanup />
+    <VizInTooltipHideWorksheet />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <repository-location id='SPD_response_time' path='/workbooks' revision='1.2' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='priority_metadata' inline='true' name='federated.1rr03zh0e5mpms1a4k6g91lfx8kk' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='priority_metadata' name='textscan.1qd8xc20lx2xy51d08vv50ppkdzp'>
+            <connection class='textscan' directory='/Users/allen/Documents/data_512/Data' filename='priority_metadata.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1qd8xc20lx2xy51d08vv50ppkdzp' name='priority_metadata.csv' table='[priority_metadata#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='F1' ordinal='0' />
+            <column datatype='string' name='F2' ordinal='1' />
+            <column datatype='string' name='F3' ordinal='2' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[priority_metadata.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[priority_metadata.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F2]</local-name>
+            <parent-name>[priority_metadata.csv]</parent-name>
+            <remote-alias>F2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F3]</local-name>
+            <parent-name>[priority_metadata.csv]</parent-name>
+            <remote-alias>F3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Code]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <extract count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='/Users/allen/Documents/data_512/Data/priority_metadata.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>F1</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[F1]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>F1</remote-alias>
+              <ordinal>0</ordinal>
+              <family>priority_metadata.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>F2</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[F2]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>F2</remote-alias>
+              <ordinal>1</ordinal>
+              <family>priority_metadata.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>F3</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[F3]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>F3</remote-alias>
+              <ordinal>2</ordinal>
+              <family>priority_metadata.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' dim-percentage='0.53344' measure-ordering='alphabetic' measure-percentage='0.466561' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+    <datasource caption='SPD_BEATS_WGS84' inline='true' name='federated.01hluep1c4uyqr10f6e900exp8ss' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='SPD_BEATS_WGS84' name='ogrdirect.01dy3d01uexzev1h0c7nk061qwwo'>
+            <connection class='ogrdirect' directory='/Users/allen/Downloads/SPD_BEATS_WGS84_08' filename='SPD_BEATS_WGS84.shp' ogr-grid-shift-folder='/Applications/Tableau Desktop 2018.2.app/Contents/install/local/proj4' password='' server='' tablename='' workgroup-auth-mode='as-is' />
+          </named-connection>
+          <named-connection caption='beat_cc_resp_time' name='textscan.05s51q914r55aw1csjs570w3tik6'>
+            <connection class='textscan' directory='/Users/allen/Documents/Data_512/Data' filename='beat_cc_resp_time.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+          <named-connection caption='crime_data_agg' name='textscan.0vkjc0a156wn2r15y553b1d007pd'>
+            <connection class='textscan' directory='/Users/allen/Documents/Data_512/Data' filename='crime_data_agg.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+          <named-connection caption='priority_agg' name='textscan.1rzmqlk11alhs01bf6vte0wk69nj'>
+            <connection class='textscan' directory='/Users/allen/Documents/Data_512/Data' filename='priority_agg.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation join='inner' type='join'>
+          <clause type='join'>
+            <expression op='AND'>
+              <expression op='='>
+                <expression op='[beat_cc_resp_time.csv].[Beat]' />
+                <expression op='[priority_agg.csv].[Beat]' />
+              </expression>
+              <expression op='='>
+                <expression op='[beat_cc_resp_time.csv].[Year]' />
+                <expression op='[priority_agg.csv].[year]' />
+              </expression>
+            </expression>
+          </clause>
+          <relation join='inner' type='join'>
+            <clause type='join'>
+              <expression op='AND'>
+                <expression op='='>
+                  <expression op='[beat_cc_resp_time.csv].[Beat]' />
+                  <expression op='[crime_data_agg.csv].[BEAT]' />
+                </expression>
+                <expression op='='>
+                  <expression op='[beat_cc_resp_time.csv].[Year]' />
+                  <expression op='[crime_data_agg.csv].[Year]' />
+                </expression>
+              </expression>
+            </clause>
+            <relation join='inner' type='join'>
+              <clause type='join'>
+                <expression op='='>
+                  <expression op='[SPD_BEATS_WGS84.shp].[BEAT]' />
+                  <expression op='[beat_cc_resp_time.csv].[Beat]' />
+                </expression>
+              </clause>
+              <relation connection='ogrdirect.01dy3d01uexzev1h0c7nk061qwwo' name='SPD_BEATS_WGS84.shp' table='[SPD_BEATS_WGS84.shp]' type='table'>
+                <columns>
+                  <column datatype='string' name='BEAT' ordinal='0' />
+                  <column datatype='string' name='PRECINCT' ordinal='1' />
+                  <column datatype='real' name='Shape_Leng' ordinal='2' />
+                  <column datatype='real' name='Shape_Area' ordinal='3' />
+                  <column datatype='spatial' name='Geometry' ordinal='4' />
+                </columns>
+              </relation>
+              <relation connection='textscan.05s51q914r55aw1csjs570w3tik6' name='beat_cc_resp_time.csv' table='[beat_cc_resp_time#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Year' ordinal='0' />
+                  <column datatype='string' name='Beat' ordinal='1' />
+                  <column datatype='integer' name='crime_counts' ordinal='2' />
+                  <column datatype='real' name='avg_response_time' ordinal='3' />
+                </columns>
+              </relation>
+            </relation>
+            <relation connection='textscan.0vkjc0a156wn2r15y553b1d007pd' name='crime_data_agg.csv' table='[crime_data_agg#csv]' type='table'>
+              <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                <column datatype='integer' name='Year' ordinal='0' />
+                <column datatype='string' name='BEAT' ordinal='1' />
+                <column datatype='string' name='Crime Group' ordinal='2' />
+                <column datatype='string' name='Crime Category' ordinal='3' />
+                <column datatype='integer' name='crime_counts' ordinal='4' />
+              </columns>
+            </relation>
+          </relation>
+          <relation connection='textscan.1rzmqlk11alhs01bf6vte0wk69nj' name='priority_agg.csv' table='[priority_agg#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='year' ordinal='0' />
+              <column datatype='string' name='Beat' ordinal='1' />
+              <column datatype='string' name='priority' ordinal='2' />
+              <column datatype='real' name='avg_response_time' ordinal='3' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[BEAT (crime_data_agg.csv)]' value='[crime_data_agg.csv].[BEAT]' />
+          <map key='[BEAT]' value='[SPD_BEATS_WGS84.shp].[BEAT]' />
+          <map key='[Beat (priority_agg.csv)]' value='[priority_agg.csv].[Beat]' />
+          <map key='[Beat]' value='[beat_cc_resp_time.csv].[Beat]' />
+          <map key='[Crime Category]' value='[crime_data_agg.csv].[Crime Category]' />
+          <map key='[Crime Group]' value='[crime_data_agg.csv].[Crime Group]' />
+          <map key='[Geometry]' value='[SPD_BEATS_WGS84.shp].[Geometry]' />
+          <map key='[PRECINCT]' value='[SPD_BEATS_WGS84.shp].[PRECINCT]' />
+          <map key='[Shape_Area]' value='[SPD_BEATS_WGS84.shp].[Shape_Area]' />
+          <map key='[Shape_Leng]' value='[SPD_BEATS_WGS84.shp].[Shape_Leng]' />
+          <map key='[Year (crime_data_agg.csv)]' value='[crime_data_agg.csv].[Year]' />
+          <map key='[Year]' value='[beat_cc_resp_time.csv].[Year]' />
+          <map key='[avg_response_time (priority_agg.csv)]' value='[priority_agg.csv].[avg_response_time]' />
+          <map key='[avg_response_time]' value='[beat_cc_resp_time.csv].[avg_response_time]' />
+          <map key='[crime_counts (crime_data_agg.csv)]' value='[crime_data_agg.csv].[crime_counts]' />
+          <map key='[crime_counts]' value='[beat_cc_resp_time.csv].[crime_counts]' />
+          <map key='[priority]' value='[priority_agg.csv].[priority]' />
+          <map key='[year]' value='[priority_agg.csv].[year]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>BEAT</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[BEAT]</local-name>
+            <parent-name>[SPD_BEATS_WGS84.shp]</parent-name>
+            <remote-alias>BEAT</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PRECINCT</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PRECINCT]</local-name>
+            <parent-name>[SPD_BEATS_WGS84.shp]</parent-name>
+            <remote-alias>PRECINCT</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Shape_Leng</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Shape_Leng]</local-name>
+            <parent-name>[SPD_BEATS_WGS84.shp]</parent-name>
+            <remote-alias>Shape_Leng</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Shape_Area</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Shape_Area]</local-name>
+            <parent-name>[SPD_BEATS_WGS84.shp]</parent-name>
+            <remote-alias>Shape_Area</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Geometry</remote-name>
+            <remote-type>8</remote-type>
+            <local-name>[Geometry]</local-name>
+            <parent-name>[SPD_BEATS_WGS84.shp]</parent-name>
+            <remote-alias>Geometry</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>spatial</local-type>
+            <aggregation>Collect</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[beat_cc_resp_time.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year]</local-name>
+            <parent-name>[beat_cc_resp_time.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Beat</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Beat]</local-name>
+            <parent-name>[beat_cc_resp_time.csv]</parent-name>
+            <remote-alias>Beat</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_counts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[crime_counts]</local-name>
+            <parent-name>[beat_cc_resp_time.csv]</parent-name>
+            <remote-alias>crime_counts</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_response_time</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[avg_response_time]</local-name>
+            <parent-name>[beat_cc_resp_time.csv]</parent-name>
+            <remote-alias>avg_response_time</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (crime_data_agg.csv)]</local-name>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>BEAT</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[BEAT (crime_data_agg.csv)]</local-name>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias>BEAT</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Crime Group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Crime Group]</local-name>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias>Crime Group</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Crime Category</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Crime Category]</local-name>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias>Crime Category</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_counts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[crime_counts (crime_data_agg.csv)]</local-name>
+            <parent-name>[crime_data_agg.csv]</parent-name>
+            <remote-alias>crime_counts</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[priority_agg.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[priority_agg.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Beat</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Beat (priority_agg.csv)]</local-name>
+            <parent-name>[priority_agg.csv]</parent-name>
+            <remote-alias>Beat</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>priority</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[priority]</local-name>
+            <parent-name>[priority_agg.csv]</parent-name>
+            <remote-alias>priority</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_response_time</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[avg_response_time (priority_agg.csv)]</local-name>
+            <parent-name>[priority_agg.csv]</parent-name>
+            <remote-alias>avg_response_time</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='BEAT (crime data agg.csv)' datatype='string' name='[BEAT (crime_data_agg.csv)]' role='dimension' type='nominal' />
+      <column caption='Beat' datatype='string' name='[BEAT]' role='dimension' type='nominal' />
+      <column caption='Beat (priority agg.csv)' datatype='string' name='[Beat (priority_agg.csv)]' role='dimension' type='nominal' />
+      <column caption='Beat1' datatype='string' name='[Beat]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Precinct' datatype='string' name='[PRECINCT]' role='dimension' type='nominal' />
+      <column caption='Shape Area' datatype='real' name='[Shape_Area]' role='measure' type='quantitative' />
+      <column caption='Shape Leng' datatype='real' name='[Shape_Leng]' role='measure' type='quantitative' />
+      <column caption='Year (crime data agg.csv)' datatype='integer' name='[Year (crime_data_agg.csv)]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+      <column caption='Avg Response Time (Priority Agg.Csv)' datatype='real' name='[avg_response_time (priority_agg.csv)]' role='measure' type='quantitative' />
+      <column caption='Avg Response Time' datatype='real' name='[avg_response_time]' role='measure' type='quantitative' />
+      <column caption='Crime Counts (Crime Data Agg.Csv)' datatype='integer' name='[crime_counts (crime_data_agg.csv)]' role='measure' type='quantitative' />
+      <column caption='Crime Counts' datatype='integer' name='[crime_counts]' role='measure' type='quantitative' />
+      <column caption='Priority' datatype='string' name='[priority]' role='dimension' type='nominal' />
+      <column caption='Year1' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+      <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+      <group caption='Tooltip (Beat,Year)' hidden='true' name='[Tooltip (Beat,Year)]' name-style='unqualified' user:auto-column='sheet_link' user:ui-vit-column='true'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[BEAT]' />
+          <groupfilter function='level-members' level='[none:Year:ok]' />
+        </groupfilter>
+      </group>
+      <extract count='-1' enabled='false' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='/Users/allen/Documents/data_512/Data/SPD_BEATS_WGS84.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <cols>
+            <map key='[BEAT (crime_data_agg.csv)]' value='[Extract].[BEAT]' />
+            <map key='[BEAT]' value='[Extract].[BEAT1]' />
+            <map key='[Beat (priority_agg.csv)]' value='[Extract].[Beat2]' />
+            <map key='[Beat]' value='[Extract].[Beat3]' />
+            <map key='[Crime Category]' value='[Extract].[Crime Category]' />
+            <map key='[Crime Group]' value='[Extract].[Crime Group]' />
+            <map key='[Geometry]' value='[Extract].[Geometry]' />
+            <map key='[PRECINCT]' value='[Extract].[PRECINCT]' />
+            <map key='[Shape_Area]' value='[Extract].[Shape_Area]' />
+            <map key='[Shape_Leng]' value='[Extract].[Shape_Leng]' />
+            <map key='[Year (crime_data_agg.csv)]' value='[Extract].[Year]' />
+            <map key='[Year]' value='[Extract].[Year1]' />
+            <map key='[avg_response_time (priority_agg.csv)]' value='[Extract].[avg_response_time]' />
+            <map key='[avg_response_time]' value='[Extract].[avg_response_time1]' />
+            <map key='[crime_counts (crime_data_agg.csv)]' value='[Extract].[crime_counts]' />
+            <map key='[crime_counts]' value='[Extract].[crime_counts1]' />
+            <map key='[priority]' value='[Extract].[priority]' />
+            <map key='[year]' value='[Extract].[year2]' />
+          </cols>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>BEAT1</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[BEAT]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>BEAT1</remote-alias>
+              <ordinal>0</ordinal>
+              <family>SPD_BEATS_WGS84.shp</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PRECINCT</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[PRECINCT]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PRECINCT</remote-alias>
+              <ordinal>1</ordinal>
+              <family>SPD_BEATS_WGS84.shp</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Shape_Leng</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Shape_Leng]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Shape_Leng</remote-alias>
+              <ordinal>2</ordinal>
+              <family>SPD_BEATS_WGS84.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Shape_Area</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Shape_Area]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Shape_Area</remote-alias>
+              <ordinal>3</ordinal>
+              <family>SPD_BEATS_WGS84.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Geometry</remote-name>
+              <remote-type>128</remote-type>
+              <local-name>[Geometry]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Geometry</remote-alias>
+              <ordinal>4</ordinal>
+              <family>SPD_BEATS_WGS84.shp</family>
+              <local-type>spatial</local-type>
+              <aggregation>Collect</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Year1</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Year]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Year1</remote-alias>
+              <ordinal>5</ordinal>
+              <family>beat_cc_resp_time.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Beat3</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Beat]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Beat3</remote-alias>
+              <ordinal>6</ordinal>
+              <family>beat_cc_resp_time.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>crime_counts1</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[crime_counts]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>crime_counts1</remote-alias>
+              <ordinal>7</ordinal>
+              <family>beat_cc_resp_time.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>479</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>avg_response_time1</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[avg_response_time]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>avg_response_time1</remote-alias>
+              <ordinal>8</ordinal>
+              <family>beat_cc_resp_time.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>550</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Year</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Year (crime_data_agg.csv)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Year</remote-alias>
+              <ordinal>9</ordinal>
+              <family>crime_data_agg.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>BEAT</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[BEAT (crime_data_agg.csv)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>BEAT</remote-alias>
+              <ordinal>10</ordinal>
+              <family>crime_data_agg.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Crime Group</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Crime Group]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Crime Group</remote-alias>
+              <ordinal>11</ordinal>
+              <family>crime_data_agg.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Crime Category</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Crime Category]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Crime Category</remote-alias>
+              <ordinal>12</ordinal>
+              <family>crime_data_agg.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>crime_counts</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[crime_counts (crime_data_agg.csv)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>crime_counts</remote-alias>
+              <ordinal>13</ordinal>
+              <family>crime_data_agg.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>318</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>year2</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[year]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>year2</remote-alias>
+              <ordinal>14</ordinal>
+              <family>priority_agg.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Beat2</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Beat (priority_agg.csv)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Beat2</remote-alias>
+              <ordinal>15</ordinal>
+              <family>priority_agg.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>51</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>priority</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[priority]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>priority</remote-alias>
+              <ordinal>16</ordinal>
+              <family>priority_agg.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>avg_response_time</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[avg_response_time (priority_agg.csv)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>avg_response_time</remote-alias>
+              <ordinal>17</ordinal>
+              <family>priority_agg.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2111</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' dim-percentage='0.519108' measure-ordering='alphabetic' measure-percentage='0.480892' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <shared-views>
+    <shared-view name='federated.01hluep1c4uyqr10f6e900exp8ss'>
+      <datasources>
+        <datasource caption='SPD_BEATS_WGS84' name='federated.01hluep1c4uyqr10f6e900exp8ss' />
+      </datasources>
+      <datasource-dependencies datasource='federated.01hluep1c4uyqr10f6e900exp8ss'>
+        <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+        <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]'>
+        <groupfilter function='member' level='[none:Year:ok]' member='2019' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+        <target field='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]' />
+      </filter>
+    </shared-view>
+  </shared-views>
+  <worksheets>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='priority_metadata' name='federated.1rr03zh0e5mpms1a4k6g91lfx8kk' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rr03zh0e5mpms1a4k6g91lfx8kk'>
+            <column datatype='integer' name='[Code]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[Guideline for Use]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Level]' role='dimension' type='nominal' />
+            <column-instance column='[Guideline for Use]' derivation='Attribute' name='[attr:Guideline for Use:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Code]' derivation='None' name='[none:Code:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Level]' derivation='None' name='[none:Level:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' value='570' />
+            <format attr='height' field='[federated.1rr03zh0e5mpms1a4k6g91lfx8kk].[attr:Guideline for Use:nk]' value='99' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1rr03zh0e5mpms1a4k6g91lfx8kk].[attr:Guideline for Use:nk]' value='480' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1rr03zh0e5mpms1a4k6g91lfx8kk].[none:Code:ok] / ([federated.1rr03zh0e5mpms1a4k6g91lfx8kk].[none:Level:nk] / [federated.1rr03zh0e5mpms1a4k6g91lfx8kk].[attr:Guideline for Use:nk]))</rows>
+        <cols />
+      </table>
+    </worksheet>
+    <worksheet name='crime_breakdown'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='SPD_BEATS_WGS84' name='federated.01hluep1c4uyqr10f6e900exp8ss' />
+          </datasources>
+          <datasource-dependencies datasource='federated.01hluep1c4uyqr10f6e900exp8ss'>
+            <column caption='BEAT (crime data agg.csv)' datatype='string' name='[BEAT (crime_data_agg.csv)]' role='dimension' type='nominal' />
+            <column caption='Beat' datatype='string' name='[BEAT]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Crime Category]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Crime Group]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column caption='Crime Counts (Crime Data Agg.Csv)' datatype='integer' name='[crime_counts (crime_data_agg.csv)]' role='measure' type='quantitative' />
+            <column-instance column='[BEAT (crime_data_agg.csv)]' derivation='None' name='[none:BEAT (crime_data_agg.csv):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Crime Category]' derivation='None' name='[none:Crime Category:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Crime Group]' derivation='None' name='[none:Crime Group:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[crime_counts (crime_data_agg.csv)]' derivation='Sum' name='[sum:crime_counts (crime_data_agg.csv):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.01hluep1c4uyqr10f6e900exp8ss].[Tooltip (Beat,Year)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action - Sheet 2]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[BEAT]' />
+              <groupfilter function='level-members' level='[none:Year:ok]' />
+            </groupfilter>
+          </filter>
+          <alphabetic-sort column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Crime Category:nk]' direction='ASC' />
+          <slices>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]</column>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[Tooltip (Beat,Year)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.01hluep1c4uyqr10f6e900exp8ss].[sum:crime_counts (crime_data_agg.csv):qk]' scope='cols' value='Counts' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT (crime_data_agg.csv):nk]' value='false' />
+            <format attr='text-align' scope='cols' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT (crime_data_agg.csv):nk] / ([federated.01hluep1c4uyqr10f6e900exp8ss].[none:Crime Group:nk] / [federated.01hluep1c4uyqr10f6e900exp8ss].[none:Crime Category:nk]))</rows>
+        <cols>[federated.01hluep1c4uyqr10f6e900exp8ss].[sum:crime_counts (crime_data_agg.csv):qk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name='map'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='SPD_BEATS_WGS84' name='federated.01hluep1c4uyqr10f6e900exp8ss' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.01hluep1c4uyqr10f6e900exp8ss'>
+            <column caption='Beat' datatype='string' name='[BEAT]' role='dimension' type='nominal' />
+            <column datatype='spatial' name='[Geometry]' role='measure' type='nominal' />
+            <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column-instance column='[avg_response_time]' derivation='Avg' name='[avg:avg_response_time:qk]' pivot='key' type='quantitative' />
+            <column caption='Avg Response Time' datatype='real' name='[avg_response_time]' role='measure' type='quantitative' />
+            <column-instance column='[Geometry]' derivation='Collect' name='[clct:Geometry:nk]' pivot='key' type='nominal' />
+            <column-instance column='[BEAT]' derivation='None' name='[none:BEAT:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:BEAT:nk]' />
+              <groupfilter function='union'>
+                <groupfilter function='member' level='[none:BEAT:nk]' member='&quot;H1&quot;' />
+                <groupfilter function='member' level='[none:BEAT:nk]' member='&quot;H2&quot;' />
+                <groupfilter function='member' level='[none:BEAT:nk]' member='&quot;H3&quot;' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT:nk]</column>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='tab_base' value='true' />
+            <format attr='enabled' id='um_lcover' value='true' />
+            <format attr='enabled' id='tab_coastline' value='false' />
+            <format attr='enabled' id='pp2_line' value='false' />
+            <format attr='enabled' id='light_adm0_bnd' value='false' />
+            <format attr='enabled' id='light_adm0_lbl' value='false' />
+            <format attr='enabled' id='um_adm0_bnd' value='true' />
+            <format attr='enabled' id='um_adm0_lbl' value='true' />
+            <format attr='enabled' id='light_pp2_statebounds' value='false' />
+            <format attr='enabled' id='light_pp2_statelabels' value='false' />
+            <format attr='enabled' id='pp2_adminlabels' value='false' />
+            <format attr='enabled' id='pp2_statebounds' value='true' />
+            <format attr='enabled' id='pp2_statelabels' value='true' />
+            <format attr='enabled' id='countybounds' value='false' />
+            <format attr='enabled' id='countylabels' value='false' />
+            <format attr='enabled' id='zipbounds' value='false' />
+            <format attr='enabled' id='ziplabels' value='false' />
+            <format attr='enabled' id='tab_areabounds' value='false' />
+            <format attr='enabled' id='tab_arealabels' value='false' />
+            <format attr='enabled' id='tab_msabounds' value='false' />
+            <format attr='enabled' id='tab_msalabels' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time:qk]' />
+              <lod column='[federated.01hluep1c4uyqr10f6e900exp8ss].[clct:Geometry:nk]' />
+              <lod column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT:nk]' />
+              <lod column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:qk]' />
+              <geometry column='[federated.01hluep1c4uyqr10f6e900exp8ss].[clct:Geometry:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold='true' fontcolor='#000000'>Beat:</run>
+                <run fontcolor='#787878'>Æ&#9;</run>
+                <run bold='true' fontcolor='#000000'>&lt;[federated.01hluep1c4uyqr10f6e900exp8ss].[none:BEAT:nk]&gt;</run>
+                <run>Æ&#10;</run>
+                <run bold='true' fontcolor='#000000'>Average Response Time:</run>
+                <run fontcolor='#787878'>Æ&#9;</run>
+                <run bold='true' fontcolor='#000000'>&lt;[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time:qk]&gt; (mins)</run>
+                <run>Æ&#10;</run>
+                <run bold='true'>&lt;Sheet name=&quot;priority_breakdown&quot; maxwidth=&quot;500&quot; maxheight=&quot;500&quot; filter=&quot;&lt;All Fields&gt;&quot;&gt;</run>
+                <run>Æ&#10;</run>
+                <run bold='true'>&lt;Sheet name=&quot;crime_breakdown&quot; maxwidth=&quot;500&quot; maxheight=&quot;500&quot; filter=&quot;&lt;All Fields&gt;&quot;&gt;</run>
+                <run>Æ&#10;&#10;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#a0cbe8' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-transparency' value='157' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.01hluep1c4uyqr10f6e900exp8ss].[Latitude (generated)]</rows>
+        <cols>[federated.01hluep1c4uyqr10f6e900exp8ss].[Longitude (generated)]</cols>
+        <annotations>
+          <annotation class='area' id='0' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text />
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord axis-value='-13649909.459411997'>
+                  <node-reference>
+                    <axis>[federated.01hluep1c4uyqr10f6e900exp8ss].[Longitude (generated)]</axis>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='6052478.0041205743'>
+                  <node-reference>
+                    <axis>[federated.01hluep1c4uyqr10f6e900exp8ss].[Latitude (generated)]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+                <projection name='EPSG:3857' u='-122.61922294237432' v='47.672110347057199' />
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord axis-value='-13630570.891255846'>
+                  <node-reference>
+                    <axis>[federated.01hluep1c4uyqr10f6e900exp8ss].[Longitude (generated)]</axis>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='6044757.8642637711'>
+                  <node-reference>
+                    <axis>[federated.01hluep1c4uyqr10f6e900exp8ss].[Latitude (generated)]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+                <projection name='EPSG:3857' u='-122.44550162889776' v='47.625390265699345' />
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+        </annotations>
+      </table>
+    </worksheet>
+    <worksheet name='priority_breakdown'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='SPD_BEATS_WGS84' name='federated.01hluep1c4uyqr10f6e900exp8ss' />
+          </datasources>
+          <datasource-dependencies datasource='federated.01hluep1c4uyqr10f6e900exp8ss'>
+            <column caption='Beat' datatype='string' name='[BEAT]' role='dimension' type='nominal' />
+            <column caption='Beat (priority agg.csv)' datatype='string' name='[Beat (priority_agg.csv)]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column-instance column='[avg_response_time (priority_agg.csv)]' derivation='Avg' name='[avg:avg_response_time (priority_agg.csv):qk]' pivot='key' type='quantitative' />
+            <column caption='Avg Response Time (Priority Agg.Csv)' datatype='real' name='[avg_response_time (priority_agg.csv)]' role='measure' type='quantitative' />
+            <column-instance column='[Beat (priority_agg.csv)]' derivation='None' name='[none:Beat (priority_agg.csv):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[priority]' derivation='None' name='[none:priority:nk]' pivot='key' type='nominal' />
+            <column caption='Priority' datatype='string' name='[priority]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.01hluep1c4uyqr10f6e900exp8ss].[Tooltip (Beat,Year)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action - priority_breakdown]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[BEAT]' />
+              <groupfilter function='level-members' level='[none:Year:ok]' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:priority:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;1&quot;</bucket>
+              <bucket>&quot;2&quot;</bucket>
+              <bucket>&quot;3 &amp; 4&quot;</bucket>
+              <bucket>&quot;5+&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]</column>
+            <column>[federated.01hluep1c4uyqr10f6e900exp8ss].[Tooltip (Beat,Year)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time (priority_agg.csv):qk]' scope='cols' value='Average Response Time' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Beat (priority_agg.csv):nk]' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.01hluep1c4uyqr10f6e900exp8ss].[none:Beat (priority_agg.csv):nk] / [federated.01hluep1c4uyqr10f6e900exp8ss].[none:priority:nk])</rows>
+        <cols>[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time (priority_agg.csv):qk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Dashboard 1'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
+      <datasources>
+        <datasource caption='SPD_BEATS_WGS84' name='federated.01hluep1c4uyqr10f6e900exp8ss' />
+      </datasources>
+      <datasource-dependencies datasource='federated.01hluep1c4uyqr10f6e900exp8ss'>
+        <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+        <column-instance column='[Year]' derivation='None' name='[none:Year:ok]' pivot='key' type='ordinal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98000' id='5' param='horz' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='98000' id='3' type='layout-basic' w='82400' x='800' y='1000'>
+              <zone h='98000' id='1' name='map' w='41200' x='42000' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49000' id='8' type='empty' w='41200' x='800' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49000' id='9' is-centered='0' is-scaled='1' param='/Users/allen/Desktop/Screen Shot 2019-11-23 at 12.20.35 AM.png' type='bitmap' w='41200' x='800' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='160' h='98000' id='4' is-fixed='true' param='vert' type='layout-flow' w='16000' x='83200' y='1000'>
+              <zone h='6500' id='6' mode='dropdown' name='map' param='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]' type='filter' w='16000' x='83200' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='8125' id='7' name='map' pane-specification-id='0' param='[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time:qk]' type='color' w='16000' x='83200' y='7500'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+    </dashboard>
+  </dashboards>
+  <windows source-height='51'>
+    <window class='worksheet' name='map'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='dropdown' param='[federated.01hluep1c4uyqr10f6e900exp8ss].[none:Year:ok]' type='filter' />
+            <card pane-specification-id='0' param='[federated.01hluep1c4uyqr10f6e900exp8ss].[avg:avg_response_time:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+    <window class='worksheet' name='crime_breakdown'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+    <window class='worksheet' name='priority_breakdown'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='map'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='9' />
+    </window>
+    <window class='worksheet' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+  </windows>
+</workbook>
