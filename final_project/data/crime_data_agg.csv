@@ -1,0 +1,4243 @@
+Year,BEAT,Crime Group,Crime Category,crime_counts
+2008,B1,Person Crime,Aggravated Assault,23
+2008,B1,Person Crime,Homicide,1
+2008,B1,Person Crime,Rape,2
+2008,B1,Person Crime,Robbery,20
+2008,B1,Property Crime,Burglary,127
+2008,B1,Property Crime,Larceny-Theft,553
+2008,B1,Property Crime,Motor Vehicle Theft,76
+2008,B2,Person Crime,Aggravated Assault,25
+2008,B2,Person Crime,Rape,3
+2008,B2,Person Crime,Robbery,21
+2008,B2,Property Crime,Arson,3
+2008,B2,Property Crime,Burglary,175
+2008,B2,Property Crime,Larceny-Theft,748
+2008,B2,Property Crime,Motor Vehicle Theft,156
+2008,B3,Person Crime,Aggravated Assault,22
+2008,B3,Person Crime,Rape,2
+2008,B3,Person Crime,Robbery,21
+2008,B3,Property Crime,Burglary,215
+2008,B3,Property Crime,Larceny-Theft,574
+2008,B3,Property Crime,Motor Vehicle Theft,143
+2008,C1,Person Crime,Aggravated Assault,10
+2008,C1,Person Crime,Rape,1
+2008,C1,Person Crime,Robbery,19
+2008,C1,Property Crime,Burglary,126
+2008,C1,Property Crime,Larceny-Theft,312
+2008,C1,Property Crime,Motor Vehicle Theft,96
+2008,C2,Person Crime,Aggravated Assault,10
+2008,C2,Person Crime,Rape,1
+2008,C2,Person Crime,Robbery,15
+2008,C2,Property Crime,Burglary,115
+2008,C2,Property Crime,Larceny-Theft,243
+2008,C2,Property Crime,Motor Vehicle Theft,63
+2008,C3,Person Crime,Aggravated Assault,23
+2008,C3,Person Crime,Homicide,1
+2008,C3,Person Crime,Rape,3
+2008,C3,Person Crime,Robbery,34
+2008,C3,Property Crime,Burglary,202
+2008,C3,Property Crime,Larceny-Theft,273
+2008,C3,Property Crime,Motor Vehicle Theft,61
+2008,D1,Person Crime,Aggravated Assault,56
+2008,D1,Person Crime,Rape,4
+2008,D1,Person Crime,Robbery,39
+2008,D1,Property Crime,Arson,1
+2008,D1,Property Crime,Burglary,106
+2008,D1,Property Crime,Larceny-Theft,554
+2008,D1,Property Crime,Motor Vehicle Theft,67
+2008,D2,Person Crime,Aggravated Assault,29
+2008,D2,Person Crime,Rape,3
+2008,D2,Person Crime,Robbery,21
+2008,D2,Property Crime,Arson,1
+2008,D2,Property Crime,Burglary,121
+2008,D2,Property Crime,Larceny-Theft,616
+2008,D2,Property Crime,Motor Vehicle Theft,61
+2008,D3,Person Crime,Aggravated Assault,29
+2008,D3,Person Crime,Rape,8
+2008,D3,Person Crime,Robbery,32
+2008,D3,Property Crime,Burglary,157
+2008,D3,Property Crime,Larceny-Theft,882
+2008,D3,Property Crime,Motor Vehicle Theft,72
+2008,E1,Person Crime,Aggravated Assault,28
+2008,E1,Person Crime,Rape,1
+2008,E1,Person Crime,Robbery,33
+2008,E1,Property Crime,Arson,3
+2008,E1,Property Crime,Burglary,98
+2008,E1,Property Crime,Larceny-Theft,326
+2008,E1,Property Crime,Motor Vehicle Theft,77
+2008,E2,Person Crime,Aggravated Assault,47
+2008,E2,Person Crime,Homicide,1
+2008,E2,Person Crime,Rape,2
+2008,E2,Person Crime,Robbery,36
+2008,E2,Property Crime,Arson,1
+2008,E2,Property Crime,Burglary,52
+2008,E2,Property Crime,Larceny-Theft,530
+2008,E2,Property Crime,Motor Vehicle Theft,59
+2008,E3,Person Crime,Aggravated Assault,28
+2008,E3,Person Crime,Homicide,6
+2008,E3,Person Crime,Rape,3
+2008,E3,Person Crime,Robbery,40
+2008,E3,Property Crime,Arson,2
+2008,E3,Property Crime,Burglary,102
+2008,E3,Property Crime,Larceny-Theft,586
+2008,E3,Property Crime,Motor Vehicle Theft,69
+2008,F1,Person Crime,Aggravated Assault,24
+2008,F1,Person Crime,Rape,5
+2008,F1,Person Crime,Robbery,17
+2008,F1,Property Crime,Arson,1
+2008,F1,Property Crime,Burglary,113
+2008,F1,Property Crime,Larceny-Theft,248
+2008,F1,Property Crime,Motor Vehicle Theft,62
+2008,F2,Person Crime,Aggravated Assault,21
+2008,F2,Person Crime,Rape,3
+2008,F2,Person Crime,Robbery,27
+2008,F2,Property Crime,Arson,2
+2008,F2,Property Crime,Burglary,100
+2008,F2,Property Crime,Larceny-Theft,283
+2008,F2,Property Crime,Motor Vehicle Theft,67
+2008,F3,Person Crime,Aggravated Assault,30
+2008,F3,Person Crime,Homicide,1
+2008,F3,Person Crime,Rape,3
+2008,F3,Person Crime,Robbery,20
+2008,F3,Property Crime,Arson,1
+2008,F3,Property Crime,Burglary,147
+2008,F3,Property Crime,Larceny-Theft,233
+2008,F3,Property Crime,Motor Vehicle Theft,79
+2008,G1,Person Crime,Aggravated Assault,36
+2008,G1,Person Crime,Rape,2
+2008,G1,Person Crime,Robbery,42
+2008,G1,Property Crime,Burglary,60
+2008,G1,Property Crime,Larceny-Theft,273
+2008,G1,Property Crime,Motor Vehicle Theft,42
+2008,G2,Person Crime,Aggravated Assault,35
+2008,G2,Person Crime,Homicide,2
+2008,G2,Person Crime,Rape,4
+2008,G2,Person Crime,Robbery,39
+2008,G2,Property Crime,Arson,1
+2008,G2,Property Crime,Burglary,138
+2008,G2,Property Crime,Larceny-Theft,328
+2008,G2,Property Crime,Motor Vehicle Theft,86
+2008,G3,Person Crime,Aggravated Assault,39
+2008,G3,Person Crime,Rape,3
+2008,G3,Person Crime,Robbery,33
+2008,G3,Property Crime,Arson,1
+2008,G3,Property Crime,Burglary,109
+2008,G3,Property Crime,Larceny-Theft,249
+2008,G3,Property Crime,Motor Vehicle Theft,53
+2008,J1,Person Crime,Aggravated Assault,28
+2008,J1,Person Crime,Homicide,3
+2008,J1,Person Crime,Rape,7
+2008,J1,Person Crime,Robbery,40
+2008,J1,Property Crime,Arson,3
+2008,J1,Property Crime,Burglary,147
+2008,J1,Property Crime,Larceny-Theft,402
+2008,J1,Property Crime,Motor Vehicle Theft,76
+2008,J2,Person Crime,Aggravated Assault,9
+2008,J2,Person Crime,Rape,2
+2008,J2,Person Crime,Robbery,10
+2008,J2,Property Crime,Arson,2
+2008,J2,Property Crime,Burglary,122
+2008,J2,Property Crime,Larceny-Theft,436
+2008,J2,Property Crime,Motor Vehicle Theft,114
+2008,J3,Person Crime,Aggravated Assault,8
+2008,J3,Person Crime,Rape,2
+2008,J3,Person Crime,Robbery,17
+2008,J3,Property Crime,Arson,2
+2008,J3,Property Crime,Burglary,103
+2008,J3,Property Crime,Larceny-Theft,389
+2008,J3,Property Crime,Motor Vehicle Theft,78
+2008,K1,Person Crime,Aggravated Assault,26
+2008,K1,Person Crime,Homicide,1
+2008,K1,Person Crime,Rape,1
+2008,K1,Person Crime,Robbery,33
+2008,K1,Property Crime,Burglary,56
+2008,K1,Property Crime,Larceny-Theft,643
+2008,K1,Property Crime,Motor Vehicle Theft,43
+2008,K2,Person Crime,Aggravated Assault,69
+2008,K2,Person Crime,Rape,5
+2008,K2,Person Crime,Robbery,64
+2008,K2,Property Crime,Burglary,42
+2008,K2,Property Crime,Larceny-Theft,852
+2008,K2,Property Crime,Motor Vehicle Theft,74
+2008,K3,Person Crime,Aggravated Assault,61
+2008,K3,Person Crime,Homicide,1
+2008,K3,Person Crime,Rape,5
+2008,K3,Person Crime,Robbery,87
+2008,K3,Property Crime,Arson,3
+2008,K3,Property Crime,Burglary,43
+2008,K3,Property Crime,Larceny-Theft,1296
+2008,K3,Property Crime,Motor Vehicle Theft,103
+2008,L1,Person Crime,Aggravated Assault,32
+2008,L1,Person Crime,Homicide,1
+2008,L1,Person Crime,Rape,3
+2008,L1,Person Crime,Robbery,22
+2008,L1,Property Crime,Arson,5
+2008,L1,Property Crime,Burglary,139
+2008,L1,Property Crime,Larceny-Theft,358
+2008,L1,Property Crime,Motor Vehicle Theft,85
+2008,L2,Person Crime,Aggravated Assault,17
+2008,L2,Person Crime,Homicide,1
+2008,L2,Person Crime,Robbery,43
+2008,L2,Property Crime,Arson,1
+2008,L2,Property Crime,Burglary,145
+2008,L2,Property Crime,Larceny-Theft,803
+2008,L2,Property Crime,Motor Vehicle Theft,72
+2008,L3,Person Crime,Aggravated Assault,17
+2008,L3,Person Crime,Rape,2
+2008,L3,Person Crime,Robbery,17
+2008,L3,Property Crime,Arson,3
+2008,L3,Property Crime,Burglary,163
+2008,L3,Property Crime,Larceny-Theft,419
+2008,L3,Property Crime,Motor Vehicle Theft,34
+2008,M1,Person Crime,Aggravated Assault,30
+2008,M1,Person Crime,Rape,4
+2008,M1,Person Crime,Robbery,35
+2008,M1,Property Crime,Burglary,37
+2008,M1,Property Crime,Larceny-Theft,729
+2008,M1,Property Crime,Motor Vehicle Theft,27
+2008,M2,Person Crime,Aggravated Assault,22
+2008,M2,Person Crime,Homicide,1
+2008,M2,Person Crime,Rape,2
+2008,M2,Person Crime,Robbery,33
+2008,M2,Property Crime,Burglary,47
+2008,M2,Property Crime,Larceny-Theft,729
+2008,M2,Property Crime,Motor Vehicle Theft,16
+2008,M3,Person Crime,Aggravated Assault,36
+2008,M3,Person Crime,Rape,2
+2008,M3,Person Crime,Robbery,79
+2008,M3,Property Crime,Burglary,26
+2008,M3,Property Crime,Larceny-Theft,768
+2008,M3,Property Crime,Motor Vehicle Theft,9
+2008,N1,Person Crime,Aggravated Assault,14
+2008,N1,Person Crime,Rape,1
+2008,N1,Person Crime,Robbery,11
+2008,N1,Property Crime,Burglary,158
+2008,N1,Property Crime,Larceny-Theft,347
+2008,N1,Property Crime,Motor Vehicle Theft,62
+2008,N2,Person Crime,Aggravated Assault,16
+2008,N2,Person Crime,Rape,1
+2008,N2,Person Crime,Robbery,28
+2008,N2,Property Crime,Arson,2
+2008,N2,Property Crime,Burglary,137
+2008,N2,Property Crime,Larceny-Theft,401
+2008,N2,Property Crime,Motor Vehicle Theft,57
+2008,N3,Person Crime,Aggravated Assault,25
+2008,N3,Person Crime,Rape,1
+2008,N3,Person Crime,Robbery,35
+2008,N3,Property Crime,Arson,1
+2008,N3,Property Crime,Burglary,89
+2008,N3,Property Crime,Larceny-Theft,266
+2008,N3,Property Crime,Motor Vehicle Theft,92
+2008,O1,Person Crime,Aggravated Assault,18
+2008,O1,Person Crime,Rape,5
+2008,O1,Person Crime,Robbery,14
+2008,O1,Property Crime,Arson,3
+2008,O1,Property Crime,Burglary,57
+2008,O1,Property Crime,Larceny-Theft,351
+2008,O1,Property Crime,Motor Vehicle Theft,33
+2008,O2,Person Crime,Aggravated Assault,15
+2008,O2,Person Crime,Homicide,1
+2008,O2,Person Crime,Rape,1
+2008,O2,Person Crime,Robbery,10
+2008,O2,Property Crime,Arson,4
+2008,O2,Property Crime,Burglary,71
+2008,O2,Property Crime,Larceny-Theft,161
+2008,O2,Property Crime,Motor Vehicle Theft,51
+2008,O3,Person Crime,Aggravated Assault,20
+2008,O3,Person Crime,Rape,1
+2008,O3,Person Crime,Robbery,20
+2008,O3,Property Crime,Arson,4
+2008,O3,Property Crime,Burglary,97
+2008,O3,Property Crime,Larceny-Theft,137
+2008,O3,Property Crime,Motor Vehicle Theft,58
+2008,Q1,Person Crime,Aggravated Assault,16
+2008,Q1,Person Crime,Rape,1
+2008,Q1,Person Crime,Robbery,6
+2008,Q1,Property Crime,Arson,2
+2008,Q1,Property Crime,Burglary,113
+2008,Q1,Property Crime,Larceny-Theft,285
+2008,Q1,Property Crime,Motor Vehicle Theft,55
+2008,Q2,Person Crime,Aggravated Assault,15
+2008,Q2,Person Crime,Rape,5
+2008,Q2,Person Crime,Robbery,12
+2008,Q2,Property Crime,Arson,2
+2008,Q2,Property Crime,Burglary,190
+2008,Q2,Property Crime,Larceny-Theft,598
+2008,Q2,Property Crime,Motor Vehicle Theft,136
+2008,Q3,Person Crime,Aggravated Assault,32
+2008,Q3,Person Crime,Homicide,2
+2008,Q3,Person Crime,Rape,2
+2008,Q3,Person Crime,Robbery,27
+2008,Q3,Property Crime,Arson,2
+2008,Q3,Property Crime,Burglary,143
+2008,Q3,Property Crime,Larceny-Theft,898
+2008,Q3,Property Crime,Motor Vehicle Theft,80
+2008,R1,Person Crime,Aggravated Assault,43
+2008,R1,Person Crime,Homicide,4
+2008,R1,Person Crime,Rape,6
+2008,R1,Person Crime,Robbery,52
+2008,R1,Property Crime,Arson,1
+2008,R1,Property Crime,Burglary,261
+2008,R1,Property Crime,Larceny-Theft,494
+2008,R1,Property Crime,Motor Vehicle Theft,128
+2008,R2,Person Crime,Aggravated Assault,41
+2008,R2,Person Crime,Rape,10
+2008,R2,Person Crime,Robbery,76
+2008,R2,Property Crime,Arson,4
+2008,R2,Property Crime,Burglary,195
+2008,R2,Property Crime,Larceny-Theft,464
+2008,R2,Property Crime,Motor Vehicle Theft,84
+2008,R3,Person Crime,Aggravated Assault,45
+2008,R3,Person Crime,Homicide,1
+2008,R3,Person Crime,Rape,3
+2008,R3,Person Crime,Robbery,56
+2008,R3,Property Crime,Arson,2
+2008,R3,Property Crime,Burglary,233
+2008,R3,Property Crime,Larceny-Theft,477
+2008,R3,Property Crime,Motor Vehicle Theft,104
+2008,S1,Person Crime,Aggravated Assault,40
+2008,S1,Person Crime,Rape,3
+2008,S1,Person Crime,Robbery,59
+2008,S1,Property Crime,Arson,3
+2008,S1,Property Crime,Burglary,274
+2008,S1,Property Crime,Larceny-Theft,264
+2008,S1,Property Crime,Motor Vehicle Theft,100
+2008,S2,Person Crime,Aggravated Assault,65
+2008,S2,Person Crime,Homicide,3
+2008,S2,Person Crime,Rape,6
+2008,S2,Person Crime,Robbery,65
+2008,S2,Property Crime,Arson,6
+2008,S2,Property Crime,Burglary,172
+2008,S2,Property Crime,Larceny-Theft,332
+2008,S2,Property Crime,Motor Vehicle Theft,78
+2008,S3,Person Crime,Aggravated Assault,48
+2008,S3,Person Crime,Homicide,2
+2008,S3,Person Crime,Rape,1
+2008,S3,Person Crime,Robbery,48
+2008,S3,Property Crime,Arson,2
+2008,S3,Property Crime,Burglary,188
+2008,S3,Property Crime,Larceny-Theft,410
+2008,S3,Property Crime,Motor Vehicle Theft,90
+2008,U1,Person Crime,Aggravated Assault,32
+2008,U1,Person Crime,Rape,4
+2008,U1,Person Crime,Robbery,47
+2008,U1,Property Crime,Arson,3
+2008,U1,Property Crime,Burglary,244
+2008,U1,Property Crime,Larceny-Theft,512
+2008,U1,Property Crime,Motor Vehicle Theft,181
+2008,U2,Person Crime,Aggravated Assault,27
+2008,U2,Person Crime,Robbery,51
+2008,U2,Property Crime,Arson,4
+2008,U2,Property Crime,Burglary,92
+2008,U2,Property Crime,Larceny-Theft,513
+2008,U2,Property Crime,Motor Vehicle Theft,68
+2008,U3,Person Crime,Aggravated Assault,12
+2008,U3,Person Crime,Homicide,1
+2008,U3,Person Crime,Rape,2
+2008,U3,Person Crime,Robbery,23
+2008,U3,Property Crime,Arson,1
+2008,U3,Property Crime,Burglary,229
+2008,U3,Property Crime,Larceny-Theft,585
+2008,U3,Property Crime,Motor Vehicle Theft,75
+2008,W1,Person Crime,Aggravated Assault,15
+2008,W1,Person Crime,Rape,3
+2008,W1,Person Crime,Robbery,15
+2008,W1,Property Crime,Burglary,124
+2008,W1,Property Crime,Larceny-Theft,406
+2008,W1,Property Crime,Motor Vehicle Theft,56
+2008,W2,Person Crime,Aggravated Assault,22
+2008,W2,Person Crime,Rape,4
+2008,W2,Person Crime,Robbery,19
+2008,W2,Property Crime,Burglary,140
+2008,W2,Property Crime,Larceny-Theft,321
+2008,W2,Property Crime,Motor Vehicle Theft,69
+2008,W3,Person Crime,Aggravated Assault,14
+2008,W3,Person Crime,Robbery,8
+2008,W3,Property Crime,Arson,1
+2008,W3,Property Crime,Burglary,151
+2008,W3,Property Crime,Larceny-Theft,281
+2008,W3,Property Crime,Motor Vehicle Theft,45
+2009,B1,Person Crime,Aggravated Assault,26
+2009,B1,Person Crime,Homicide,1
+2009,B1,Person Crime,Rape,1
+2009,B1,Person Crime,Robbery,26
+2009,B1,Property Crime,Arson,3
+2009,B1,Property Crime,Burglary,103
+2009,B1,Property Crime,Larceny-Theft,421
+2009,B1,Property Crime,Motor Vehicle Theft,56
+2009,B2,Person Crime,Aggravated Assault,50
+2009,B2,Person Crime,Rape,3
+2009,B2,Person Crime,Robbery,32
+2009,B2,Property Crime,Burglary,151
+2009,B2,Property Crime,Larceny-Theft,691
+2009,B2,Property Crime,Motor Vehicle Theft,134
+2009,B3,Person Crime,Aggravated Assault,38
+2009,B3,Person Crime,Rape,4
+2009,B3,Person Crime,Robbery,35
+2009,B3,Property Crime,Burglary,193
+2009,B3,Property Crime,Larceny-Theft,652
+2009,B3,Property Crime,Motor Vehicle Theft,124
+2009,C1,Person Crime,Aggravated Assault,15
+2009,C1,Person Crime,Homicide,1
+2009,C1,Person Crime,Rape,1
+2009,C1,Person Crime,Robbery,17
+2009,C1,Property Crime,Burglary,109
+2009,C1,Property Crime,Larceny-Theft,378
+2009,C1,Property Crime,Motor Vehicle Theft,91
+2009,C2,Person Crime,Aggravated Assault,11
+2009,C2,Person Crime,Rape,1
+2009,C2,Person Crime,Robbery,11
+2009,C2,Property Crime,Burglary,125
+2009,C2,Property Crime,Larceny-Theft,269
+2009,C2,Property Crime,Motor Vehicle Theft,49
+2009,C3,Person Crime,Aggravated Assault,23
+2009,C3,Person Crime,Rape,2
+2009,C3,Person Crime,Robbery,34
+2009,C3,Property Crime,Arson,1
+2009,C3,Property Crime,Burglary,161
+2009,C3,Property Crime,Larceny-Theft,260
+2009,C3,Property Crime,Motor Vehicle Theft,43
+2009,D1,Person Crime,Aggravated Assault,72
+2009,D1,Person Crime,Homicide,1
+2009,D1,Person Crime,Rape,6
+2009,D1,Person Crime,Robbery,57
+2009,D1,Property Crime,Arson,3
+2009,D1,Property Crime,Burglary,109
+2009,D1,Property Crime,Larceny-Theft,688
+2009,D1,Property Crime,Motor Vehicle Theft,44
+2009,D2,Person Crime,Aggravated Assault,30
+2009,D2,Person Crime,Rape,3
+2009,D2,Person Crime,Robbery,34
+2009,D2,Property Crime,Arson,1
+2009,D2,Property Crime,Burglary,90
+2009,D2,Property Crime,Larceny-Theft,878
+2009,D2,Property Crime,Motor Vehicle Theft,56
+2009,D3,Person Crime,Aggravated Assault,38
+2009,D3,Person Crime,Rape,3
+2009,D3,Person Crime,Robbery,27
+2009,D3,Property Crime,Arson,6
+2009,D3,Property Crime,Burglary,131
+2009,D3,Property Crime,Larceny-Theft,1042
+2009,D3,Property Crime,Motor Vehicle Theft,82
+2009,E1,Person Crime,Aggravated Assault,25
+2009,E1,Person Crime,Rape,3
+2009,E1,Person Crime,Robbery,30
+2009,E1,Property Crime,Arson,4
+2009,E1,Property Crime,Burglary,110
+2009,E1,Property Crime,Larceny-Theft,418
+2009,E1,Property Crime,Motor Vehicle Theft,67
+2009,E2,Person Crime,Aggravated Assault,35
+2009,E2,Person Crime,Homicide,1
+2009,E2,Person Crime,Rape,3
+2009,E2,Person Crime,Robbery,35
+2009,E2,Property Crime,Arson,6
+2009,E2,Property Crime,Burglary,60
+2009,E2,Property Crime,Larceny-Theft,704
+2009,E2,Property Crime,Motor Vehicle Theft,61
+2009,E3,Person Crime,Aggravated Assault,32
+2009,E3,Person Crime,Homicide,1
+2009,E3,Person Crime,Rape,7
+2009,E3,Person Crime,Robbery,42
+2009,E3,Property Crime,Arson,1
+2009,E3,Property Crime,Burglary,108
+2009,E3,Property Crime,Larceny-Theft,818
+2009,E3,Property Crime,Motor Vehicle Theft,79
+2009,F1,Person Crime,Aggravated Assault,48
+2009,F1,Person Crime,Rape,5
+2009,F1,Person Crime,Robbery,20
+2009,F1,Property Crime,Burglary,116
+2009,F1,Property Crime,Larceny-Theft,263
+2009,F1,Property Crime,Motor Vehicle Theft,79
+2009,F2,Person Crime,Aggravated Assault,21
+2009,F2,Person Crime,Rape,1
+2009,F2,Person Crime,Robbery,25
+2009,F2,Property Crime,Arson,5
+2009,F2,Property Crime,Burglary,91
+2009,F2,Property Crime,Larceny-Theft,363
+2009,F2,Property Crime,Motor Vehicle Theft,58
+2009,F3,Person Crime,Aggravated Assault,48
+2009,F3,Person Crime,Homicide,1
+2009,F3,Person Crime,Rape,1
+2009,F3,Person Crime,Robbery,34
+2009,F3,Property Crime,Arson,3
+2009,F3,Property Crime,Burglary,160
+2009,F3,Property Crime,Larceny-Theft,223
+2009,F3,Property Crime,Motor Vehicle Theft,75
+2009,G1,Person Crime,Aggravated Assault,32
+2009,G1,Person Crime,Rape,11
+2009,G1,Person Crime,Robbery,29
+2009,G1,Property Crime,Burglary,61
+2009,G1,Property Crime,Larceny-Theft,233
+2009,G1,Property Crime,Motor Vehicle Theft,25
+2009,G2,Person Crime,Aggravated Assault,42
+2009,G2,Person Crime,Homicide,2
+2009,G2,Person Crime,Rape,2
+2009,G2,Person Crime,Robbery,57
+2009,G2,Property Crime,Arson,2
+2009,G2,Property Crime,Burglary,199
+2009,G2,Property Crime,Larceny-Theft,313
+2009,G2,Property Crime,Motor Vehicle Theft,50
+2009,G3,Person Crime,Aggravated Assault,34
+2009,G3,Person Crime,Homicide,2
+2009,G3,Person Crime,Robbery,31
+2009,G3,Property Crime,Arson,1
+2009,G3,Property Crime,Burglary,124
+2009,G3,Property Crime,Larceny-Theft,195
+2009,G3,Property Crime,Motor Vehicle Theft,30
+2009,J1,Person Crime,Aggravated Assault,43
+2009,J1,Person Crime,Rape,2
+2009,J1,Person Crime,Robbery,47
+2009,J1,Property Crime,Arson,6
+2009,J1,Property Crime,Burglary,155
+2009,J1,Property Crime,Larceny-Theft,441
+2009,J1,Property Crime,Motor Vehicle Theft,88
+2009,J2,Person Crime,Aggravated Assault,18
+2009,J2,Person Crime,Robbery,13
+2009,J2,Property Crime,Arson,1
+2009,J2,Property Crime,Burglary,133
+2009,J2,Property Crime,Larceny-Theft,492
+2009,J2,Property Crime,Motor Vehicle Theft,73
+2009,J3,Person Crime,Aggravated Assault,19
+2009,J3,Person Crime,Rape,2
+2009,J3,Person Crime,Robbery,21
+2009,J3,Property Crime,Arson,5
+2009,J3,Property Crime,Burglary,130
+2009,J3,Property Crime,Larceny-Theft,691
+2009,J3,Property Crime,Motor Vehicle Theft,68
+2009,K1,Person Crime,Aggravated Assault,26
+2009,K1,Person Crime,Rape,2
+2009,K1,Person Crime,Robbery,58
+2009,K1,Property Crime,Arson,1
+2009,K1,Property Crime,Burglary,67
+2009,K1,Property Crime,Larceny-Theft,806
+2009,K1,Property Crime,Motor Vehicle Theft,29
+2009,K2,Person Crime,Aggravated Assault,67
+2009,K2,Person Crime,Rape,3
+2009,K2,Person Crime,Robbery,64
+2009,K2,Property Crime,Arson,3
+2009,K2,Property Crime,Burglary,56
+2009,K2,Property Crime,Larceny-Theft,823
+2009,K2,Property Crime,Motor Vehicle Theft,58
+2009,K3,Person Crime,Aggravated Assault,58
+2009,K3,Person Crime,Rape,10
+2009,K3,Person Crime,Robbery,89
+2009,K3,Property Crime,Arson,2
+2009,K3,Property Crime,Burglary,110
+2009,K3,Property Crime,Larceny-Theft,1245
+2009,K3,Property Crime,Motor Vehicle Theft,67
+2009,L1,Person Crime,Aggravated Assault,38
+2009,L1,Person Crime,Rape,3
+2009,L1,Person Crime,Robbery,24
+2009,L1,Property Crime,Arson,2
+2009,L1,Property Crime,Burglary,148
+2009,L1,Property Crime,Larceny-Theft,306
+2009,L1,Property Crime,Motor Vehicle Theft,52
+2009,L2,Person Crime,Aggravated Assault,32
+2009,L2,Person Crime,Rape,1
+2009,L2,Person Crime,Robbery,45
+2009,L2,Property Crime,Arson,1
+2009,L2,Property Crime,Burglary,167
+2009,L2,Property Crime,Larceny-Theft,737
+2009,L2,Property Crime,Motor Vehicle Theft,75
+2009,L3,Person Crime,Aggravated Assault,18
+2009,L3,Person Crime,Rape,1
+2009,L3,Person Crime,Robbery,26
+2009,L3,Property Crime,Arson,2
+2009,L3,Property Crime,Burglary,153
+2009,L3,Property Crime,Larceny-Theft,386
+2009,L3,Property Crime,Motor Vehicle Theft,35
+2009,M1,Person Crime,Aggravated Assault,27
+2009,M1,Person Crime,Homicide,1
+2009,M1,Person Crime,Robbery,36
+2009,M1,Property Crime,Burglary,42
+2009,M1,Property Crime,Larceny-Theft,889
+2009,M1,Property Crime,Motor Vehicle Theft,35
+2009,M2,Person Crime,Aggravated Assault,29
+2009,M2,Person Crime,Rape,2
+2009,M2,Person Crime,Robbery,46
+2009,M2,Property Crime,Arson,1
+2009,M2,Property Crime,Burglary,25
+2009,M2,Property Crime,Larceny-Theft,872
+2009,M2,Property Crime,Motor Vehicle Theft,20
+2009,M3,Person Crime,Aggravated Assault,38
+2009,M3,Person Crime,Rape,1
+2009,M3,Person Crime,Robbery,61
+2009,M3,Property Crime,Arson,2
+2009,M3,Property Crime,Burglary,34
+2009,M3,Property Crime,Larceny-Theft,840
+2009,M3,Property Crime,Motor Vehicle Theft,8
+2009,N1,Person Crime,Aggravated Assault,18
+2009,N1,Person Crime,Rape,4
+2009,N1,Person Crime,Robbery,22
+2009,N1,Property Crime,Arson,1
+2009,N1,Property Crime,Burglary,186
+2009,N1,Property Crime,Larceny-Theft,429
+2009,N1,Property Crime,Motor Vehicle Theft,72
+2009,N2,Person Crime,Aggravated Assault,37
+2009,N2,Person Crime,Homicide,1
+2009,N2,Person Crime,Rape,5
+2009,N2,Person Crime,Robbery,36
+2009,N2,Property Crime,Arson,2
+2009,N2,Property Crime,Burglary,117
+2009,N2,Property Crime,Larceny-Theft,396
+2009,N2,Property Crime,Motor Vehicle Theft,49
+2009,N3,Person Crime,Aggravated Assault,24
+2009,N3,Person Crime,Rape,4
+2009,N3,Person Crime,Robbery,46
+2009,N3,Property Crime,Arson,8
+2009,N3,Property Crime,Burglary,129
+2009,N3,Property Crime,Larceny-Theft,340
+2009,N3,Property Crime,Motor Vehicle Theft,100
+2009,O1,Person Crime,Aggravated Assault,23
+2009,O1,Person Crime,Homicide,2
+2009,O1,Person Crime,Rape,2
+2009,O1,Person Crime,Robbery,14
+2009,O1,Property Crime,Burglary,43
+2009,O1,Property Crime,Larceny-Theft,377
+2009,O1,Property Crime,Motor Vehicle Theft,26
+2009,O2,Person Crime,Aggravated Assault,9
+2009,O2,Person Crime,Robbery,16
+2009,O2,Property Crime,Burglary,37
+2009,O2,Property Crime,Larceny-Theft,166
+2009,O2,Property Crime,Motor Vehicle Theft,25
+2009,O3,Person Crime,Aggravated Assault,25
+2009,O3,Person Crime,Homicide,1
+2009,O3,Person Crime,Rape,1
+2009,O3,Person Crime,Robbery,20
+2009,O3,Property Crime,Arson,1
+2009,O3,Property Crime,Burglary,55
+2009,O3,Property Crime,Larceny-Theft,123
+2009,O3,Property Crime,Motor Vehicle Theft,22
+2009,Q1,Person Crime,Aggravated Assault,19
+2009,Q1,Person Crime,Rape,1
+2009,Q1,Person Crime,Robbery,12
+2009,Q1,Property Crime,Burglary,157
+2009,Q1,Property Crime,Larceny-Theft,386
+2009,Q1,Property Crime,Motor Vehicle Theft,46
+2009,Q2,Person Crime,Aggravated Assault,17
+2009,Q2,Person Crime,Rape,1
+2009,Q2,Person Crime,Robbery,16
+2009,Q2,Property Crime,Arson,10
+2009,Q2,Property Crime,Burglary,178
+2009,Q2,Property Crime,Larceny-Theft,519
+2009,Q2,Property Crime,Motor Vehicle Theft,86
+2009,Q3,Person Crime,Aggravated Assault,23
+2009,Q3,Person Crime,Rape,2
+2009,Q3,Person Crime,Robbery,34
+2009,Q3,Property Crime,Arson,3
+2009,Q3,Property Crime,Burglary,135
+2009,Q3,Property Crime,Larceny-Theft,1016
+2009,Q3,Property Crime,Motor Vehicle Theft,89
+2009,R1,Person Crime,Aggravated Assault,49
+2009,R1,Person Crime,Homicide,1
+2009,R1,Person Crime,Rape,3
+2009,R1,Person Crime,Robbery,53
+2009,R1,Property Crime,Arson,5
+2009,R1,Property Crime,Burglary,270
+2009,R1,Property Crime,Larceny-Theft,504
+2009,R1,Property Crime,Motor Vehicle Theft,123
+2009,R2,Person Crime,Aggravated Assault,46
+2009,R2,Person Crime,Homicide,1
+2009,R2,Person Crime,Robbery,60
+2009,R2,Property Crime,Arson,3
+2009,R2,Property Crime,Burglary,194
+2009,R2,Property Crime,Larceny-Theft,462
+2009,R2,Property Crime,Motor Vehicle Theft,66
+2009,R3,Person Crime,Aggravated Assault,53
+2009,R3,Person Crime,Rape,2
+2009,R3,Person Crime,Robbery,52
+2009,R3,Property Crime,Arson,7
+2009,R3,Property Crime,Burglary,196
+2009,R3,Property Crime,Larceny-Theft,437
+2009,R3,Property Crime,Motor Vehicle Theft,71
+2009,S1,Person Crime,Aggravated Assault,45
+2009,S1,Person Crime,Homicide,1
+2009,S1,Person Crime,Robbery,50
+2009,S1,Property Crime,Arson,3
+2009,S1,Property Crime,Burglary,238
+2009,S1,Property Crime,Larceny-Theft,272
+2009,S1,Property Crime,Motor Vehicle Theft,106
+2009,S2,Person Crime,Aggravated Assault,90
+2009,S2,Person Crime,Homicide,1
+2009,S2,Person Crime,Rape,5
+2009,S2,Person Crime,Robbery,70
+2009,S2,Property Crime,Arson,3
+2009,S2,Property Crime,Burglary,130
+2009,S2,Property Crime,Larceny-Theft,315
+2009,S2,Property Crime,Motor Vehicle Theft,102
+2009,S3,Person Crime,Aggravated Assault,46
+2009,S3,Person Crime,Rape,2
+2009,S3,Person Crime,Robbery,60
+2009,S3,Property Crime,Burglary,219
+2009,S3,Property Crime,Larceny-Theft,417
+2009,S3,Property Crime,Motor Vehicle Theft,80
+2009,U1,Person Crime,Aggravated Assault,36
+2009,U1,Person Crime,Rape,3
+2009,U1,Person Crime,Robbery,53
+2009,U1,Property Crime,Arson,8
+2009,U1,Property Crime,Burglary,222
+2009,U1,Property Crime,Larceny-Theft,634
+2009,U1,Property Crime,Motor Vehicle Theft,147
+2009,U2,Person Crime,Aggravated Assault,51
+2009,U2,Person Crime,Rape,4
+2009,U2,Person Crime,Robbery,50
+2009,U2,Property Crime,Arson,18
+2009,U2,Property Crime,Burglary,86
+2009,U2,Property Crime,Larceny-Theft,551
+2009,U2,Property Crime,Motor Vehicle Theft,43
+2009,U3,Person Crime,Aggravated Assault,13
+2009,U3,Person Crime,Rape,2
+2009,U3,Person Crime,Robbery,24
+2009,U3,Property Crime,Arson,4
+2009,U3,Property Crime,Burglary,239
+2009,U3,Property Crime,Larceny-Theft,741
+2009,U3,Property Crime,Motor Vehicle Theft,76
+2009,W1,Person Crime,Aggravated Assault,28
+2009,W1,Person Crime,Robbery,15
+2009,W1,Property Crime,Arson,3
+2009,W1,Property Crime,Burglary,177
+2009,W1,Property Crime,Larceny-Theft,403
+2009,W1,Property Crime,Motor Vehicle Theft,42
+2009,W2,Person Crime,Aggravated Assault,35
+2009,W2,Person Crime,Homicide,2
+2009,W2,Person Crime,Rape,1
+2009,W2,Person Crime,Robbery,30
+2009,W2,Property Crime,Arson,1
+2009,W2,Property Crime,Burglary,195
+2009,W2,Property Crime,Larceny-Theft,423
+2009,W2,Property Crime,Motor Vehicle Theft,83
+2009,W3,Person Crime,Aggravated Assault,16
+2009,W3,Person Crime,Rape,1
+2009,W3,Person Crime,Robbery,16
+2009,W3,Property Crime,Arson,2
+2009,W3,Property Crime,Burglary,180
+2009,W3,Property Crime,Larceny-Theft,398
+2009,W3,Property Crime,Motor Vehicle Theft,72
+2010,B1,Person Crime,Aggravated Assault,22
+2010,B1,Person Crime,Homicide,1
+2010,B1,Person Crime,Rape,1
+2010,B1,Person Crime,Robbery,9
+2010,B1,Property Crime,Arson,1
+2010,B1,Property Crime,Burglary,89
+2010,B1,Property Crime,Larceny-Theft,491
+2010,B1,Property Crime,Motor Vehicle Theft,51
+2010,B2,Person Crime,Aggravated Assault,43
+2010,B2,Person Crime,Rape,3
+2010,B2,Person Crime,Robbery,16
+2010,B2,Property Crime,Arson,3
+2010,B2,Property Crime,Burglary,175
+2010,B2,Property Crime,Larceny-Theft,619
+2010,B2,Property Crime,Motor Vehicle Theft,116
+2010,B3,Person Crime,Aggravated Assault,30
+2010,B3,Person Crime,Rape,1
+2010,B3,Person Crime,Robbery,20
+2010,B3,Property Crime,Arson,8
+2010,B3,Property Crime,Burglary,184
+2010,B3,Property Crime,Larceny-Theft,664
+2010,B3,Property Crime,Motor Vehicle Theft,107
+2010,C1,Person Crime,Aggravated Assault,16
+2010,C1,Person Crime,Rape,1
+2010,C1,Person Crime,Robbery,21
+2010,C1,Property Crime,Burglary,141
+2010,C1,Property Crime,Larceny-Theft,375
+2010,C1,Property Crime,Motor Vehicle Theft,66
+2010,C2,Person Crime,Aggravated Assault,8
+2010,C2,Person Crime,Rape,2
+2010,C2,Person Crime,Robbery,14
+2010,C2,Property Crime,Arson,1
+2010,C2,Property Crime,Burglary,107
+2010,C2,Property Crime,Larceny-Theft,337
+2010,C2,Property Crime,Motor Vehicle Theft,52
+2010,C3,Person Crime,Aggravated Assault,19
+2010,C3,Person Crime,Robbery,27
+2010,C3,Property Crime,Arson,2
+2010,C3,Property Crime,Burglary,151
+2010,C3,Property Crime,Larceny-Theft,303
+2010,C3,Property Crime,Motor Vehicle Theft,38
+2010,D1,Person Crime,Aggravated Assault,73
+2010,D1,Person Crime,Homicide,2
+2010,D1,Person Crime,Rape,6
+2010,D1,Person Crime,Robbery,43
+2010,D1,Property Crime,Arson,2
+2010,D1,Property Crime,Burglary,97
+2010,D1,Property Crime,Larceny-Theft,832
+2010,D1,Property Crime,Motor Vehicle Theft,59
+2010,D2,Person Crime,Aggravated Assault,38
+2010,D2,Person Crime,Homicide,2
+2010,D2,Person Crime,Rape,2
+2010,D2,Person Crime,Robbery,35
+2010,D2,Property Crime,Arson,1
+2010,D2,Property Crime,Burglary,126
+2010,D2,Property Crime,Larceny-Theft,596
+2010,D2,Property Crime,Motor Vehicle Theft,56
+2010,D3,Person Crime,Aggravated Assault,38
+2010,D3,Person Crime,Homicide,3
+2010,D3,Person Crime,Rape,3
+2010,D3,Person Crime,Robbery,20
+2010,D3,Property Crime,Burglary,160
+2010,D3,Property Crime,Larceny-Theft,569
+2010,D3,Property Crime,Motor Vehicle Theft,94
+2010,E1,Person Crime,Aggravated Assault,43
+2010,E1,Person Crime,Rape,1
+2010,E1,Person Crime,Robbery,36
+2010,E1,Property Crime,Arson,1
+2010,E1,Property Crime,Burglary,151
+2010,E1,Property Crime,Larceny-Theft,412
+2010,E1,Property Crime,Motor Vehicle Theft,80
+2010,E2,Person Crime,Aggravated Assault,33
+2010,E2,Person Crime,Homicide,1
+2010,E2,Person Crime,Rape,2
+2010,E2,Person Crime,Robbery,30
+2010,E2,Property Crime,Arson,2
+2010,E2,Property Crime,Burglary,68
+2010,E2,Property Crime,Larceny-Theft,639
+2010,E2,Property Crime,Motor Vehicle Theft,47
+2010,E3,Person Crime,Aggravated Assault,49
+2010,E3,Person Crime,Homicide,1
+2010,E3,Person Crime,Rape,5
+2010,E3,Person Crime,Robbery,40
+2010,E3,Property Crime,Arson,2
+2010,E3,Property Crime,Burglary,111
+2010,E3,Property Crime,Larceny-Theft,766
+2010,E3,Property Crime,Motor Vehicle Theft,60
+2010,F1,Person Crime,Aggravated Assault,47
+2010,F1,Person Crime,Rape,2
+2010,F1,Person Crime,Robbery,29
+2010,F1,Property Crime,Arson,2
+2010,F1,Property Crime,Burglary,109
+2010,F1,Property Crime,Larceny-Theft,258
+2010,F1,Property Crime,Motor Vehicle Theft,61
+2010,F2,Person Crime,Aggravated Assault,30
+2010,F2,Person Crime,Homicide,1
+2010,F2,Person Crime,Rape,1
+2010,F2,Person Crime,Robbery,30
+2010,F2,Property Crime,Arson,1
+2010,F2,Property Crime,Burglary,118
+2010,F2,Property Crime,Larceny-Theft,315
+2010,F2,Property Crime,Motor Vehicle Theft,57
+2010,F3,Person Crime,Aggravated Assault,44
+2010,F3,Person Crime,Homicide,1
+2010,F3,Person Crime,Robbery,28
+2010,F3,Property Crime,Arson,2
+2010,F3,Property Crime,Burglary,118
+2010,F3,Property Crime,Larceny-Theft,218
+2010,F3,Property Crime,Motor Vehicle Theft,75
+2010,G1,Person Crime,Aggravated Assault,35
+2010,G1,Person Crime,Rape,2
+2010,G1,Person Crime,Robbery,18
+2010,G1,Property Crime,Arson,2
+2010,G1,Property Crime,Burglary,64
+2010,G1,Property Crime,Larceny-Theft,216
+2010,G1,Property Crime,Motor Vehicle Theft,31
+2010,G2,Person Crime,Aggravated Assault,33
+2010,G2,Person Crime,Rape,1
+2010,G2,Person Crime,Robbery,34
+2010,G2,Property Crime,Burglary,126
+2010,G2,Property Crime,Larceny-Theft,309
+2010,G2,Property Crime,Motor Vehicle Theft,48
+2010,G3,Person Crime,Aggravated Assault,18
+2010,G3,Person Crime,Rape,2
+2010,G3,Person Crime,Robbery,30
+2010,G3,Property Crime,Arson,1
+2010,G3,Property Crime,Burglary,127
+2010,G3,Property Crime,Larceny-Theft,212
+2010,G3,Property Crime,Motor Vehicle Theft,28
+2010,J1,Person Crime,Aggravated Assault,33
+2010,J1,Person Crime,Rape,1
+2010,J1,Person Crime,Robbery,27
+2010,J1,Property Crime,Arson,4
+2010,J1,Property Crime,Burglary,126
+2010,J1,Property Crime,Larceny-Theft,533
+2010,J1,Property Crime,Motor Vehicle Theft,73
+2010,J2,Person Crime,Aggravated Assault,21
+2010,J2,Person Crime,Robbery,9
+2010,J2,Property Crime,Arson,2
+2010,J2,Property Crime,Burglary,102
+2010,J2,Property Crime,Larceny-Theft,381
+2010,J2,Property Crime,Motor Vehicle Theft,78
+2010,J3,Person Crime,Aggravated Assault,9
+2010,J3,Person Crime,Rape,3
+2010,J3,Person Crime,Robbery,12
+2010,J3,Property Crime,Arson,2
+2010,J3,Property Crime,Burglary,110
+2010,J3,Property Crime,Larceny-Theft,635
+2010,J3,Property Crime,Motor Vehicle Theft,110
+2010,K1,Person Crime,Aggravated Assault,28
+2010,K1,Person Crime,Rape,2
+2010,K1,Person Crime,Robbery,36
+2010,K1,Property Crime,Burglary,45
+2010,K1,Property Crime,Larceny-Theft,684
+2010,K1,Property Crime,Motor Vehicle Theft,32
+2010,K2,Person Crime,Aggravated Assault,62
+2010,K2,Person Crime,Rape,3
+2010,K2,Person Crime,Robbery,35
+2010,K2,Property Crime,Arson,2
+2010,K2,Property Crime,Burglary,41
+2010,K2,Property Crime,Larceny-Theft,518
+2010,K2,Property Crime,Motor Vehicle Theft,46
+2010,K3,Person Crime,Aggravated Assault,52
+2010,K3,Person Crime,Homicide,3
+2010,K3,Person Crime,Rape,7
+2010,K3,Person Crime,Robbery,74
+2010,K3,Property Crime,Arson,1
+2010,K3,Property Crime,Burglary,97
+2010,K3,Property Crime,Larceny-Theft,968
+2010,K3,Property Crime,Motor Vehicle Theft,58
+2010,L1,Person Crime,Aggravated Assault,28
+2010,L1,Person Crime,Rape,2
+2010,L1,Person Crime,Robbery,14
+2010,L1,Property Crime,Arson,10
+2010,L1,Property Crime,Burglary,104
+2010,L1,Property Crime,Larceny-Theft,359
+2010,L1,Property Crime,Motor Vehicle Theft,47
+2010,L2,Person Crime,Aggravated Assault,17
+2010,L2,Person Crime,Robbery,42
+2010,L2,Property Crime,Arson,1
+2010,L2,Property Crime,Burglary,173
+2010,L2,Property Crime,Larceny-Theft,709
+2010,L2,Property Crime,Motor Vehicle Theft,132
+2010,L3,Person Crime,Aggravated Assault,26
+2010,L3,Person Crime,Rape,1
+2010,L3,Person Crime,Robbery,24
+2010,L3,Property Crime,Arson,2
+2010,L3,Property Crime,Burglary,147
+2010,L3,Property Crime,Larceny-Theft,424
+2010,L3,Property Crime,Motor Vehicle Theft,33
+2010,M1,Person Crime,Aggravated Assault,29
+2010,M1,Person Crime,Homicide,1
+2010,M1,Person Crime,Robbery,26
+2010,M1,Property Crime,Burglary,43
+2010,M1,Property Crime,Larceny-Theft,932
+2010,M1,Property Crime,Motor Vehicle Theft,30
+2010,M2,Person Crime,Aggravated Assault,28
+2010,M2,Person Crime,Robbery,37
+2010,M2,Property Crime,Burglary,57
+2010,M2,Property Crime,Larceny-Theft,704
+2010,M2,Property Crime,Motor Vehicle Theft,15
+2010,M3,Person Crime,Aggravated Assault,25
+2010,M3,Person Crime,Robbery,61
+2010,M3,Property Crime,Burglary,42
+2010,M3,Property Crime,Larceny-Theft,716
+2010,M3,Property Crime,Motor Vehicle Theft,9
+2010,N1,Person Crime,Aggravated Assault,22
+2010,N1,Person Crime,Rape,3
+2010,N1,Person Crime,Robbery,10
+2010,N1,Property Crime,Arson,3
+2010,N1,Property Crime,Burglary,179
+2010,N1,Property Crime,Larceny-Theft,388
+2010,N1,Property Crime,Motor Vehicle Theft,70
+2010,N2,Person Crime,Aggravated Assault,32
+2010,N2,Person Crime,Rape,2
+2010,N2,Person Crime,Robbery,20
+2010,N2,Property Crime,Arson,2
+2010,N2,Property Crime,Burglary,138
+2010,N2,Property Crime,Larceny-Theft,399
+2010,N2,Property Crime,Motor Vehicle Theft,71
+2010,N3,Person Crime,Aggravated Assault,36
+2010,N3,Person Crime,Homicide,3
+2010,N3,Person Crime,Rape,4
+2010,N3,Person Crime,Robbery,29
+2010,N3,Property Crime,Arson,2
+2010,N3,Property Crime,Burglary,103
+2010,N3,Property Crime,Larceny-Theft,303
+2010,N3,Property Crime,Motor Vehicle Theft,83
+2010,O1,Person Crime,Aggravated Assault,30
+2010,O1,Person Crime,Rape,1
+2010,O1,Person Crime,Robbery,13
+2010,O1,Property Crime,Burglary,49
+2010,O1,Property Crime,Larceny-Theft,387
+2010,O1,Property Crime,Motor Vehicle Theft,43
+2010,O2,Person Crime,Aggravated Assault,18
+2010,O2,Person Crime,Rape,2
+2010,O2,Person Crime,Robbery,7
+2010,O2,Property Crime,Burglary,65
+2010,O2,Property Crime,Larceny-Theft,159
+2010,O2,Property Crime,Motor Vehicle Theft,25
+2010,O3,Person Crime,Aggravated Assault,23
+2010,O3,Person Crime,Rape,2
+2010,O3,Person Crime,Robbery,16
+2010,O3,Property Crime,Arson,1
+2010,O3,Property Crime,Burglary,63
+2010,O3,Property Crime,Larceny-Theft,170
+2010,O3,Property Crime,Motor Vehicle Theft,35
+2010,Q1,Person Crime,Aggravated Assault,17
+2010,Q1,Person Crime,Robbery,4
+2010,Q1,Property Crime,Arson,7
+2010,Q1,Property Crime,Burglary,122
+2010,Q1,Property Crime,Larceny-Theft,379
+2010,Q1,Property Crime,Motor Vehicle Theft,40
+2010,Q2,Person Crime,Aggravated Assault,25
+2010,Q2,Person Crime,Robbery,10
+2010,Q2,Property Crime,Arson,2
+2010,Q2,Property Crime,Burglary,179
+2010,Q2,Property Crime,Larceny-Theft,498
+2010,Q2,Property Crime,Motor Vehicle Theft,114
+2010,Q3,Person Crime,Aggravated Assault,38
+2010,Q3,Person Crime,Rape,6
+2010,Q3,Person Crime,Robbery,22
+2010,Q3,Property Crime,Arson,10
+2010,Q3,Property Crime,Burglary,133
+2010,Q3,Property Crime,Larceny-Theft,742
+2010,Q3,Property Crime,Motor Vehicle Theft,75
+2010,R1,Person Crime,Aggravated Assault,65
+2010,R1,Person Crime,Homicide,1
+2010,R1,Person Crime,Rape,2
+2010,R1,Person Crime,Robbery,56
+2010,R1,Property Crime,Burglary,196
+2010,R1,Property Crime,Larceny-Theft,369
+2010,R1,Property Crime,Motor Vehicle Theft,139
+2010,R2,Person Crime,Aggravated Assault,62
+2010,R2,Person Crime,Homicide,2
+2010,R2,Person Crime,Rape,3
+2010,R2,Person Crime,Robbery,46
+2010,R2,Property Crime,Arson,2
+2010,R2,Property Crime,Burglary,199
+2010,R2,Property Crime,Larceny-Theft,594
+2010,R2,Property Crime,Motor Vehicle Theft,71
+2010,R3,Person Crime,Aggravated Assault,64
+2010,R3,Person Crime,Homicide,1
+2010,R3,Person Crime,Rape,2
+2010,R3,Person Crime,Robbery,51
+2010,R3,Property Crime,Arson,1
+2010,R3,Property Crime,Burglary,238
+2010,R3,Property Crime,Larceny-Theft,398
+2010,R3,Property Crime,Motor Vehicle Theft,75
+2010,S1,Person Crime,Aggravated Assault,42
+2010,S1,Person Crime,Rape,2
+2010,S1,Person Crime,Robbery,64
+2010,S1,Property Crime,Arson,3
+2010,S1,Property Crime,Burglary,197
+2010,S1,Property Crime,Larceny-Theft,257
+2010,S1,Property Crime,Motor Vehicle Theft,125
+2010,S2,Person Crime,Aggravated Assault,67
+2010,S2,Person Crime,Rape,4
+2010,S2,Person Crime,Robbery,75
+2010,S2,Property Crime,Arson,2
+2010,S2,Property Crime,Burglary,192
+2010,S2,Property Crime,Larceny-Theft,269
+2010,S2,Property Crime,Motor Vehicle Theft,103
+2010,S3,Person Crime,Aggravated Assault,63
+2010,S3,Person Crime,Rape,2
+2010,S3,Person Crime,Robbery,49
+2010,S3,Property Crime,Arson,4
+2010,S3,Property Crime,Burglary,216
+2010,S3,Property Crime,Larceny-Theft,408
+2010,S3,Property Crime,Motor Vehicle Theft,139
+2010,U1,Person Crime,Aggravated Assault,49
+2010,U1,Person Crime,Rape,2
+2010,U1,Person Crime,Robbery,36
+2010,U1,Property Crime,Arson,5
+2010,U1,Property Crime,Burglary,246
+2010,U1,Property Crime,Larceny-Theft,634
+2010,U1,Property Crime,Motor Vehicle Theft,148
+2010,U2,Person Crime,Aggravated Assault,38
+2010,U2,Person Crime,Rape,2
+2010,U2,Person Crime,Robbery,38
+2010,U2,Property Crime,Arson,9
+2010,U2,Property Crime,Burglary,110
+2010,U2,Property Crime,Larceny-Theft,544
+2010,U2,Property Crime,Motor Vehicle Theft,62
+2010,U3,Person Crime,Aggravated Assault,19
+2010,U3,Person Crime,Rape,1
+2010,U3,Person Crime,Robbery,13
+2010,U3,Property Crime,Burglary,228
+2010,U3,Property Crime,Larceny-Theft,703
+2010,U3,Property Crime,Motor Vehicle Theft,98
+2010,W1,Person Crime,Aggravated Assault,29
+2010,W1,Person Crime,Rape,3
+2010,W1,Person Crime,Robbery,10
+2010,W1,Property Crime,Arson,2
+2010,W1,Property Crime,Burglary,133
+2010,W1,Property Crime,Larceny-Theft,434
+2010,W1,Property Crime,Motor Vehicle Theft,81
+2010,W2,Person Crime,Aggravated Assault,21
+2010,W2,Person Crime,Homicide,1
+2010,W2,Person Crime,Rape,1
+2010,W2,Person Crime,Robbery,15
+2010,W2,Property Crime,Arson,2
+2010,W2,Property Crime,Burglary,164
+2010,W2,Property Crime,Larceny-Theft,448
+2010,W2,Property Crime,Motor Vehicle Theft,84
+2010,W3,Person Crime,Aggravated Assault,30
+2010,W3,Person Crime,Rape,2
+2010,W3,Person Crime,Robbery,7
+2010,W3,Property Crime,Arson,2
+2010,W3,Property Crime,Burglary,180
+2010,W3,Property Crime,Larceny-Theft,394
+2010,W3,Property Crime,Motor Vehicle Theft,80
+2011,B1,Person Crime,Aggravated Assault,29
+2011,B1,Person Crime,Rape,1
+2011,B1,Person Crime,Robbery,13
+2011,B1,Property Crime,Arson,1
+2011,B1,Property Crime,Burglary,106
+2011,B1,Property Crime,Larceny-Theft,457
+2011,B1,Property Crime,Motor Vehicle Theft,67
+2011,B2,Person Crime,Aggravated Assault,28
+2011,B2,Person Crime,Rape,1
+2011,B2,Person Crime,Robbery,8
+2011,B2,Property Crime,Burglary,153
+2011,B2,Property Crime,Larceny-Theft,582
+2011,B2,Property Crime,Motor Vehicle Theft,97
+2011,B3,Person Crime,Aggravated Assault,23
+2011,B3,Person Crime,Rape,2
+2011,B3,Person Crime,Robbery,13
+2011,B3,Property Crime,Arson,1
+2011,B3,Property Crime,Burglary,227
+2011,B3,Property Crime,Larceny-Theft,533
+2011,B3,Property Crime,Motor Vehicle Theft,111
+2011,C1,Person Crime,Aggravated Assault,16
+2011,C1,Person Crime,Rape,2
+2011,C1,Person Crime,Robbery,13
+2011,C1,Property Crime,Arson,1
+2011,C1,Property Crime,Burglary,132
+2011,C1,Property Crime,Larceny-Theft,418
+2011,C1,Property Crime,Motor Vehicle Theft,73
+2011,C2,Person Crime,Aggravated Assault,16
+2011,C2,Person Crime,Rape,1
+2011,C2,Person Crime,Robbery,4
+2011,C2,Property Crime,Arson,1
+2011,C2,Property Crime,Burglary,131
+2011,C2,Property Crime,Larceny-Theft,270
+2011,C2,Property Crime,Motor Vehicle Theft,50
+2011,C3,Person Crime,Aggravated Assault,24
+2011,C3,Person Crime,Rape,1
+2011,C3,Person Crime,Robbery,23
+2011,C3,Property Crime,Arson,1
+2011,C3,Property Crime,Burglary,195
+2011,C3,Property Crime,Larceny-Theft,315
+2011,C3,Property Crime,Motor Vehicle Theft,45
+2011,D1,Person Crime,Aggravated Assault,65
+2011,D1,Person Crime,Homicide,1
+2011,D1,Person Crime,Rape,3
+2011,D1,Person Crime,Robbery,65
+2011,D1,Property Crime,Arson,2
+2011,D1,Property Crime,Burglary,81
+2011,D1,Property Crime,Larceny-Theft,576
+2011,D1,Property Crime,Motor Vehicle Theft,34
+2011,D2,Person Crime,Aggravated Assault,26
+2011,D2,Person Crime,Homicide,1
+2011,D2,Person Crime,Rape,5
+2011,D2,Person Crime,Robbery,24
+2011,D2,Property Crime,Arson,2
+2011,D2,Property Crime,Burglary,136
+2011,D2,Property Crime,Larceny-Theft,544
+2011,D2,Property Crime,Motor Vehicle Theft,76
+2011,D3,Person Crime,Aggravated Assault,42
+2011,D3,Person Crime,Homicide,1
+2011,D3,Person Crime,Rape,3
+2011,D3,Person Crime,Robbery,28
+2011,D3,Property Crime,Burglary,163
+2011,D3,Property Crime,Larceny-Theft,651
+2011,D3,Property Crime,Motor Vehicle Theft,91
+2011,E1,Person Crime,Aggravated Assault,37
+2011,E1,Person Crime,Homicide,1
+2011,E1,Person Crime,Rape,5
+2011,E1,Person Crime,Robbery,25
+2011,E1,Property Crime,Arson,5
+2011,E1,Property Crime,Burglary,116
+2011,E1,Property Crime,Larceny-Theft,347
+2011,E1,Property Crime,Motor Vehicle Theft,70
+2011,E2,Person Crime,Aggravated Assault,49
+2011,E2,Person Crime,Rape,3
+2011,E2,Person Crime,Robbery,42
+2011,E2,Property Crime,Burglary,65
+2011,E2,Property Crime,Larceny-Theft,689
+2011,E2,Property Crime,Motor Vehicle Theft,55
+2011,E3,Person Crime,Aggravated Assault,44
+2011,E3,Person Crime,Homicide,2
+2011,E3,Person Crime,Rape,1
+2011,E3,Person Crime,Robbery,43
+2011,E3,Property Crime,Arson,5
+2011,E3,Property Crime,Burglary,92
+2011,E3,Property Crime,Larceny-Theft,565
+2011,E3,Property Crime,Motor Vehicle Theft,40
+2011,F1,Person Crime,Aggravated Assault,40
+2011,F1,Person Crime,Rape,2
+2011,F1,Person Crime,Robbery,20
+2011,F1,Property Crime,Arson,3
+2011,F1,Property Crime,Burglary,169
+2011,F1,Property Crime,Larceny-Theft,254
+2011,F1,Property Crime,Motor Vehicle Theft,67
+2011,F2,Person Crime,Aggravated Assault,26
+2011,F2,Person Crime,Rape,3
+2011,F2,Person Crime,Robbery,17
+2011,F2,Property Crime,Arson,2
+2011,F2,Property Crime,Burglary,100
+2011,F2,Property Crime,Larceny-Theft,322
+2011,F2,Property Crime,Motor Vehicle Theft,91
+2011,F3,Person Crime,Aggravated Assault,47
+2011,F3,Person Crime,Rape,1
+2011,F3,Person Crime,Robbery,14
+2011,F3,Property Crime,Arson,1
+2011,F3,Property Crime,Burglary,141
+2011,F3,Property Crime,Larceny-Theft,250
+2011,F3,Property Crime,Motor Vehicle Theft,82
+2011,G1,Person Crime,Aggravated Assault,34
+2011,G1,Person Crime,Rape,3
+2011,G1,Person Crime,Robbery,16
+2011,G1,Property Crime,Burglary,53
+2011,G1,Property Crime,Larceny-Theft,205
+2011,G1,Property Crime,Motor Vehicle Theft,38
+2011,G2,Person Crime,Aggravated Assault,39
+2011,G2,Person Crime,Homicide,2
+2011,G2,Person Crime,Robbery,54
+2011,G2,Property Crime,Arson,1
+2011,G2,Property Crime,Burglary,152
+2011,G2,Property Crime,Larceny-Theft,384
+2011,G2,Property Crime,Motor Vehicle Theft,51
+2011,G3,Person Crime,Aggravated Assault,28
+2011,G3,Person Crime,Robbery,23
+2011,G3,Property Crime,Arson,3
+2011,G3,Property Crime,Burglary,93
+2011,G3,Property Crime,Larceny-Theft,212
+2011,G3,Property Crime,Motor Vehicle Theft,28
+2011,J1,Person Crime,Aggravated Assault,41
+2011,J1,Person Crime,Rape,7
+2011,J1,Person Crime,Robbery,27
+2011,J1,Property Crime,Arson,1
+2011,J1,Property Crime,Burglary,103
+2011,J1,Property Crime,Larceny-Theft,500
+2011,J1,Property Crime,Motor Vehicle Theft,58
+2011,J2,Person Crime,Aggravated Assault,23
+2011,J2,Person Crime,Homicide,1
+2011,J2,Person Crime,Robbery,12
+2011,J2,Property Crime,Arson,2
+2011,J2,Property Crime,Burglary,162
+2011,J2,Property Crime,Larceny-Theft,371
+2011,J2,Property Crime,Motor Vehicle Theft,77
+2011,J3,Person Crime,Aggravated Assault,26
+2011,J3,Person Crime,Robbery,9
+2011,J3,Property Crime,Burglary,182
+2011,J3,Property Crime,Larceny-Theft,500
+2011,J3,Property Crime,Motor Vehicle Theft,85
+2011,K1,Person Crime,Aggravated Assault,30
+2011,K1,Person Crime,Homicide,2
+2011,K1,Person Crime,Rape,7
+2011,K1,Person Crime,Robbery,26
+2011,K1,Property Crime,Arson,1
+2011,K1,Property Crime,Burglary,33
+2011,K1,Property Crime,Larceny-Theft,692
+2011,K1,Property Crime,Motor Vehicle Theft,24
+2011,K2,Person Crime,Aggravated Assault,67
+2011,K2,Person Crime,Rape,4
+2011,K2,Person Crime,Robbery,34
+2011,K2,Property Crime,Burglary,37
+2011,K2,Property Crime,Larceny-Theft,498
+2011,K2,Property Crime,Motor Vehicle Theft,38
+2011,K3,Person Crime,Aggravated Assault,69
+2011,K3,Person Crime,Rape,9
+2011,K3,Person Crime,Robbery,73
+2011,K3,Property Crime,Burglary,86
+2011,K3,Property Crime,Larceny-Theft,791
+2011,K3,Property Crime,Motor Vehicle Theft,67
+2011,L1,Person Crime,Aggravated Assault,31
+2011,L1,Person Crime,Rape,1
+2011,L1,Person Crime,Robbery,14
+2011,L1,Property Crime,Arson,4
+2011,L1,Property Crime,Burglary,127
+2011,L1,Property Crime,Larceny-Theft,407
+2011,L1,Property Crime,Motor Vehicle Theft,39
+2011,L2,Person Crime,Aggravated Assault,25
+2011,L2,Person Crime,Rape,1
+2011,L2,Person Crime,Robbery,39
+2011,L2,Property Crime,Burglary,168
+2011,L2,Property Crime,Larceny-Theft,786
+2011,L2,Property Crime,Motor Vehicle Theft,134
+2011,L3,Person Crime,Aggravated Assault,23
+2011,L3,Person Crime,Rape,2
+2011,L3,Person Crime,Robbery,22
+2011,L3,Property Crime,Burglary,151
+2011,L3,Property Crime,Larceny-Theft,442
+2011,L3,Property Crime,Motor Vehicle Theft,20
+2011,M1,Person Crime,Aggravated Assault,31
+2011,M1,Person Crime,Rape,2
+2011,M1,Person Crime,Robbery,32
+2011,M1,Property Crime,Arson,1
+2011,M1,Property Crime,Burglary,48
+2011,M1,Property Crime,Larceny-Theft,755
+2011,M1,Property Crime,Motor Vehicle Theft,26
+2011,M2,Person Crime,Aggravated Assault,38
+2011,M2,Person Crime,Rape,2
+2011,M2,Person Crime,Robbery,44
+2011,M2,Property Crime,Burglary,46
+2011,M2,Property Crime,Larceny-Theft,651
+2011,M2,Property Crime,Motor Vehicle Theft,17
+2011,M3,Person Crime,Aggravated Assault,43
+2011,M3,Person Crime,Rape,3
+2011,M3,Person Crime,Robbery,70
+2011,M3,Property Crime,Burglary,27
+2011,M3,Property Crime,Larceny-Theft,741
+2011,M3,Property Crime,Motor Vehicle Theft,12
+2011,N1,Person Crime,Aggravated Assault,21
+2011,N1,Person Crime,Homicide,2
+2011,N1,Person Crime,Rape,1
+2011,N1,Person Crime,Robbery,14
+2011,N1,Property Crime,Arson,4
+2011,N1,Property Crime,Burglary,227
+2011,N1,Property Crime,Larceny-Theft,407
+2011,N1,Property Crime,Motor Vehicle Theft,71
+2011,N2,Person Crime,Aggravated Assault,39
+2011,N2,Person Crime,Rape,2
+2011,N2,Person Crime,Robbery,28
+2011,N2,Property Crime,Burglary,180
+2011,N2,Property Crime,Larceny-Theft,533
+2011,N2,Property Crime,Motor Vehicle Theft,55
+2011,N3,Person Crime,Aggravated Assault,46
+2011,N3,Person Crime,Homicide,2
+2011,N3,Person Crime,Rape,5
+2011,N3,Person Crime,Robbery,24
+2011,N3,Property Crime,Arson,3
+2011,N3,Property Crime,Burglary,110
+2011,N3,Property Crime,Larceny-Theft,294
+2011,N3,Property Crime,Motor Vehicle Theft,66
+2011,O1,Person Crime,Aggravated Assault,31
+2011,O1,Person Crime,Robbery,18
+2011,O1,Property Crime,Arson,1
+2011,O1,Property Crime,Burglary,23
+2011,O1,Property Crime,Larceny-Theft,388
+2011,O1,Property Crime,Motor Vehicle Theft,31
+2011,O2,Person Crime,Aggravated Assault,14
+2011,O2,Person Crime,Rape,1
+2011,O2,Person Crime,Robbery,6
+2011,O2,Property Crime,Burglary,52
+2011,O2,Property Crime,Larceny-Theft,148
+2011,O2,Property Crime,Motor Vehicle Theft,29
+2011,O3,Person Crime,Aggravated Assault,28
+2011,O3,Person Crime,Homicide,2
+2011,O3,Person Crime,Rape,3
+2011,O3,Person Crime,Robbery,14
+2011,O3,Property Crime,Burglary,71
+2011,O3,Property Crime,Larceny-Theft,152
+2011,O3,Property Crime,Motor Vehicle Theft,51
+2011,Q1,Person Crime,Aggravated Assault,12
+2011,Q1,Person Crime,Rape,3
+2011,Q1,Person Crime,Robbery,7
+2011,Q1,Property Crime,Arson,2
+2011,Q1,Property Crime,Burglary,100
+2011,Q1,Property Crime,Larceny-Theft,302
+2011,Q1,Property Crime,Motor Vehicle Theft,41
+2011,Q2,Person Crime,Aggravated Assault,13
+2011,Q2,Person Crime,Homicide,1
+2011,Q2,Person Crime,Robbery,13
+2011,Q2,Property Crime,Arson,3
+2011,Q2,Property Crime,Burglary,192
+2011,Q2,Property Crime,Larceny-Theft,452
+2011,Q2,Property Crime,Motor Vehicle Theft,99
+2011,Q3,Person Crime,Aggravated Assault,31
+2011,Q3,Person Crime,Rape,4
+2011,Q3,Person Crime,Robbery,29
+2011,Q3,Property Crime,Burglary,114
+2011,Q3,Property Crime,Larceny-Theft,636
+2011,Q3,Property Crime,Motor Vehicle Theft,74
+2011,R1,Person Crime,Aggravated Assault,60
+2011,R1,Person Crime,Rape,5
+2011,R1,Person Crime,Robbery,45
+2011,R1,Property Crime,Arson,4
+2011,R1,Property Crime,Burglary,186
+2011,R1,Property Crime,Larceny-Theft,446
+2011,R1,Property Crime,Motor Vehicle Theft,146
+2011,R2,Person Crime,Aggravated Assault,47
+2011,R2,Person Crime,Homicide,1
+2011,R2,Person Crime,Rape,5
+2011,R2,Person Crime,Robbery,47
+2011,R2,Property Crime,Arson,4
+2011,R2,Property Crime,Burglary,148
+2011,R2,Property Crime,Larceny-Theft,433
+2011,R2,Property Crime,Motor Vehicle Theft,109
+2011,R3,Person Crime,Aggravated Assault,40
+2011,R3,Person Crime,Rape,2
+2011,R3,Person Crime,Robbery,45
+2011,R3,Property Crime,Arson,1
+2011,R3,Property Crime,Burglary,273
+2011,R3,Property Crime,Larceny-Theft,459
+2011,R3,Property Crime,Motor Vehicle Theft,134
+2011,S1,Person Crime,Aggravated Assault,61
+2011,S1,Person Crime,Homicide,2
+2011,S1,Person Crime,Robbery,71
+2011,S1,Property Crime,Arson,5
+2011,S1,Property Crime,Burglary,217
+2011,S1,Property Crime,Larceny-Theft,227
+2011,S1,Property Crime,Motor Vehicle Theft,103
+2011,S2,Person Crime,Aggravated Assault,80
+2011,S2,Person Crime,Homicide,1
+2011,S2,Person Crime,Rape,1
+2011,S2,Person Crime,Robbery,61
+2011,S2,Property Crime,Arson,1
+2011,S2,Property Crime,Burglary,182
+2011,S2,Property Crime,Larceny-Theft,183
+2011,S2,Property Crime,Motor Vehicle Theft,120
+2011,S3,Person Crime,Aggravated Assault,59
+2011,S3,Person Crime,Homicide,1
+2011,S3,Person Crime,Rape,2
+2011,S3,Person Crime,Robbery,43
+2011,S3,Property Crime,Burglary,278
+2011,S3,Property Crime,Larceny-Theft,270
+2011,S3,Property Crime,Motor Vehicle Theft,88
+2011,U1,Person Crime,Aggravated Assault,43
+2011,U1,Person Crime,Rape,2
+2011,U1,Person Crime,Robbery,41
+2011,U1,Property Crime,Arson,4
+2011,U1,Property Crime,Burglary,285
+2011,U1,Property Crime,Larceny-Theft,747
+2011,U1,Property Crime,Motor Vehicle Theft,132
+2011,U2,Person Crime,Aggravated Assault,40
+2011,U2,Person Crime,Robbery,49
+2011,U2,Property Crime,Arson,2
+2011,U2,Property Crime,Burglary,110
+2011,U2,Property Crime,Larceny-Theft,628
+2011,U2,Property Crime,Motor Vehicle Theft,62
+2011,U3,Person Crime,Aggravated Assault,19
+2011,U3,Person Crime,Rape,2
+2011,U3,Person Crime,Robbery,13
+2011,U3,Property Crime,Burglary,268
+2011,U3,Property Crime,Larceny-Theft,554
+2011,U3,Property Crime,Motor Vehicle Theft,53
+2011,W1,Person Crime,Aggravated Assault,23
+2011,W1,Person Crime,Homicide,1
+2011,W1,Person Crime,Rape,1
+2011,W1,Person Crime,Robbery,14
+2011,W1,Property Crime,Arson,3
+2011,W1,Property Crime,Burglary,120
+2011,W1,Property Crime,Larceny-Theft,350
+2011,W1,Property Crime,Motor Vehicle Theft,77
+2011,W2,Person Crime,Aggravated Assault,28
+2011,W2,Person Crime,Rape,4
+2011,W2,Person Crime,Robbery,12
+2011,W2,Property Crime,Arson,3
+2011,W2,Property Crime,Burglary,151
+2011,W2,Property Crime,Larceny-Theft,386
+2011,W2,Property Crime,Motor Vehicle Theft,81
+2011,W3,Person Crime,Aggravated Assault,17
+2011,W3,Person Crime,Homicide,1
+2011,W3,Person Crime,Robbery,14
+2011,W3,Property Crime,Arson,1
+2011,W3,Property Crime,Burglary,212
+2011,W3,Property Crime,Larceny-Theft,316
+2011,W3,Property Crime,Motor Vehicle Theft,93
+2012,B1,Person Crime,Aggravated Assault,30
+2012,B1,Person Crime,Rape,2
+2012,B1,Person Crime,Robbery,12
+2012,B1,Property Crime,Burglary,85
+2012,B1,Property Crime,Larceny-Theft,416
+2012,B1,Property Crime,Motor Vehicle Theft,62
+2012,B2,Person Crime,Aggravated Assault,38
+2012,B2,Person Crime,Rape,1
+2012,B2,Person Crime,Robbery,18
+2012,B2,Property Crime,Burglary,144
+2012,B2,Property Crime,Larceny-Theft,668
+2012,B2,Property Crime,Motor Vehicle Theft,162
+2012,B3,Person Crime,Aggravated Assault,30
+2012,B3,Person Crime,Homicide,1
+2012,B3,Person Crime,Rape,6
+2012,B3,Person Crime,Robbery,9
+2012,B3,Property Crime,Arson,1
+2012,B3,Property Crime,Burglary,234
+2012,B3,Property Crime,Larceny-Theft,538
+2012,B3,Property Crime,Motor Vehicle Theft,149
+2012,C1,Person Crime,Aggravated Assault,12
+2012,C1,Person Crime,Rape,1
+2012,C1,Person Crime,Robbery,20
+2012,C1,Property Crime,Arson,1
+2012,C1,Property Crime,Burglary,133
+2012,C1,Property Crime,Larceny-Theft,378
+2012,C1,Property Crime,Motor Vehicle Theft,86
+2012,C2,Person Crime,Aggravated Assault,12
+2012,C2,Person Crime,Rape,2
+2012,C2,Person Crime,Robbery,11
+2012,C2,Property Crime,Burglary,129
+2012,C2,Property Crime,Larceny-Theft,213
+2012,C2,Property Crime,Motor Vehicle Theft,49
+2012,C3,Person Crime,Aggravated Assault,15
+2012,C3,Person Crime,Rape,2
+2012,C3,Person Crime,Robbery,35
+2012,C3,Property Crime,Arson,1
+2012,C3,Property Crime,Burglary,140
+2012,C3,Property Crime,Larceny-Theft,281
+2012,C3,Property Crime,Motor Vehicle Theft,44
+2012,D1,Person Crime,Aggravated Assault,74
+2012,D1,Person Crime,Homicide,1
+2012,D1,Person Crime,Rape,5
+2012,D1,Person Crime,Robbery,45
+2012,D1,Property Crime,Arson,1
+2012,D1,Property Crime,Burglary,77
+2012,D1,Property Crime,Larceny-Theft,489
+2012,D1,Property Crime,Motor Vehicle Theft,34
+2012,D2,Person Crime,Aggravated Assault,28
+2012,D2,Person Crime,Rape,6
+2012,D2,Person Crime,Robbery,23
+2012,D2,Property Crime,Burglary,127
+2012,D2,Property Crime,Larceny-Theft,504
+2012,D2,Property Crime,Motor Vehicle Theft,73
+2012,D3,Person Crime,Aggravated Assault,63
+2012,D3,Person Crime,Rape,3
+2012,D3,Person Crime,Robbery,34
+2012,D3,Property Crime,Burglary,135
+2012,D3,Property Crime,Larceny-Theft,631
+2012,D3,Property Crime,Motor Vehicle Theft,90
+2012,E1,Person Crime,Aggravated Assault,47
+2012,E1,Person Crime,Homicide,1
+2012,E1,Person Crime,Rape,2
+2012,E1,Person Crime,Robbery,24
+2012,E1,Property Crime,Arson,1
+2012,E1,Property Crime,Burglary,193
+2012,E1,Property Crime,Larceny-Theft,333
+2012,E1,Property Crime,Motor Vehicle Theft,99
+2012,E2,Person Crime,Aggravated Assault,54
+2012,E2,Person Crime,Homicide,1
+2012,E2,Person Crime,Rape,2
+2012,E2,Person Crime,Robbery,40
+2012,E2,Property Crime,Burglary,98
+2012,E2,Property Crime,Larceny-Theft,830
+2012,E2,Property Crime,Motor Vehicle Theft,57
+2012,E3,Person Crime,Aggravated Assault,55
+2012,E3,Person Crime,Homicide,1
+2012,E3,Person Crime,Rape,7
+2012,E3,Person Crime,Robbery,37
+2012,E3,Property Crime,Burglary,165
+2012,E3,Property Crime,Larceny-Theft,609
+2012,E3,Property Crime,Motor Vehicle Theft,78
+2012,F1,Person Crime,Aggravated Assault,40
+2012,F1,Person Crime,Rape,2
+2012,F1,Person Crime,Robbery,15
+2012,F1,Property Crime,Arson,3
+2012,F1,Property Crime,Burglary,126
+2012,F1,Property Crime,Larceny-Theft,290
+2012,F1,Property Crime,Motor Vehicle Theft,75
+2012,F2,Person Crime,Aggravated Assault,43
+2012,F2,Person Crime,Rape,2
+2012,F2,Person Crime,Robbery,21
+2012,F2,Property Crime,Arson,3
+2012,F2,Property Crime,Burglary,109
+2012,F2,Property Crime,Larceny-Theft,341
+2012,F2,Property Crime,Motor Vehicle Theft,94
+2012,F3,Person Crime,Aggravated Assault,60
+2012,F3,Person Crime,Rape,4
+2012,F3,Person Crime,Robbery,17
+2012,F3,Property Crime,Arson,2
+2012,F3,Property Crime,Burglary,130
+2012,F3,Property Crime,Larceny-Theft,283
+2012,F3,Property Crime,Motor Vehicle Theft,80
+2012,G1,Person Crime,Aggravated Assault,41
+2012,G1,Person Crime,Rape,1
+2012,G1,Person Crime,Robbery,24
+2012,G1,Property Crime,Burglary,38
+2012,G1,Property Crime,Larceny-Theft,203
+2012,G1,Property Crime,Motor Vehicle Theft,31
+2012,G2,Person Crime,Aggravated Assault,59
+2012,G2,Person Crime,Homicide,1
+2012,G2,Person Crime,Rape,3
+2012,G2,Person Crime,Robbery,43
+2012,G2,Property Crime,Arson,2
+2012,G2,Property Crime,Burglary,101
+2012,G2,Property Crime,Larceny-Theft,263
+2012,G2,Property Crime,Motor Vehicle Theft,57
+2012,G3,Person Crime,Aggravated Assault,28
+2012,G3,Person Crime,Rape,1
+2012,G3,Person Crime,Robbery,12
+2012,G3,Property Crime,Arson,2
+2012,G3,Property Crime,Burglary,88
+2012,G3,Property Crime,Larceny-Theft,208
+2012,G3,Property Crime,Motor Vehicle Theft,42
+2012,J1,Person Crime,Aggravated Assault,27
+2012,J1,Person Crime,Rape,5
+2012,J1,Person Crime,Robbery,22
+2012,J1,Property Crime,Arson,6
+2012,J1,Property Crime,Burglary,140
+2012,J1,Property Crime,Larceny-Theft,389
+2012,J1,Property Crime,Motor Vehicle Theft,87
+2012,J2,Person Crime,Aggravated Assault,16
+2012,J2,Person Crime,Rape,3
+2012,J2,Person Crime,Robbery,11
+2012,J2,Property Crime,Burglary,141
+2012,J2,Property Crime,Larceny-Theft,374
+2012,J2,Property Crime,Motor Vehicle Theft,107
+2012,J3,Person Crime,Aggravated Assault,21
+2012,J3,Person Crime,Rape,2
+2012,J3,Person Crime,Robbery,13
+2012,J3,Property Crime,Burglary,105
+2012,J3,Property Crime,Larceny-Theft,397
+2012,J3,Property Crime,Motor Vehicle Theft,103
+2012,K1,Person Crime,Aggravated Assault,23
+2012,K1,Person Crime,Rape,7
+2012,K1,Person Crime,Robbery,37
+2012,K1,Property Crime,Burglary,51
+2012,K1,Property Crime,Larceny-Theft,681
+2012,K1,Property Crime,Motor Vehicle Theft,27
+2012,K2,Person Crime,Aggravated Assault,69
+2012,K2,Person Crime,Homicide,1
+2012,K2,Person Crime,Rape,6
+2012,K2,Person Crime,Robbery,44
+2012,K2,Property Crime,Burglary,33
+2012,K2,Property Crime,Larceny-Theft,471
+2012,K2,Property Crime,Motor Vehicle Theft,30
+2012,K3,Person Crime,Aggravated Assault,82
+2012,K3,Person Crime,Rape,1
+2012,K3,Person Crime,Robbery,100
+2012,K3,Property Crime,Arson,1
+2012,K3,Property Crime,Burglary,107
+2012,K3,Property Crime,Larceny-Theft,1013
+2012,K3,Property Crime,Motor Vehicle Theft,71
+2012,L1,Person Crime,Aggravated Assault,43
+2012,L1,Person Crime,Homicide,1
+2012,L1,Person Crime,Rape,6
+2012,L1,Person Crime,Robbery,19
+2012,L1,Property Crime,Arson,1
+2012,L1,Property Crime,Burglary,149
+2012,L1,Property Crime,Larceny-Theft,356
+2012,L1,Property Crime,Motor Vehicle Theft,62
+2012,L2,Person Crime,Aggravated Assault,27
+2012,L2,Person Crime,Rape,2
+2012,L2,Person Crime,Robbery,25
+2012,L2,Property Crime,Arson,5
+2012,L2,Property Crime,Burglary,175
+2012,L2,Property Crime,Larceny-Theft,744
+2012,L2,Property Crime,Motor Vehicle Theft,129
+2012,L3,Person Crime,Aggravated Assault,33
+2012,L3,Person Crime,Rape,3
+2012,L3,Person Crime,Robbery,16
+2012,L3,Property Crime,Arson,2
+2012,L3,Property Crime,Burglary,190
+2012,L3,Property Crime,Larceny-Theft,453
+2012,L3,Property Crime,Motor Vehicle Theft,48
+2012,M1,Person Crime,Aggravated Assault,39
+2012,M1,Person Crime,Rape,4
+2012,M1,Person Crime,Robbery,55
+2012,M1,Property Crime,Arson,2
+2012,M1,Property Crime,Burglary,60
+2012,M1,Property Crime,Larceny-Theft,712
+2012,M1,Property Crime,Motor Vehicle Theft,33
+2012,M2,Person Crime,Aggravated Assault,48
+2012,M2,Person Crime,Rape,2
+2012,M2,Person Crime,Robbery,48
+2012,M2,Property Crime,Burglary,55
+2012,M2,Property Crime,Larceny-Theft,921
+2012,M2,Property Crime,Motor Vehicle Theft,24
+2012,M3,Person Crime,Aggravated Assault,41
+2012,M3,Person Crime,Robbery,81
+2012,M3,Property Crime,Burglary,35
+2012,M3,Property Crime,Larceny-Theft,730
+2012,M3,Property Crime,Motor Vehicle Theft,8
+2012,N1,Person Crime,Aggravated Assault,29
+2012,N1,Person Crime,Rape,2
+2012,N1,Person Crime,Robbery,12
+2012,N1,Property Crime,Burglary,177
+2012,N1,Property Crime,Larceny-Theft,338
+2012,N1,Property Crime,Motor Vehicle Theft,82
+2012,N2,Person Crime,Aggravated Assault,49
+2012,N2,Person Crime,Homicide,1
+2012,N2,Person Crime,Rape,4
+2012,N2,Person Crime,Robbery,33
+2012,N2,Property Crime,Burglary,131
+2012,N2,Property Crime,Larceny-Theft,438
+2012,N2,Property Crime,Motor Vehicle Theft,52
+2012,N3,Person Crime,Aggravated Assault,41
+2012,N3,Person Crime,Rape,8
+2012,N3,Person Crime,Robbery,18
+2012,N3,Property Crime,Arson,2
+2012,N3,Property Crime,Burglary,143
+2012,N3,Property Crime,Larceny-Theft,281
+2012,N3,Property Crime,Motor Vehicle Theft,59
+2012,O1,Person Crime,Aggravated Assault,23
+2012,O1,Person Crime,Homicide,2
+2012,O1,Person Crime,Rape,1
+2012,O1,Person Crime,Robbery,16
+2012,O1,Property Crime,Arson,1
+2012,O1,Property Crime,Burglary,34
+2012,O1,Property Crime,Larceny-Theft,277
+2012,O1,Property Crime,Motor Vehicle Theft,27
+2012,O2,Person Crime,Aggravated Assault,17
+2012,O2,Person Crime,Rape,2
+2012,O2,Person Crime,Robbery,5
+2012,O2,Property Crime,Arson,1
+2012,O2,Property Crime,Burglary,83
+2012,O2,Property Crime,Larceny-Theft,150
+2012,O2,Property Crime,Motor Vehicle Theft,27
+2012,O3,Person Crime,Aggravated Assault,22
+2012,O3,Person Crime,Homicide,1
+2012,O3,Person Crime,Robbery,9
+2012,O3,Property Crime,Arson,4
+2012,O3,Property Crime,Burglary,85
+2012,O3,Property Crime,Larceny-Theft,187
+2012,O3,Property Crime,Motor Vehicle Theft,38
+2012,Q1,Person Crime,Aggravated Assault,20
+2012,Q1,Person Crime,Homicide,1
+2012,Q1,Person Crime,Robbery,6
+2012,Q1,Property Crime,Arson,3
+2012,Q1,Property Crime,Burglary,133
+2012,Q1,Property Crime,Larceny-Theft,359
+2012,Q1,Property Crime,Motor Vehicle Theft,50
+2012,Q2,Person Crime,Aggravated Assault,26
+2012,Q2,Person Crime,Rape,3
+2012,Q2,Person Crime,Robbery,14
+2012,Q2,Property Crime,Arson,1
+2012,Q2,Property Crime,Burglary,162
+2012,Q2,Property Crime,Larceny-Theft,458
+2012,Q2,Property Crime,Motor Vehicle Theft,130
+2012,Q3,Person Crime,Aggravated Assault,35
+2012,Q3,Person Crime,Rape,5
+2012,Q3,Person Crime,Robbery,24
+2012,Q3,Property Crime,Arson,1
+2012,Q3,Property Crime,Burglary,128
+2012,Q3,Property Crime,Larceny-Theft,732
+2012,Q3,Property Crime,Motor Vehicle Theft,74
+2012,R1,Person Crime,Aggravated Assault,64
+2012,R1,Person Crime,Rape,2
+2012,R1,Person Crime,Robbery,54
+2012,R1,Property Crime,Burglary,162
+2012,R1,Property Crime,Larceny-Theft,354
+2012,R1,Property Crime,Motor Vehicle Theft,117
+2012,R2,Person Crime,Aggravated Assault,55
+2012,R2,Person Crime,Robbery,36
+2012,R2,Property Crime,Arson,3
+2012,R2,Property Crime,Burglary,163
+2012,R2,Property Crime,Larceny-Theft,523
+2012,R2,Property Crime,Motor Vehicle Theft,82
+2012,R3,Person Crime,Aggravated Assault,37
+2012,R3,Person Crime,Homicide,1
+2012,R3,Person Crime,Rape,5
+2012,R3,Person Crime,Robbery,56
+2012,R3,Property Crime,Arson,4
+2012,R3,Property Crime,Burglary,210
+2012,R3,Property Crime,Larceny-Theft,476
+2012,R3,Property Crime,Motor Vehicle Theft,85
+2012,S1,Person Crime,Aggravated Assault,60
+2012,S1,Person Crime,Rape,3
+2012,S1,Person Crime,Robbery,62
+2012,S1,Property Crime,Arson,5
+2012,S1,Property Crime,Burglary,170
+2012,S1,Property Crime,Larceny-Theft,297
+2012,S1,Property Crime,Motor Vehicle Theft,76
+2012,S2,Person Crime,Aggravated Assault,73
+2012,S2,Person Crime,Homicide,1
+2012,S2,Person Crime,Rape,6
+2012,S2,Person Crime,Robbery,66
+2012,S2,Property Crime,Arson,5
+2012,S2,Property Crime,Burglary,147
+2012,S2,Property Crime,Larceny-Theft,239
+2012,S2,Property Crime,Motor Vehicle Theft,78
+2012,S3,Person Crime,Aggravated Assault,59
+2012,S3,Person Crime,Homicide,4
+2012,S3,Person Crime,Rape,1
+2012,S3,Person Crime,Robbery,45
+2012,S3,Property Crime,Arson,1
+2012,S3,Property Crime,Burglary,235
+2012,S3,Property Crime,Larceny-Theft,368
+2012,S3,Property Crime,Motor Vehicle Theft,77
+2012,U1,Person Crime,Aggravated Assault,46
+2012,U1,Person Crime,Homicide,3
+2012,U1,Person Crime,Rape,9
+2012,U1,Person Crime,Robbery,30
+2012,U1,Property Crime,Burglary,327
+2012,U1,Property Crime,Larceny-Theft,687
+2012,U1,Property Crime,Motor Vehicle Theft,165
+2012,U2,Person Crime,Aggravated Assault,44
+2012,U2,Person Crime,Rape,8
+2012,U2,Person Crime,Robbery,40
+2012,U2,Property Crime,Arson,4
+2012,U2,Property Crime,Burglary,139
+2012,U2,Property Crime,Larceny-Theft,526
+2012,U2,Property Crime,Motor Vehicle Theft,61
+2012,U3,Person Crime,Aggravated Assault,20
+2012,U3,Person Crime,Rape,1
+2012,U3,Person Crime,Robbery,21
+2012,U3,Property Crime,Burglary,275
+2012,U3,Property Crime,Larceny-Theft,511
+2012,U3,Property Crime,Motor Vehicle Theft,89
+2012,W1,Person Crime,Aggravated Assault,26
+2012,W1,Person Crime,Rape,3
+2012,W1,Person Crime,Robbery,12
+2012,W1,Property Crime,Arson,1
+2012,W1,Property Crime,Burglary,115
+2012,W1,Property Crime,Larceny-Theft,360
+2012,W1,Property Crime,Motor Vehicle Theft,60
+2012,W2,Person Crime,Aggravated Assault,31
+2012,W2,Person Crime,Homicide,1
+2012,W2,Person Crime,Rape,1
+2012,W2,Person Crime,Robbery,21
+2012,W2,Property Crime,Arson,1
+2012,W2,Property Crime,Burglary,135
+2012,W2,Property Crime,Larceny-Theft,422
+2012,W2,Property Crime,Motor Vehicle Theft,93
+2012,W3,Person Crime,Aggravated Assault,21
+2012,W3,Person Crime,Homicide,1
+2012,W3,Person Crime,Rape,1
+2012,W3,Person Crime,Robbery,11
+2012,W3,Property Crime,Arson,1
+2012,W3,Property Crime,Burglary,145
+2012,W3,Property Crime,Larceny-Theft,404
+2012,W3,Property Crime,Motor Vehicle Theft,69
+2013,B1,Person Crime,Aggravated Assault,35
+2013,B1,Person Crime,Robbery,15
+2013,B1,Property Crime,Arson,3
+2013,B1,Property Crime,Burglary,145
+2013,B1,Property Crime,Larceny-Theft,571
+2013,B1,Property Crime,Motor Vehicle Theft,104
+2013,B2,Person Crime,Aggravated Assault,28
+2013,B2,Person Crime,Rape,1
+2013,B2,Person Crime,Robbery,14
+2013,B2,Property Crime,Burglary,202
+2013,B2,Property Crime,Larceny-Theft,691
+2013,B2,Property Crime,Motor Vehicle Theft,183
+2013,B3,Person Crime,Aggravated Assault,23
+2013,B3,Person Crime,Homicide,2
+2013,B3,Person Crime,Rape,2
+2013,B3,Person Crime,Robbery,17
+2013,B3,Property Crime,Arson,1
+2013,B3,Property Crime,Burglary,239
+2013,B3,Property Crime,Larceny-Theft,632
+2013,B3,Property Crime,Motor Vehicle Theft,169
+2013,C1,Person Crime,Aggravated Assault,13
+2013,C1,Person Crime,Rape,3
+2013,C1,Person Crime,Robbery,27
+2013,C1,Property Crime,Burglary,151
+2013,C1,Property Crime,Larceny-Theft,479
+2013,C1,Property Crime,Motor Vehicle Theft,89
+2013,C2,Person Crime,Aggravated Assault,12
+2013,C2,Person Crime,Rape,1
+2013,C2,Person Crime,Robbery,13
+2013,C2,Property Crime,Arson,1
+2013,C2,Property Crime,Burglary,104
+2013,C2,Property Crime,Larceny-Theft,340
+2013,C2,Property Crime,Motor Vehicle Theft,75
+2013,C3,Person Crime,Aggravated Assault,20
+2013,C3,Person Crime,Rape,5
+2013,C3,Person Crime,Robbery,32
+2013,C3,Property Crime,Arson,4
+2013,C3,Property Crime,Burglary,112
+2013,C3,Property Crime,Larceny-Theft,302
+2013,C3,Property Crime,Motor Vehicle Theft,37
+2013,D1,Person Crime,Aggravated Assault,61
+2013,D1,Person Crime,Rape,3
+2013,D1,Person Crime,Robbery,42
+2013,D1,Property Crime,Burglary,104
+2013,D1,Property Crime,Larceny-Theft,607
+2013,D1,Property Crime,Motor Vehicle Theft,49
+2013,D2,Person Crime,Aggravated Assault,29
+2013,D2,Person Crime,Rape,3
+2013,D2,Person Crime,Robbery,23
+2013,D2,Property Crime,Burglary,148
+2013,D2,Property Crime,Larceny-Theft,716
+2013,D2,Property Crime,Motor Vehicle Theft,81
+2013,D3,Person Crime,Aggravated Assault,36
+2013,D3,Person Crime,Homicide,1
+2013,D3,Person Crime,Rape,2
+2013,D3,Person Crime,Robbery,23
+2013,D3,Property Crime,Arson,3
+2013,D3,Property Crime,Burglary,207
+2013,D3,Property Crime,Larceny-Theft,564
+2013,D3,Property Crime,Motor Vehicle Theft,97
+2013,E1,Person Crime,Aggravated Assault,39
+2013,E1,Person Crime,Rape,5
+2013,E1,Person Crime,Robbery,33
+2013,E1,Property Crime,Arson,1
+2013,E1,Property Crime,Burglary,207
+2013,E1,Property Crime,Larceny-Theft,441
+2013,E1,Property Crime,Motor Vehicle Theft,112
+2013,E2,Person Crime,Aggravated Assault,70
+2013,E2,Person Crime,Homicide,1
+2013,E2,Person Crime,Rape,5
+2013,E2,Person Crime,Robbery,67
+2013,E2,Property Crime,Arson,2
+2013,E2,Property Crime,Burglary,96
+2013,E2,Property Crime,Larceny-Theft,839
+2013,E2,Property Crime,Motor Vehicle Theft,64
+2013,E3,Person Crime,Aggravated Assault,48
+2013,E3,Person Crime,Rape,3
+2013,E3,Person Crime,Robbery,37
+2013,E3,Property Crime,Burglary,194
+2013,E3,Property Crime,Larceny-Theft,698
+2013,E3,Property Crime,Motor Vehicle Theft,94
+2013,F1,Person Crime,Aggravated Assault,37
+2013,F1,Person Crime,Homicide,2
+2013,F1,Person Crime,Rape,2
+2013,F1,Person Crime,Robbery,20
+2013,F1,Property Crime,Arson,1
+2013,F1,Property Crime,Burglary,131
+2013,F1,Property Crime,Larceny-Theft,267
+2013,F1,Property Crime,Motor Vehicle Theft,70
+2013,F2,Person Crime,Aggravated Assault,40
+2013,F2,Person Crime,Homicide,1
+2013,F2,Person Crime,Rape,4
+2013,F2,Person Crime,Robbery,33
+2013,F2,Property Crime,Arson,3
+2013,F2,Property Crime,Burglary,137
+2013,F2,Property Crime,Larceny-Theft,441
+2013,F2,Property Crime,Motor Vehicle Theft,86
+2013,F3,Person Crime,Aggravated Assault,45
+2013,F3,Person Crime,Rape,1
+2013,F3,Person Crime,Robbery,22
+2013,F3,Property Crime,Arson,4
+2013,F3,Property Crime,Burglary,151
+2013,F3,Property Crime,Larceny-Theft,262
+2013,F3,Property Crime,Motor Vehicle Theft,84
+2013,G1,Person Crime,Aggravated Assault,37
+2013,G1,Person Crime,Rape,5
+2013,G1,Person Crime,Robbery,28
+2013,G1,Property Crime,Arson,1
+2013,G1,Property Crime,Burglary,57
+2013,G1,Property Crime,Larceny-Theft,239
+2013,G1,Property Crime,Motor Vehicle Theft,52
+2013,G2,Person Crime,Aggravated Assault,32
+2013,G2,Person Crime,Homicide,1
+2013,G2,Person Crime,Robbery,38
+2013,G2,Property Crime,Arson,1
+2013,G2,Property Crime,Burglary,113
+2013,G2,Property Crime,Larceny-Theft,412
+2013,G2,Property Crime,Motor Vehicle Theft,42
+2013,G3,Person Crime,Aggravated Assault,31
+2013,G3,Person Crime,Homicide,1
+2013,G3,Person Crime,Rape,5
+2013,G3,Person Crime,Robbery,27
+2013,G3,Property Crime,Arson,3
+2013,G3,Property Crime,Burglary,80
+2013,G3,Property Crime,Larceny-Theft,258
+2013,G3,Property Crime,Motor Vehicle Theft,40
+2013,J1,Person Crime,Aggravated Assault,26
+2013,J1,Person Crime,Rape,3
+2013,J1,Person Crime,Robbery,38
+2013,J1,Property Crime,Arson,3
+2013,J1,Property Crime,Burglary,162
+2013,J1,Property Crime,Larceny-Theft,521
+2013,J1,Property Crime,Motor Vehicle Theft,84
+2013,J2,Person Crime,Aggravated Assault,9
+2013,J2,Person Crime,Rape,2
+2013,J2,Person Crime,Robbery,7
+2013,J2,Property Crime,Arson,1
+2013,J2,Property Crime,Burglary,206
+2013,J2,Property Crime,Larceny-Theft,424
+2013,J2,Property Crime,Motor Vehicle Theft,92
+2013,J3,Person Crime,Aggravated Assault,24
+2013,J3,Person Crime,Rape,4
+2013,J3,Person Crime,Robbery,8
+2013,J3,Property Crime,Burglary,118
+2013,J3,Property Crime,Larceny-Theft,474
+2013,J3,Property Crime,Motor Vehicle Theft,122
+2013,K1,Person Crime,Aggravated Assault,32
+2013,K1,Person Crime,Rape,5
+2013,K1,Person Crime,Robbery,38
+2013,K1,Property Crime,Burglary,43
+2013,K1,Property Crime,Larceny-Theft,622
+2013,K1,Property Crime,Motor Vehicle Theft,26
+2013,K2,Person Crime,Aggravated Assault,83
+2013,K2,Person Crime,Homicide,3
+2013,K2,Person Crime,Rape,2
+2013,K2,Person Crime,Robbery,56
+2013,K2,Property Crime,Arson,2
+2013,K2,Property Crime,Burglary,53
+2013,K2,Property Crime,Larceny-Theft,484
+2013,K2,Property Crime,Motor Vehicle Theft,25
+2013,K3,Person Crime,Aggravated Assault,86
+2013,K3,Person Crime,Rape,5
+2013,K3,Person Crime,Robbery,102
+2013,K3,Property Crime,Burglary,97
+2013,K3,Property Crime,Larceny-Theft,1145
+2013,K3,Property Crime,Motor Vehicle Theft,70
+2013,L1,Person Crime,Aggravated Assault,38
+2013,L1,Person Crime,Rape,2
+2013,L1,Person Crime,Robbery,35
+2013,L1,Property Crime,Arson,1
+2013,L1,Property Crime,Burglary,186
+2013,L1,Property Crime,Larceny-Theft,426
+2013,L1,Property Crime,Motor Vehicle Theft,111
+2013,L2,Person Crime,Aggravated Assault,21
+2013,L2,Person Crime,Rape,3
+2013,L2,Person Crime,Robbery,50
+2013,L2,Property Crime,Arson,3
+2013,L2,Property Crime,Burglary,180
+2013,L2,Property Crime,Larceny-Theft,884
+2013,L2,Property Crime,Motor Vehicle Theft,197
+2013,L3,Person Crime,Aggravated Assault,25
+2013,L3,Person Crime,Rape,4
+2013,L3,Person Crime,Robbery,13
+2013,L3,Property Crime,Arson,2
+2013,L3,Property Crime,Burglary,225
+2013,L3,Property Crime,Larceny-Theft,415
+2013,L3,Property Crime,Motor Vehicle Theft,54
+2013,M1,Person Crime,Aggravated Assault,64
+2013,M1,Person Crime,Rape,3
+2013,M1,Person Crime,Robbery,55
+2013,M1,Property Crime,Burglary,47
+2013,M1,Property Crime,Larceny-Theft,1040
+2013,M1,Property Crime,Motor Vehicle Theft,41
+2013,M2,Person Crime,Aggravated Assault,33
+2013,M2,Person Crime,Rape,6
+2013,M2,Person Crime,Robbery,48
+2013,M2,Property Crime,Burglary,56
+2013,M2,Property Crime,Larceny-Theft,905
+2013,M2,Property Crime,Motor Vehicle Theft,24
+2013,M3,Person Crime,Aggravated Assault,54
+2013,M3,Person Crime,Rape,3
+2013,M3,Person Crime,Robbery,66
+2013,M3,Property Crime,Burglary,30
+2013,M3,Property Crime,Larceny-Theft,793
+2013,M3,Property Crime,Motor Vehicle Theft,14
+2013,N1,Person Crime,Aggravated Assault,20
+2013,N1,Person Crime,Rape,4
+2013,N1,Person Crime,Robbery,13
+2013,N1,Property Crime,Arson,1
+2013,N1,Property Crime,Burglary,165
+2013,N1,Property Crime,Larceny-Theft,434
+2013,N1,Property Crime,Motor Vehicle Theft,92
+2013,N2,Person Crime,Aggravated Assault,42
+2013,N2,Person Crime,Rape,1
+2013,N2,Person Crime,Robbery,31
+2013,N2,Property Crime,Arson,2
+2013,N2,Property Crime,Burglary,138
+2013,N2,Property Crime,Larceny-Theft,460
+2013,N2,Property Crime,Motor Vehicle Theft,57
+2013,N3,Person Crime,Aggravated Assault,30
+2013,N3,Person Crime,Rape,7
+2013,N3,Person Crime,Robbery,21
+2013,N3,Property Crime,Arson,1
+2013,N3,Property Crime,Burglary,136
+2013,N3,Property Crime,Larceny-Theft,448
+2013,N3,Property Crime,Motor Vehicle Theft,91
+2013,O1,Person Crime,Aggravated Assault,21
+2013,O1,Person Crime,Rape,2
+2013,O1,Person Crime,Robbery,11
+2013,O1,Property Crime,Burglary,21
+2013,O1,Property Crime,Larceny-Theft,319
+2013,O1,Property Crime,Motor Vehicle Theft,47
+2013,O2,Person Crime,Aggravated Assault,18
+2013,O2,Person Crime,Homicide,1
+2013,O2,Person Crime,Robbery,7
+2013,O2,Property Crime,Burglary,66
+2013,O2,Property Crime,Larceny-Theft,173
+2013,O2,Property Crime,Motor Vehicle Theft,31
+2013,O3,Person Crime,Aggravated Assault,18
+2013,O3,Person Crime,Rape,3
+2013,O3,Person Crime,Robbery,14
+2013,O3,Property Crime,Burglary,60
+2013,O3,Property Crime,Larceny-Theft,181
+2013,O3,Property Crime,Motor Vehicle Theft,54
+2013,Q1,Person Crime,Aggravated Assault,26
+2013,Q1,Person Crime,Rape,1
+2013,Q1,Person Crime,Robbery,10
+2013,Q1,Property Crime,Arson,2
+2013,Q1,Property Crime,Burglary,135
+2013,Q1,Property Crime,Larceny-Theft,386
+2013,Q1,Property Crime,Motor Vehicle Theft,51
+2013,Q2,Person Crime,Aggravated Assault,17
+2013,Q2,Person Crime,Rape,3
+2013,Q2,Person Crime,Robbery,14
+2013,Q2,Property Crime,Arson,2
+2013,Q2,Property Crime,Burglary,253
+2013,Q2,Property Crime,Larceny-Theft,686
+2013,Q2,Property Crime,Motor Vehicle Theft,146
+2013,Q3,Person Crime,Aggravated Assault,31
+2013,Q3,Person Crime,Rape,2
+2013,Q3,Person Crime,Robbery,20
+2013,Q3,Property Crime,Arson,2
+2013,Q3,Property Crime,Burglary,168
+2013,Q3,Property Crime,Larceny-Theft,788
+2013,Q3,Property Crime,Motor Vehicle Theft,80
+2013,R1,Person Crime,Aggravated Assault,43
+2013,R1,Person Crime,Homicide,1
+2013,R1,Person Crime,Rape,4
+2013,R1,Person Crime,Robbery,48
+2013,R1,Property Crime,Arson,5
+2013,R1,Property Crime,Burglary,181
+2013,R1,Property Crime,Larceny-Theft,438
+2013,R1,Property Crime,Motor Vehicle Theft,148
+2013,R2,Person Crime,Aggravated Assault,57
+2013,R2,Person Crime,Homicide,1
+2013,R2,Person Crime,Rape,2
+2013,R2,Person Crime,Robbery,74
+2013,R2,Property Crime,Arson,1
+2013,R2,Property Crime,Burglary,174
+2013,R2,Property Crime,Larceny-Theft,587
+2013,R2,Property Crime,Motor Vehicle Theft,86
+2013,R3,Person Crime,Aggravated Assault,35
+2013,R3,Person Crime,Rape,2
+2013,R3,Person Crime,Robbery,54
+2013,R3,Property Crime,Arson,4
+2013,R3,Property Crime,Burglary,246
+2013,R3,Property Crime,Larceny-Theft,502
+2013,R3,Property Crime,Motor Vehicle Theft,95
+2013,S1,Person Crime,Aggravated Assault,44
+2013,S1,Person Crime,Homicide,1
+2013,S1,Person Crime,Rape,2
+2013,S1,Person Crime,Robbery,55
+2013,S1,Property Crime,Arson,5
+2013,S1,Property Crime,Burglary,184
+2013,S1,Property Crime,Larceny-Theft,327
+2013,S1,Property Crime,Motor Vehicle Theft,123
+2013,S2,Person Crime,Aggravated Assault,69
+2013,S2,Person Crime,Homicide,3
+2013,S2,Person Crime,Robbery,83
+2013,S2,Property Crime,Arson,1
+2013,S2,Property Crime,Burglary,167
+2013,S2,Property Crime,Larceny-Theft,287
+2013,S2,Property Crime,Motor Vehicle Theft,118
+2013,S3,Person Crime,Aggravated Assault,57
+2013,S3,Person Crime,Rape,3
+2013,S3,Person Crime,Robbery,58
+2013,S3,Property Crime,Arson,1
+2013,S3,Property Crime,Burglary,182
+2013,S3,Property Crime,Larceny-Theft,309
+2013,S3,Property Crime,Motor Vehicle Theft,115
+2013,U1,Person Crime,Aggravated Assault,18
+2013,U1,Person Crime,Rape,4
+2013,U1,Person Crime,Robbery,43
+2013,U1,Property Crime,Arson,5
+2013,U1,Property Crime,Burglary,286
+2013,U1,Property Crime,Larceny-Theft,702
+2013,U1,Property Crime,Motor Vehicle Theft,218
+2013,U2,Person Crime,Aggravated Assault,54
+2013,U2,Person Crime,Homicide,1
+2013,U2,Person Crime,Rape,4
+2013,U2,Person Crime,Robbery,29
+2013,U2,Property Crime,Arson,1
+2013,U2,Property Crime,Burglary,114
+2013,U2,Property Crime,Larceny-Theft,585
+2013,U2,Property Crime,Motor Vehicle Theft,74
+2013,U3,Person Crime,Aggravated Assault,11
+2013,U3,Person Crime,Rape,1
+2013,U3,Person Crime,Robbery,18
+2013,U3,Property Crime,Arson,2
+2013,U3,Property Crime,Burglary,323
+2013,U3,Property Crime,Larceny-Theft,660
+2013,U3,Property Crime,Motor Vehicle Theft,132
+2013,W1,Person Crime,Aggravated Assault,25
+2013,W1,Person Crime,Rape,1
+2013,W1,Person Crime,Robbery,15
+2013,W1,Property Crime,Arson,2
+2013,W1,Property Crime,Burglary,160
+2013,W1,Property Crime,Larceny-Theft,357
+2013,W1,Property Crime,Motor Vehicle Theft,64
+2013,W2,Person Crime,Aggravated Assault,26
+2013,W2,Person Crime,Rape,2
+2013,W2,Person Crime,Robbery,23
+2013,W2,Property Crime,Arson,1
+2013,W2,Property Crime,Burglary,220
+2013,W2,Property Crime,Larceny-Theft,423
+2013,W2,Property Crime,Motor Vehicle Theft,94
+2013,W3,Person Crime,Aggravated Assault,26
+2013,W3,Person Crime,Rape,1
+2013,W3,Person Crime,Robbery,13
+2013,W3,Property Crime,Burglary,171
+2013,W3,Property Crime,Larceny-Theft,470
+2013,W3,Property Crime,Motor Vehicle Theft,87
+2014,B1,Person Crime,Aggravated Assault,29
+2014,B1,Person Crime,Rape,3
+2014,B1,Person Crime,Robbery,20
+2014,B1,Property Crime,Burglary,191
+2014,B1,Property Crime,Larceny-Theft,625
+2014,B1,Property Crime,Motor Vehicle Theft,150
+2014,B2,Person Crime,Aggravated Assault,27
+2014,B2,Person Crime,Rape,2
+2014,B2,Person Crime,Robbery,16
+2014,B2,Property Crime,Arson,2
+2014,B2,Property Crime,Burglary,175
+2014,B2,Property Crime,Larceny-Theft,636
+2014,B2,Property Crime,Motor Vehicle Theft,243
+2014,B3,Person Crime,Aggravated Assault,30
+2014,B3,Person Crime,Rape,5
+2014,B3,Person Crime,Robbery,22
+2014,B3,Property Crime,Arson,1
+2014,B3,Property Crime,Burglary,294
+2014,B3,Property Crime,Larceny-Theft,670
+2014,B3,Property Crime,Motor Vehicle Theft,227
+2014,C1,Person Crime,Aggravated Assault,23
+2014,C1,Person Crime,Rape,3
+2014,C1,Person Crime,Robbery,16
+2014,C1,Property Crime,Burglary,128
+2014,C1,Property Crime,Larceny-Theft,440
+2014,C1,Property Crime,Motor Vehicle Theft,112
+2014,C2,Person Crime,Aggravated Assault,14
+2014,C2,Person Crime,Robbery,9
+2014,C2,Property Crime,Arson,1
+2014,C2,Property Crime,Burglary,110
+2014,C2,Property Crime,Larceny-Theft,514
+2014,C2,Property Crime,Motor Vehicle Theft,89
+2014,C3,Person Crime,Aggravated Assault,17
+2014,C3,Person Crime,Homicide,1
+2014,C3,Person Crime,Rape,2
+2014,C3,Person Crime,Robbery,23
+2014,C3,Property Crime,Burglary,139
+2014,C3,Property Crime,Larceny-Theft,394
+2014,C3,Property Crime,Motor Vehicle Theft,57
+2014,D1,Person Crime,Aggravated Assault,61
+2014,D1,Person Crime,Homicide,1
+2014,D1,Person Crime,Rape,7
+2014,D1,Person Crime,Robbery,47
+2014,D1,Property Crime,Arson,1
+2014,D1,Property Crime,Burglary,82
+2014,D1,Property Crime,Larceny-Theft,864
+2014,D1,Property Crime,Motor Vehicle Theft,64
+2014,D2,Person Crime,Aggravated Assault,25
+2014,D2,Person Crime,Rape,3
+2014,D2,Person Crime,Robbery,11
+2014,D2,Property Crime,Burglary,148
+2014,D2,Property Crime,Larceny-Theft,719
+2014,D2,Property Crime,Motor Vehicle Theft,78
+2014,D3,Person Crime,Aggravated Assault,42
+2014,D3,Person Crime,Homicide,1
+2014,D3,Person Crime,Rape,3
+2014,D3,Person Crime,Robbery,21
+2014,D3,Property Crime,Burglary,132
+2014,D3,Property Crime,Larceny-Theft,636
+2014,D3,Property Crime,Motor Vehicle Theft,142
+2014,E1,Person Crime,Aggravated Assault,55
+2014,E1,Person Crime,Rape,5
+2014,E1,Person Crime,Robbery,32
+2014,E1,Property Crime,Burglary,195
+2014,E1,Property Crime,Larceny-Theft,503
+2014,E1,Property Crime,Motor Vehicle Theft,129
+2014,E2,Person Crime,Aggravated Assault,85
+2014,E2,Person Crime,Rape,2
+2014,E2,Person Crime,Robbery,84
+2014,E2,Property Crime,Arson,4
+2014,E2,Property Crime,Burglary,66
+2014,E2,Property Crime,Larceny-Theft,1234
+2014,E2,Property Crime,Motor Vehicle Theft,58
+2014,E3,Person Crime,Aggravated Assault,75
+2014,E3,Person Crime,Rape,5
+2014,E3,Person Crime,Robbery,30
+2014,E3,Property Crime,Arson,4
+2014,E3,Property Crime,Burglary,142
+2014,E3,Property Crime,Larceny-Theft,751
+2014,E3,Property Crime,Motor Vehicle Theft,94
+2014,F1,Person Crime,Aggravated Assault,40
+2014,F1,Person Crime,Homicide,1
+2014,F1,Person Crime,Robbery,8
+2014,F1,Property Crime,Arson,2
+2014,F1,Property Crime,Burglary,74
+2014,F1,Property Crime,Larceny-Theft,221
+2014,F1,Property Crime,Motor Vehicle Theft,52
+2014,F2,Person Crime,Aggravated Assault,41
+2014,F2,Person Crime,Rape,2
+2014,F2,Person Crime,Robbery,41
+2014,F2,Property Crime,Arson,1
+2014,F2,Property Crime,Burglary,125
+2014,F2,Property Crime,Larceny-Theft,437
+2014,F2,Property Crime,Motor Vehicle Theft,110
+2014,F3,Person Crime,Aggravated Assault,47
+2014,F3,Person Crime,Rape,4
+2014,F3,Person Crime,Robbery,20
+2014,F3,Property Crime,Arson,3
+2014,F3,Property Crime,Burglary,157
+2014,F3,Property Crime,Larceny-Theft,329
+2014,F3,Property Crime,Motor Vehicle Theft,152
+2014,G1,Person Crime,Aggravated Assault,46
+2014,G1,Person Crime,Rape,1
+2014,G1,Person Crime,Robbery,17
+2014,G1,Property Crime,Burglary,50
+2014,G1,Property Crime,Larceny-Theft,266
+2014,G1,Property Crime,Motor Vehicle Theft,52
+2014,G2,Person Crime,Aggravated Assault,47
+2014,G2,Person Crime,Rape,6
+2014,G2,Person Crime,Robbery,23
+2014,G2,Property Crime,Arson,3
+2014,G2,Property Crime,Burglary,112
+2014,G2,Property Crime,Larceny-Theft,480
+2014,G2,Property Crime,Motor Vehicle Theft,75
+2014,G3,Person Crime,Aggravated Assault,32
+2014,G3,Person Crime,Homicide,3
+2014,G3,Person Crime,Rape,2
+2014,G3,Person Crime,Robbery,21
+2014,G3,Property Crime,Burglary,104
+2014,G3,Property Crime,Larceny-Theft,387
+2014,G3,Property Crime,Motor Vehicle Theft,68
+2014,J1,Person Crime,Aggravated Assault,34
+2014,J1,Person Crime,Homicide,1
+2014,J1,Person Crime,Rape,2
+2014,J1,Person Crime,Robbery,26
+2014,J1,Property Crime,Arson,1
+2014,J1,Property Crime,Burglary,145
+2014,J1,Property Crime,Larceny-Theft,523
+2014,J1,Property Crime,Motor Vehicle Theft,186
+2014,J2,Person Crime,Aggravated Assault,21
+2014,J2,Person Crime,Rape,2
+2014,J2,Person Crime,Robbery,8
+2014,J2,Property Crime,Arson,1
+2014,J2,Property Crime,Burglary,181
+2014,J2,Property Crime,Larceny-Theft,552
+2014,J2,Property Crime,Motor Vehicle Theft,164
+2014,J3,Person Crime,Aggravated Assault,20
+2014,J3,Person Crime,Rape,1
+2014,J3,Person Crime,Robbery,17
+2014,J3,Property Crime,Burglary,145
+2014,J3,Property Crime,Larceny-Theft,552
+2014,J3,Property Crime,Motor Vehicle Theft,191
+2014,K1,Person Crime,Aggravated Assault,42
+2014,K1,Person Crime,Rape,10
+2014,K1,Person Crime,Robbery,56
+2014,K1,Property Crime,Arson,2
+2014,K1,Property Crime,Burglary,61
+2014,K1,Property Crime,Larceny-Theft,684
+2014,K1,Property Crime,Motor Vehicle Theft,31
+2014,K2,Person Crime,Aggravated Assault,75
+2014,K2,Person Crime,Homicide,2
+2014,K2,Person Crime,Rape,6
+2014,K2,Person Crime,Robbery,55
+2014,K2,Property Crime,Burglary,80
+2014,K2,Property Crime,Larceny-Theft,620
+2014,K2,Property Crime,Motor Vehicle Theft,30
+2014,K3,Person Crime,Aggravated Assault,100
+2014,K3,Person Crime,Homicide,5
+2014,K3,Person Crime,Rape,2
+2014,K3,Person Crime,Robbery,129
+2014,K3,Property Crime,Arson,3
+2014,K3,Property Crime,Burglary,115
+2014,K3,Property Crime,Larceny-Theft,1382
+2014,K3,Property Crime,Motor Vehicle Theft,97
+2014,L1,Person Crime,Aggravated Assault,48
+2014,L1,Person Crime,Rape,1
+2014,L1,Person Crime,Robbery,19
+2014,L1,Property Crime,Arson,2
+2014,L1,Property Crime,Burglary,181
+2014,L1,Property Crime,Larceny-Theft,370
+2014,L1,Property Crime,Motor Vehicle Theft,158
+2014,L2,Person Crime,Aggravated Assault,25
+2014,L2,Person Crime,Rape,1
+2014,L2,Person Crime,Robbery,47
+2014,L2,Property Crime,Arson,1
+2014,L2,Property Crime,Burglary,171
+2014,L2,Property Crime,Larceny-Theft,853
+2014,L2,Property Crime,Motor Vehicle Theft,278
+2014,L3,Person Crime,Aggravated Assault,24
+2014,L3,Person Crime,Rape,2
+2014,L3,Person Crime,Robbery,22
+2014,L3,Property Crime,Burglary,191
+2014,L3,Property Crime,Larceny-Theft,355
+2014,L3,Property Crime,Motor Vehicle Theft,73
+2014,M1,Person Crime,Aggravated Assault,46
+2014,M1,Person Crime,Homicide,1
+2014,M1,Person Crime,Rape,4
+2014,M1,Person Crime,Robbery,45
+2014,M1,Property Crime,Burglary,56
+2014,M1,Property Crime,Larceny-Theft,1140
+2014,M1,Property Crime,Motor Vehicle Theft,29
+2014,M2,Person Crime,Aggravated Assault,34
+2014,M2,Person Crime,Homicide,2
+2014,M2,Person Crime,Rape,3
+2014,M2,Person Crime,Robbery,68
+2014,M2,Property Crime,Arson,1
+2014,M2,Property Crime,Burglary,69
+2014,M2,Property Crime,Larceny-Theft,1088
+2014,M2,Property Crime,Motor Vehicle Theft,20
+2014,M3,Person Crime,Aggravated Assault,53
+2014,M3,Person Crime,Homicide,1
+2014,M3,Person Crime,Rape,3
+2014,M3,Person Crime,Robbery,96
+2014,M3,Property Crime,Burglary,36
+2014,M3,Property Crime,Larceny-Theft,930
+2014,M3,Property Crime,Motor Vehicle Theft,12
+2014,N1,Person Crime,Aggravated Assault,22
+2014,N1,Person Crime,Rape,1
+2014,N1,Person Crime,Robbery,15
+2014,N1,Property Crime,Arson,1
+2014,N1,Property Crime,Burglary,207
+2014,N1,Property Crime,Larceny-Theft,476
+2014,N1,Property Crime,Motor Vehicle Theft,115
+2014,N2,Person Crime,Aggravated Assault,49
+2014,N2,Person Crime,Rape,9
+2014,N2,Person Crime,Robbery,28
+2014,N2,Property Crime,Arson,2
+2014,N2,Property Crime,Burglary,155
+2014,N2,Property Crime,Larceny-Theft,561
+2014,N2,Property Crime,Motor Vehicle Theft,124
+2014,N3,Person Crime,Aggravated Assault,56
+2014,N3,Person Crime,Rape,2
+2014,N3,Person Crime,Robbery,19
+2014,N3,Property Crime,Arson,1
+2014,N3,Property Crime,Burglary,154
+2014,N3,Property Crime,Larceny-Theft,481
+2014,N3,Property Crime,Motor Vehicle Theft,199
+2014,O1,Person Crime,Aggravated Assault,28
+2014,O1,Person Crime,Rape,4
+2014,O1,Person Crime,Robbery,13
+2014,O1,Property Crime,Burglary,25
+2014,O1,Property Crime,Larceny-Theft,439
+2014,O1,Property Crime,Motor Vehicle Theft,34
+2014,O2,Person Crime,Aggravated Assault,19
+2014,O2,Person Crime,Rape,1
+2014,O2,Person Crime,Robbery,16
+2014,O2,Property Crime,Arson,2
+2014,O2,Property Crime,Burglary,51
+2014,O2,Property Crime,Larceny-Theft,173
+2014,O2,Property Crime,Motor Vehicle Theft,27
+2014,O3,Person Crime,Aggravated Assault,20
+2014,O3,Person Crime,Homicide,1
+2014,O3,Person Crime,Rape,2
+2014,O3,Person Crime,Robbery,6
+2014,O3,Property Crime,Burglary,72
+2014,O3,Property Crime,Larceny-Theft,225
+2014,O3,Property Crime,Motor Vehicle Theft,44
+2014,Q1,Person Crime,Aggravated Assault,16
+2014,Q1,Person Crime,Rape,1
+2014,Q1,Person Crime,Robbery,5
+2014,Q1,Property Crime,Arson,1
+2014,Q1,Property Crime,Burglary,153
+2014,Q1,Property Crime,Larceny-Theft,430
+2014,Q1,Property Crime,Motor Vehicle Theft,111
+2014,Q2,Person Crime,Aggravated Assault,20
+2014,Q2,Person Crime,Homicide,1
+2014,Q2,Person Crime,Robbery,11
+2014,Q2,Property Crime,Burglary,214
+2014,Q2,Property Crime,Larceny-Theft,645
+2014,Q2,Property Crime,Motor Vehicle Theft,153
+2014,Q3,Person Crime,Aggravated Assault,31
+2014,Q3,Person Crime,Rape,4
+2014,Q3,Person Crime,Robbery,21
+2014,Q3,Property Crime,Burglary,155
+2014,Q3,Property Crime,Larceny-Theft,828
+2014,Q3,Property Crime,Motor Vehicle Theft,113
+2014,R1,Person Crime,Aggravated Assault,54
+2014,R1,Person Crime,Rape,4
+2014,R1,Person Crime,Robbery,30
+2014,R1,Property Crime,Arson,3
+2014,R1,Property Crime,Burglary,234
+2014,R1,Property Crime,Larceny-Theft,451
+2014,R1,Property Crime,Motor Vehicle Theft,213
+2014,R2,Person Crime,Aggravated Assault,53
+2014,R2,Person Crime,Rape,3
+2014,R2,Person Crime,Robbery,49
+2014,R2,Property Crime,Arson,4
+2014,R2,Property Crime,Burglary,195
+2014,R2,Property Crime,Larceny-Theft,766
+2014,R2,Property Crime,Motor Vehicle Theft,121
+2014,R3,Person Crime,Aggravated Assault,67
+2014,R3,Person Crime,Rape,2
+2014,R3,Person Crime,Robbery,46
+2014,R3,Property Crime,Arson,1
+2014,R3,Property Crime,Burglary,264
+2014,R3,Property Crime,Larceny-Theft,629
+2014,R3,Property Crime,Motor Vehicle Theft,138
+2014,S1,Person Crime,Aggravated Assault,55
+2014,S1,Person Crime,Homicide,1
+2014,S1,Person Crime,Rape,4
+2014,S1,Person Crime,Robbery,48
+2014,S1,Property Crime,Arson,4
+2014,S1,Property Crime,Burglary,182
+2014,S1,Property Crime,Larceny-Theft,259
+2014,S1,Property Crime,Motor Vehicle Theft,126
+2014,S2,Person Crime,Aggravated Assault,68
+2014,S2,Person Crime,Homicide,1
+2014,S2,Person Crime,Rape,6
+2014,S2,Person Crime,Robbery,76
+2014,S2,Property Crime,Arson,1
+2014,S2,Property Crime,Burglary,196
+2014,S2,Property Crime,Larceny-Theft,346
+2014,S2,Property Crime,Motor Vehicle Theft,128
+2014,S3,Person Crime,Aggravated Assault,61
+2014,S3,Person Crime,Homicide,1
+2014,S3,Person Crime,Robbery,63
+2014,S3,Property Crime,Arson,3
+2014,S3,Property Crime,Burglary,171
+2014,S3,Property Crime,Larceny-Theft,361
+2014,S3,Property Crime,Motor Vehicle Theft,114
+2014,U1,Person Crime,Aggravated Assault,44
+2014,U1,Person Crime,Homicide,1
+2014,U1,Person Crime,Rape,4
+2014,U1,Person Crime,Robbery,33
+2014,U1,Property Crime,Arson,2
+2014,U1,Property Crime,Burglary,310
+2014,U1,Property Crime,Larceny-Theft,661
+2014,U1,Property Crime,Motor Vehicle Theft,261
+2014,U2,Person Crime,Aggravated Assault,44
+2014,U2,Person Crime,Rape,3
+2014,U2,Person Crime,Robbery,32
+2014,U2,Property Crime,Arson,1
+2014,U2,Property Crime,Burglary,161
+2014,U2,Property Crime,Larceny-Theft,814
+2014,U2,Property Crime,Motor Vehicle Theft,83
+2014,U3,Person Crime,Aggravated Assault,25
+2014,U3,Person Crime,Rape,3
+2014,U3,Person Crime,Robbery,13
+2014,U3,Property Crime,Burglary,314
+2014,U3,Property Crime,Larceny-Theft,676
+2014,U3,Property Crime,Motor Vehicle Theft,131
+2014,W1,Person Crime,Aggravated Assault,29
+2014,W1,Person Crime,Rape,2
+2014,W1,Person Crime,Robbery,12
+2014,W1,Property Crime,Arson,7
+2014,W1,Property Crime,Burglary,99
+2014,W1,Property Crime,Larceny-Theft,307
+2014,W1,Property Crime,Motor Vehicle Theft,65
+2014,W2,Person Crime,Aggravated Assault,27
+2014,W2,Person Crime,Rape,3
+2014,W2,Person Crime,Robbery,25
+2014,W2,Property Crime,Burglary,110
+2014,W2,Property Crime,Larceny-Theft,285
+2014,W2,Property Crime,Motor Vehicle Theft,85
+2014,W3,Person Crime,Aggravated Assault,20
+2014,W3,Person Crime,Rape,5
+2014,W3,Person Crime,Robbery,15
+2014,W3,Property Crime,Arson,1
+2014,W3,Property Crime,Burglary,124
+2014,W3,Property Crime,Larceny-Theft,328
+2014,W3,Property Crime,Motor Vehicle Theft,76
+2015,B1,Person Crime,Aggravated Assault,49
+2015,B1,Person Crime,Rape,4
+2015,B1,Person Crime,Robbery,20
+2015,B1,Property Crime,Arson,2
+2015,B1,Property Crime,Burglary,215
+2015,B1,Property Crime,Larceny-Theft,526
+2015,B1,Property Crime,Motor Vehicle Theft,97
+2015,B2,Person Crime,Aggravated Assault,39
+2015,B2,Person Crime,Rape,1
+2015,B2,Person Crime,Robbery,28
+2015,B2,Property Crime,Arson,2
+2015,B2,Property Crime,Burglary,204
+2015,B2,Property Crime,Larceny-Theft,693
+2015,B2,Property Crime,Motor Vehicle Theft,133
+2015,B3,Person Crime,Aggravated Assault,24
+2015,B3,Person Crime,Homicide,1
+2015,B3,Person Crime,Rape,5
+2015,B3,Person Crime,Robbery,17
+2015,B3,Property Crime,Arson,3
+2015,B3,Property Crime,Burglary,253
+2015,B3,Property Crime,Larceny-Theft,648
+2015,B3,Property Crime,Motor Vehicle Theft,140
+2015,C1,Person Crime,Aggravated Assault,22
+2015,C1,Person Crime,Rape,1
+2015,C1,Person Crime,Robbery,15
+2015,C1,Property Crime,Arson,1
+2015,C1,Property Crime,Burglary,170
+2015,C1,Property Crime,Larceny-Theft,389
+2015,C1,Property Crime,Motor Vehicle Theft,73
+2015,C2,Person Crime,Aggravated Assault,11
+2015,C2,Person Crime,Robbery,7
+2015,C2,Property Crime,Arson,2
+2015,C2,Property Crime,Burglary,140
+2015,C2,Property Crime,Larceny-Theft,431
+2015,C2,Property Crime,Motor Vehicle Theft,62
+2015,C3,Person Crime,Aggravated Assault,18
+2015,C3,Person Crime,Homicide,2
+2015,C3,Person Crime,Rape,1
+2015,C3,Person Crime,Robbery,17
+2015,C3,Property Crime,Arson,1
+2015,C3,Property Crime,Burglary,137
+2015,C3,Property Crime,Larceny-Theft,442
+2015,C3,Property Crime,Motor Vehicle Theft,55
+2015,D1,Person Crime,Aggravated Assault,32
+2015,D1,Person Crime,Homicide,2
+2015,D1,Person Crime,Rape,3
+2015,D1,Person Crime,Robbery,28
+2015,D1,Property Crime,Burglary,160
+2015,D1,Property Crime,Larceny-Theft,645
+2015,D1,Property Crime,Motor Vehicle Theft,40
+2015,D2,Person Crime,Aggravated Assault,34
+2015,D2,Person Crime,Rape,8
+2015,D2,Person Crime,Robbery,24
+2015,D2,Property Crime,Burglary,208
+2015,D2,Property Crime,Larceny-Theft,554
+2015,D2,Property Crime,Motor Vehicle Theft,49
+2015,D3,Person Crime,Aggravated Assault,53
+2015,D3,Person Crime,Homicide,1
+2015,D3,Person Crime,Rape,2
+2015,D3,Person Crime,Robbery,18
+2015,D3,Property Crime,Arson,5
+2015,D3,Property Crime,Burglary,205
+2015,D3,Property Crime,Larceny-Theft,574
+2015,D3,Property Crime,Motor Vehicle Theft,79
+2015,E1,Person Crime,Aggravated Assault,60
+2015,E1,Person Crime,Rape,2
+2015,E1,Person Crime,Robbery,30
+2015,E1,Property Crime,Burglary,254
+2015,E1,Property Crime,Larceny-Theft,484
+2015,E1,Property Crime,Motor Vehicle Theft,94
+2015,E2,Person Crime,Aggravated Assault,110
+2015,E2,Person Crime,Rape,2
+2015,E2,Person Crime,Robbery,77
+2015,E2,Property Crime,Arson,3
+2015,E2,Property Crime,Burglary,119
+2015,E2,Property Crime,Larceny-Theft,875
+2015,E2,Property Crime,Motor Vehicle Theft,49
+2015,E3,Person Crime,Aggravated Assault,56
+2015,E3,Person Crime,Homicide,1
+2015,E3,Person Crime,Rape,3
+2015,E3,Person Crime,Robbery,38
+2015,E3,Property Crime,Arson,2
+2015,E3,Property Crime,Burglary,169
+2015,E3,Property Crime,Larceny-Theft,733
+2015,E3,Property Crime,Motor Vehicle Theft,68
+2015,F1,Person Crime,Aggravated Assault,37
+2015,F1,Person Crime,Homicide,1
+2015,F1,Person Crime,Rape,5
+2015,F1,Person Crime,Robbery,20
+2015,F1,Property Crime,Arson,3
+2015,F1,Property Crime,Burglary,58
+2015,F1,Property Crime,Larceny-Theft,231
+2015,F1,Property Crime,Motor Vehicle Theft,59
+2015,F2,Person Crime,Aggravated Assault,40
+2015,F2,Person Crime,Rape,5
+2015,F2,Person Crime,Robbery,46
+2015,F2,Property Crime,Arson,3
+2015,F2,Property Crime,Burglary,119
+2015,F2,Property Crime,Larceny-Theft,517
+2015,F2,Property Crime,Motor Vehicle Theft,104
+2015,F3,Person Crime,Aggravated Assault,28
+2015,F3,Person Crime,Homicide,1
+2015,F3,Person Crime,Robbery,17
+2015,F3,Property Crime,Arson,1
+2015,F3,Property Crime,Burglary,137
+2015,F3,Property Crime,Larceny-Theft,283
+2015,F3,Property Crime,Motor Vehicle Theft,93
+2015,G1,Person Crime,Aggravated Assault,37
+2015,G1,Person Crime,Rape,8
+2015,G1,Person Crime,Robbery,19
+2015,G1,Property Crime,Arson,1
+2015,G1,Property Crime,Burglary,46
+2015,G1,Property Crime,Larceny-Theft,233
+2015,G1,Property Crime,Motor Vehicle Theft,38
+2015,G2,Person Crime,Aggravated Assault,56
+2015,G2,Person Crime,Robbery,22
+2015,G2,Property Crime,Arson,2
+2015,G2,Property Crime,Burglary,123
+2015,G2,Property Crime,Larceny-Theft,536
+2015,G2,Property Crime,Motor Vehicle Theft,64
+2015,G3,Person Crime,Aggravated Assault,34
+2015,G3,Person Crime,Robbery,13
+2015,G3,Property Crime,Burglary,90
+2015,G3,Property Crime,Larceny-Theft,373
+2015,G3,Property Crime,Motor Vehicle Theft,42
+2015,J1,Person Crime,Aggravated Assault,22
+2015,J1,Person Crime,Rape,3
+2015,J1,Person Crime,Robbery,33
+2015,J1,Property Crime,Arson,1
+2015,J1,Property Crime,Burglary,147
+2015,J1,Property Crime,Larceny-Theft,542
+2015,J1,Property Crime,Motor Vehicle Theft,90
+2015,J2,Person Crime,Aggravated Assault,21
+2015,J2,Person Crime,Rape,1
+2015,J2,Person Crime,Robbery,20
+2015,J2,Property Crime,Arson,1
+2015,J2,Property Crime,Burglary,162
+2015,J2,Property Crime,Larceny-Theft,598
+2015,J2,Property Crime,Motor Vehicle Theft,124
+2015,J3,Person Crime,Aggravated Assault,27
+2015,J3,Person Crime,Rape,5
+2015,J3,Person Crime,Robbery,12
+2015,J3,Property Crime,Arson,1
+2015,J3,Property Crime,Burglary,195
+2015,J3,Property Crime,Larceny-Theft,598
+2015,J3,Property Crime,Motor Vehicle Theft,126
+2015,K1,Person Crime,Aggravated Assault,45
+2015,K1,Person Crime,Rape,8
+2015,K1,Person Crime,Robbery,41
+2015,K1,Property Crime,Arson,1
+2015,K1,Property Crime,Burglary,57
+2015,K1,Property Crime,Larceny-Theft,683
+2015,K1,Property Crime,Motor Vehicle Theft,43
+2015,K2,Person Crime,Aggravated Assault,97
+2015,K2,Person Crime,Homicide,1
+2015,K2,Person Crime,Rape,3
+2015,K2,Person Crime,Robbery,62
+2015,K2,Property Crime,Burglary,47
+2015,K2,Property Crime,Larceny-Theft,561
+2015,K2,Property Crime,Motor Vehicle Theft,25
+2015,K3,Person Crime,Aggravated Assault,135
+2015,K3,Person Crime,Homicide,4
+2015,K3,Person Crime,Rape,7
+2015,K3,Person Crime,Robbery,107
+2015,K3,Property Crime,Arson,7
+2015,K3,Property Crime,Burglary,77
+2015,K3,Property Crime,Larceny-Theft,1182
+2015,K3,Property Crime,Motor Vehicle Theft,60
+2015,L1,Person Crime,Aggravated Assault,48
+2015,L1,Person Crime,Homicide,1
+2015,L1,Person Crime,Rape,2
+2015,L1,Person Crime,Robbery,25
+2015,L1,Property Crime,Burglary,148
+2015,L1,Property Crime,Larceny-Theft,347
+2015,L1,Property Crime,Motor Vehicle Theft,80
+2015,L2,Person Crime,Aggravated Assault,32
+2015,L2,Person Crime,Rape,1
+2015,L2,Person Crime,Robbery,51
+2015,L2,Property Crime,Arson,2
+2015,L2,Property Crime,Burglary,216
+2015,L2,Property Crime,Larceny-Theft,1005
+2015,L2,Property Crime,Motor Vehicle Theft,152
+2015,L3,Person Crime,Aggravated Assault,39
+2015,L3,Person Crime,Rape,2
+2015,L3,Person Crime,Robbery,23
+2015,L3,Property Crime,Arson,2
+2015,L3,Property Crime,Burglary,190
+2015,L3,Property Crime,Larceny-Theft,351
+2015,L3,Property Crime,Motor Vehicle Theft,55
+2015,M1,Person Crime,Aggravated Assault,47
+2015,M1,Person Crime,Rape,1
+2015,M1,Person Crime,Robbery,38
+2015,M1,Property Crime,Arson,1
+2015,M1,Property Crime,Burglary,65
+2015,M1,Property Crime,Larceny-Theft,971
+2015,M1,Property Crime,Motor Vehicle Theft,30
+2015,M2,Person Crime,Aggravated Assault,45
+2015,M2,Person Crime,Homicide,1
+2015,M2,Person Crime,Rape,3
+2015,M2,Person Crime,Robbery,68
+2015,M2,Property Crime,Arson,1
+2015,M2,Property Crime,Burglary,140
+2015,M2,Property Crime,Larceny-Theft,1064
+2015,M2,Property Crime,Motor Vehicle Theft,28
+2015,M3,Person Crime,Aggravated Assault,44
+2015,M3,Person Crime,Rape,2
+2015,M3,Person Crime,Robbery,76
+2015,M3,Property Crime,Burglary,45
+2015,M3,Property Crime,Larceny-Theft,781
+2015,M3,Property Crime,Motor Vehicle Theft,12
+2015,N1,Person Crime,Aggravated Assault,25
+2015,N1,Person Crime,Rape,2
+2015,N1,Person Crime,Robbery,10
+2015,N1,Property Crime,Arson,3
+2015,N1,Property Crime,Burglary,220
+2015,N1,Property Crime,Larceny-Theft,394
+2015,N1,Property Crime,Motor Vehicle Theft,82
+2015,N2,Person Crime,Aggravated Assault,51
+2015,N2,Person Crime,Rape,3
+2015,N2,Person Crime,Robbery,31
+2015,N2,Property Crime,Arson,1
+2015,N2,Property Crime,Burglary,134
+2015,N2,Property Crime,Larceny-Theft,454
+2015,N2,Property Crime,Motor Vehicle Theft,86
+2015,N3,Person Crime,Aggravated Assault,63
+2015,N3,Person Crime,Rape,9
+2015,N3,Person Crime,Robbery,43
+2015,N3,Property Crime,Arson,1
+2015,N3,Property Crime,Burglary,189
+2015,N3,Property Crime,Larceny-Theft,684
+2015,N3,Property Crime,Motor Vehicle Theft,114
+2015,O1,Person Crime,Aggravated Assault,29
+2015,O1,Person Crime,Rape,2
+2015,O1,Person Crime,Robbery,19
+2015,O1,Property Crime,Burglary,30
+2015,O1,Property Crime,Larceny-Theft,421
+2015,O1,Property Crime,Motor Vehicle Theft,47
+2015,O2,Person Crime,Aggravated Assault,19
+2015,O2,Person Crime,Rape,1
+2015,O2,Person Crime,Robbery,13
+2015,O2,Property Crime,Arson,2
+2015,O2,Property Crime,Burglary,52
+2015,O2,Property Crime,Larceny-Theft,161
+2015,O2,Property Crime,Motor Vehicle Theft,37
+2015,O3,Person Crime,Aggravated Assault,22
+2015,O3,Person Crime,Rape,1
+2015,O3,Person Crime,Robbery,9
+2015,O3,Property Crime,Arson,2
+2015,O3,Property Crime,Burglary,64
+2015,O3,Property Crime,Larceny-Theft,166
+2015,O3,Property Crime,Motor Vehicle Theft,42
+2015,Q1,Person Crime,Aggravated Assault,15
+2015,Q1,Person Crime,Homicide,1
+2015,Q1,Person Crime,Rape,3
+2015,Q1,Person Crime,Robbery,8
+2015,Q1,Property Crime,Arson,3
+2015,Q1,Property Crime,Burglary,189
+2015,Q1,Property Crime,Larceny-Theft,507
+2015,Q1,Property Crime,Motor Vehicle Theft,70
+2015,Q2,Person Crime,Aggravated Assault,13
+2015,Q2,Person Crime,Rape,3
+2015,Q2,Person Crime,Robbery,9
+2015,Q2,Property Crime,Arson,3
+2015,Q2,Property Crime,Burglary,271
+2015,Q2,Property Crime,Larceny-Theft,739
+2015,Q2,Property Crime,Motor Vehicle Theft,80
+2015,Q3,Person Crime,Aggravated Assault,36
+2015,Q3,Person Crime,Homicide,1
+2015,Q3,Person Crime,Rape,2
+2015,Q3,Person Crime,Robbery,35
+2015,Q3,Property Crime,Arson,1
+2015,Q3,Property Crime,Burglary,215
+2015,Q3,Property Crime,Larceny-Theft,749
+2015,Q3,Property Crime,Motor Vehicle Theft,76
+2015,R1,Person Crime,Aggravated Assault,49
+2015,R1,Person Crime,Homicide,1
+2015,R1,Person Crime,Rape,1
+2015,R1,Person Crime,Robbery,60
+2015,R1,Property Crime,Burglary,138
+2015,R1,Property Crime,Larceny-Theft,351
+2015,R1,Property Crime,Motor Vehicle Theft,91
+2015,R2,Person Crime,Aggravated Assault,63
+2015,R2,Person Crime,Rape,3
+2015,R2,Person Crime,Robbery,47
+2015,R2,Property Crime,Arson,2
+2015,R2,Property Crime,Burglary,137
+2015,R2,Property Crime,Larceny-Theft,511
+2015,R2,Property Crime,Motor Vehicle Theft,81
+2015,R3,Person Crime,Aggravated Assault,52
+2015,R3,Person Crime,Homicide,1
+2015,R3,Person Crime,Rape,4
+2015,R3,Person Crime,Robbery,34
+2015,R3,Property Crime,Arson,1
+2015,R3,Property Crime,Burglary,192
+2015,R3,Property Crime,Larceny-Theft,551
+2015,R3,Property Crime,Motor Vehicle Theft,89
+2015,S1,Person Crime,Aggravated Assault,44
+2015,S1,Person Crime,Rape,2
+2015,S1,Person Crime,Robbery,43
+2015,S1,Property Crime,Arson,5
+2015,S1,Property Crime,Burglary,103
+2015,S1,Property Crime,Larceny-Theft,204
+2015,S1,Property Crime,Motor Vehicle Theft,103
+2015,S2,Person Crime,Aggravated Assault,66
+2015,S2,Person Crime,Homicide,3
+2015,S2,Person Crime,Rape,2
+2015,S2,Person Crime,Robbery,38
+2015,S2,Property Crime,Arson,2
+2015,S2,Property Crime,Burglary,128
+2015,S2,Property Crime,Larceny-Theft,205
+2015,S2,Property Crime,Motor Vehicle Theft,116
+2015,S3,Person Crime,Aggravated Assault,49
+2015,S3,Person Crime,Robbery,32
+2015,S3,Property Crime,Arson,3
+2015,S3,Property Crime,Burglary,205
+2015,S3,Property Crime,Larceny-Theft,286
+2015,S3,Property Crime,Motor Vehicle Theft,121
+2015,U1,Person Crime,Aggravated Assault,40
+2015,U1,Person Crime,Rape,4
+2015,U1,Person Crime,Robbery,29
+2015,U1,Property Crime,Arson,2
+2015,U1,Property Crime,Burglary,356
+2015,U1,Property Crime,Larceny-Theft,688
+2015,U1,Property Crime,Motor Vehicle Theft,156
+2015,U2,Person Crime,Aggravated Assault,62
+2015,U2,Person Crime,Homicide,1
+2015,U2,Person Crime,Rape,2
+2015,U2,Person Crime,Robbery,54
+2015,U2,Property Crime,Arson,1
+2015,U2,Property Crime,Burglary,240
+2015,U2,Property Crime,Larceny-Theft,759
+2015,U2,Property Crime,Motor Vehicle Theft,82
+2015,U3,Person Crime,Aggravated Assault,28
+2015,U3,Person Crime,Rape,3
+2015,U3,Person Crime,Robbery,17
+2015,U3,Property Crime,Arson,4
+2015,U3,Property Crime,Burglary,282
+2015,U3,Property Crime,Larceny-Theft,668
+2015,U3,Property Crime,Motor Vehicle Theft,67
+2015,W1,Person Crime,Aggravated Assault,26
+2015,W1,Person Crime,Rape,1
+2015,W1,Person Crime,Robbery,21
+2015,W1,Property Crime,Arson,2
+2015,W1,Property Crime,Burglary,98
+2015,W1,Property Crime,Larceny-Theft,348
+2015,W1,Property Crime,Motor Vehicle Theft,68
+2015,W2,Person Crime,Aggravated Assault,29
+2015,W2,Person Crime,Robbery,25
+2015,W2,Property Crime,Arson,2
+2015,W2,Property Crime,Burglary,142
+2015,W2,Property Crime,Larceny-Theft,429
+2015,W2,Property Crime,Motor Vehicle Theft,90
+2015,W3,Person Crime,Aggravated Assault,23
+2015,W3,Person Crime,Homicide,1
+2015,W3,Person Crime,Rape,1
+2015,W3,Person Crime,Robbery,10
+2015,W3,Property Crime,Arson,4
+2015,W3,Property Crime,Burglary,139
+2015,W3,Property Crime,Larceny-Theft,359
+2015,W3,Property Crime,Motor Vehicle Theft,87
+2016,B1,Person Crime,Aggravated Assault,44
+2016,B1,Person Crime,Rape,1
+2016,B1,Person Crime,Robbery,38
+2016,B1,Property Crime,Arson,3
+2016,B1,Property Crime,Burglary,231
+2016,B1,Property Crime,Larceny-Theft,595
+2016,B1,Property Crime,Motor Vehicle Theft,80
+2016,B2,Person Crime,Aggravated Assault,26
+2016,B2,Person Crime,Rape,3
+2016,B2,Person Crime,Robbery,27
+2016,B2,Property Crime,Arson,1
+2016,B2,Property Crime,Burglary,198
+2016,B2,Property Crime,Larceny-Theft,686
+2016,B2,Property Crime,Motor Vehicle Theft,142
+2016,B3,Person Crime,Aggravated Assault,24
+2016,B3,Person Crime,Rape,1
+2016,B3,Person Crime,Robbery,18
+2016,B3,Property Crime,Arson,6
+2016,B3,Property Crime,Burglary,276
+2016,B3,Property Crime,Larceny-Theft,889
+2016,B3,Property Crime,Motor Vehicle Theft,189
+2016,C1,Person Crime,Aggravated Assault,20
+2016,C1,Person Crime,Homicide,1
+2016,C1,Person Crime,Rape,1
+2016,C1,Person Crime,Robbery,21
+2016,C1,Property Crime,Arson,5
+2016,C1,Property Crime,Burglary,192
+2016,C1,Property Crime,Larceny-Theft,432
+2016,C1,Property Crime,Motor Vehicle Theft,94
+2016,C2,Person Crime,Aggravated Assault,15
+2016,C2,Person Crime,Rape,2
+2016,C2,Person Crime,Robbery,10
+2016,C2,Property Crime,Burglary,142
+2016,C2,Property Crime,Larceny-Theft,485
+2016,C2,Property Crime,Motor Vehicle Theft,50
+2016,C3,Person Crime,Aggravated Assault,25
+2016,C3,Person Crime,Homicide,2
+2016,C3,Person Crime,Rape,1
+2016,C3,Person Crime,Robbery,17
+2016,C3,Property Crime,Burglary,107
+2016,C3,Property Crime,Larceny-Theft,404
+2016,C3,Property Crime,Motor Vehicle Theft,84
+2016,D1,Person Crime,Aggravated Assault,57
+2016,D1,Person Crime,Homicide,1
+2016,D1,Person Crime,Rape,4
+2016,D1,Person Crime,Robbery,42
+2016,D1,Property Crime,Burglary,151
+2016,D1,Property Crime,Larceny-Theft,600
+2016,D1,Property Crime,Motor Vehicle Theft,41
+2016,D2,Person Crime,Aggravated Assault,38
+2016,D2,Person Crime,Rape,7
+2016,D2,Person Crime,Robbery,14
+2016,D2,Property Crime,Arson,3
+2016,D2,Property Crime,Burglary,155
+2016,D2,Property Crime,Larceny-Theft,545
+2016,D2,Property Crime,Motor Vehicle Theft,57
+2016,D3,Person Crime,Aggravated Assault,50
+2016,D3,Person Crime,Rape,2
+2016,D3,Person Crime,Robbery,28
+2016,D3,Property Crime,Arson,1
+2016,D3,Property Crime,Burglary,211
+2016,D3,Property Crime,Larceny-Theft,579
+2016,D3,Property Crime,Motor Vehicle Theft,58
+2016,E1,Person Crime,Aggravated Assault,67
+2016,E1,Person Crime,Rape,6
+2016,E1,Person Crime,Robbery,47
+2016,E1,Property Crime,Arson,4
+2016,E1,Property Crime,Burglary,255
+2016,E1,Property Crime,Larceny-Theft,508
+2016,E1,Property Crime,Motor Vehicle Theft,91
+2016,E2,Person Crime,Aggravated Assault,88
+2016,E2,Person Crime,Rape,10
+2016,E2,Person Crime,Robbery,68
+2016,E2,Property Crime,Arson,1
+2016,E2,Property Crime,Burglary,125
+2016,E2,Property Crime,Larceny-Theft,640
+2016,E2,Property Crime,Motor Vehicle Theft,61
+2016,E3,Person Crime,Aggravated Assault,74
+2016,E3,Person Crime,Rape,10
+2016,E3,Person Crime,Robbery,19
+2016,E3,Property Crime,Burglary,183
+2016,E3,Property Crime,Larceny-Theft,556
+2016,E3,Property Crime,Motor Vehicle Theft,56
+2016,F1,Person Crime,Aggravated Assault,57
+2016,F1,Person Crime,Rape,7
+2016,F1,Person Crime,Robbery,20
+2016,F1,Property Crime,Arson,1
+2016,F1,Property Crime,Burglary,66
+2016,F1,Property Crime,Larceny-Theft,339
+2016,F1,Property Crime,Motor Vehicle Theft,84
+2016,F2,Person Crime,Aggravated Assault,31
+2016,F2,Person Crime,Homicide,1
+2016,F2,Person Crime,Rape,3
+2016,F2,Person Crime,Robbery,43
+2016,F2,Property Crime,Arson,3
+2016,F2,Property Crime,Burglary,122
+2016,F2,Property Crime,Larceny-Theft,570
+2016,F2,Property Crime,Motor Vehicle Theft,86
+2016,F3,Person Crime,Aggravated Assault,41
+2016,F3,Person Crime,Rape,2
+2016,F3,Person Crime,Robbery,26
+2016,F3,Property Crime,Arson,3
+2016,F3,Property Crime,Burglary,108
+2016,F3,Property Crime,Larceny-Theft,404
+2016,F3,Property Crime,Motor Vehicle Theft,126
+2016,G1,Person Crime,Aggravated Assault,51
+2016,G1,Person Crime,Rape,13
+2016,G1,Person Crime,Robbery,19
+2016,G1,Property Crime,Arson,2
+2016,G1,Property Crime,Burglary,35
+2016,G1,Property Crime,Larceny-Theft,171
+2016,G1,Property Crime,Motor Vehicle Theft,32
+2016,G2,Person Crime,Aggravated Assault,47
+2016,G2,Person Crime,Rape,6
+2016,G2,Person Crime,Robbery,24
+2016,G2,Property Crime,Arson,1
+2016,G2,Property Crime,Burglary,83
+2016,G2,Property Crime,Larceny-Theft,357
+2016,G2,Property Crime,Motor Vehicle Theft,52
+2016,G3,Person Crime,Aggravated Assault,38
+2016,G3,Person Crime,Homicide,1
+2016,G3,Person Crime,Rape,2
+2016,G3,Person Crime,Robbery,20
+2016,G3,Property Crime,Arson,4
+2016,G3,Property Crime,Burglary,54
+2016,G3,Property Crime,Larceny-Theft,309
+2016,G3,Property Crime,Motor Vehicle Theft,44
+2016,J1,Person Crime,Aggravated Assault,43
+2016,J1,Person Crime,Rape,4
+2016,J1,Person Crime,Robbery,27
+2016,J1,Property Crime,Arson,6
+2016,J1,Property Crime,Burglary,152
+2016,J1,Property Crime,Larceny-Theft,524
+2016,J1,Property Crime,Motor Vehicle Theft,79
+2016,J2,Person Crime,Aggravated Assault,19
+2016,J2,Person Crime,Rape,5
+2016,J2,Person Crime,Robbery,16
+2016,J2,Property Crime,Arson,2
+2016,J2,Property Crime,Burglary,187
+2016,J2,Property Crime,Larceny-Theft,589
+2016,J2,Property Crime,Motor Vehicle Theft,99
+2016,J3,Person Crime,Aggravated Assault,20
+2016,J3,Person Crime,Rape,4
+2016,J3,Person Crime,Robbery,16
+2016,J3,Property Crime,Arson,1
+2016,J3,Property Crime,Burglary,203
+2016,J3,Property Crime,Larceny-Theft,657
+2016,J3,Property Crime,Motor Vehicle Theft,110
+2016,K1,Person Crime,Aggravated Assault,44
+2016,K1,Person Crime,Rape,8
+2016,K1,Person Crime,Robbery,32
+2016,K1,Property Crime,Arson,1
+2016,K1,Property Crime,Burglary,46
+2016,K1,Property Crime,Larceny-Theft,591
+2016,K1,Property Crime,Motor Vehicle Theft,35
+2016,K2,Person Crime,Aggravated Assault,106
+2016,K2,Person Crime,Homicide,1
+2016,K2,Person Crime,Rape,8
+2016,K2,Person Crime,Robbery,54
+2016,K2,Property Crime,Arson,5
+2016,K2,Property Crime,Burglary,54
+2016,K2,Property Crime,Larceny-Theft,474
+2016,K2,Property Crime,Motor Vehicle Theft,23
+2016,K3,Person Crime,Aggravated Assault,128
+2016,K3,Person Crime,Homicide,3
+2016,K3,Person Crime,Rape,10
+2016,K3,Person Crime,Robbery,114
+2016,K3,Property Crime,Arson,5
+2016,K3,Property Crime,Burglary,107
+2016,K3,Property Crime,Larceny-Theft,1850
+2016,K3,Property Crime,Motor Vehicle Theft,59
+2016,L1,Person Crime,Aggravated Assault,51
+2016,L1,Person Crime,Rape,2
+2016,L1,Person Crime,Robbery,28
+2016,L1,Property Crime,Arson,1
+2016,L1,Property Crime,Burglary,169
+2016,L1,Property Crime,Larceny-Theft,316
+2016,L1,Property Crime,Motor Vehicle Theft,99
+2016,L2,Person Crime,Aggravated Assault,32
+2016,L2,Person Crime,Robbery,46
+2016,L2,Property Crime,Arson,1
+2016,L2,Property Crime,Burglary,225
+2016,L2,Property Crime,Larceny-Theft,1044
+2016,L2,Property Crime,Motor Vehicle Theft,152
+2016,L3,Person Crime,Aggravated Assault,37
+2016,L3,Person Crime,Rape,2
+2016,L3,Person Crime,Robbery,23
+2016,L3,Property Crime,Burglary,154
+2016,L3,Property Crime,Larceny-Theft,314
+2016,L3,Property Crime,Motor Vehicle Theft,64
+2016,M1,Person Crime,Aggravated Assault,33
+2016,M1,Person Crime,Rape,9
+2016,M1,Person Crime,Robbery,30
+2016,M1,Property Crime,Arson,3
+2016,M1,Property Crime,Burglary,78
+2016,M1,Property Crime,Larceny-Theft,818
+2016,M1,Property Crime,Motor Vehicle Theft,23
+2016,M2,Person Crime,Aggravated Assault,49
+2016,M2,Person Crime,Rape,3
+2016,M2,Person Crime,Robbery,67
+2016,M2,Property Crime,Arson,1
+2016,M2,Property Crime,Burglary,117
+2016,M2,Property Crime,Larceny-Theft,1062
+2016,M2,Property Crime,Motor Vehicle Theft,24
+2016,M3,Person Crime,Aggravated Assault,56
+2016,M3,Person Crime,Rape,2
+2016,M3,Person Crime,Robbery,60
+2016,M3,Property Crime,Arson,1
+2016,M3,Property Crime,Burglary,73
+2016,M3,Property Crime,Larceny-Theft,849
+2016,M3,Property Crime,Motor Vehicle Theft,20
+2016,N1,Person Crime,Aggravated Assault,33
+2016,N1,Person Crime,Homicide,1
+2016,N1,Person Crime,Rape,2
+2016,N1,Person Crime,Robbery,15
+2016,N1,Property Crime,Burglary,208
+2016,N1,Property Crime,Larceny-Theft,404
+2016,N1,Property Crime,Motor Vehicle Theft,89
+2016,N2,Person Crime,Aggravated Assault,47
+2016,N2,Person Crime,Rape,12
+2016,N2,Person Crime,Robbery,38
+2016,N2,Property Crime,Arson,1
+2016,N2,Property Crime,Burglary,154
+2016,N2,Property Crime,Larceny-Theft,482
+2016,N2,Property Crime,Motor Vehicle Theft,65
+2016,N3,Person Crime,Aggravated Assault,68
+2016,N3,Person Crime,Rape,4
+2016,N3,Person Crime,Robbery,51
+2016,N3,Property Crime,Arson,5
+2016,N3,Property Crime,Burglary,182
+2016,N3,Property Crime,Larceny-Theft,622
+2016,N3,Property Crime,Motor Vehicle Theft,92
+2016,O1,Person Crime,Aggravated Assault,53
+2016,O1,Person Crime,Homicide,1
+2016,O1,Person Crime,Rape,6
+2016,O1,Person Crime,Robbery,18
+2016,O1,Property Crime,Arson,2
+2016,O1,Property Crime,Burglary,46
+2016,O1,Property Crime,Larceny-Theft,257
+2016,O1,Property Crime,Motor Vehicle Theft,42
+2016,O2,Person Crime,Aggravated Assault,31
+2016,O2,Person Crime,Robbery,7
+2016,O2,Property Crime,Arson,1
+2016,O2,Property Crime,Burglary,73
+2016,O2,Property Crime,Larceny-Theft,184
+2016,O2,Property Crime,Motor Vehicle Theft,49
+2016,O3,Person Crime,Aggravated Assault,24
+2016,O3,Person Crime,Rape,2
+2016,O3,Person Crime,Robbery,12
+2016,O3,Property Crime,Arson,4
+2016,O3,Property Crime,Burglary,73
+2016,O3,Property Crime,Larceny-Theft,170
+2016,O3,Property Crime,Motor Vehicle Theft,53
+2016,Q1,Person Crime,Aggravated Assault,31
+2016,Q1,Person Crime,Robbery,14
+2016,Q1,Property Crime,Arson,2
+2016,Q1,Property Crime,Burglary,145
+2016,Q1,Property Crime,Larceny-Theft,512
+2016,Q1,Property Crime,Motor Vehicle Theft,65
+2016,Q2,Person Crime,Aggravated Assault,21
+2016,Q2,Person Crime,Rape,4
+2016,Q2,Person Crime,Robbery,5
+2016,Q2,Property Crime,Arson,2
+2016,Q2,Property Crime,Burglary,217
+2016,Q2,Property Crime,Larceny-Theft,694
+2016,Q2,Property Crime,Motor Vehicle Theft,113
+2016,Q3,Person Crime,Aggravated Assault,32
+2016,Q3,Person Crime,Rape,2
+2016,Q3,Person Crime,Robbery,18
+2016,Q3,Property Crime,Burglary,247
+2016,Q3,Property Crime,Larceny-Theft,807
+2016,Q3,Property Crime,Motor Vehicle Theft,91
+2016,R1,Person Crime,Aggravated Assault,53
+2016,R1,Person Crime,Rape,5
+2016,R1,Person Crime,Robbery,48
+2016,R1,Property Crime,Arson,1
+2016,R1,Property Crime,Burglary,142
+2016,R1,Property Crime,Larceny-Theft,356
+2016,R1,Property Crime,Motor Vehicle Theft,127
+2016,R2,Person Crime,Aggravated Assault,68
+2016,R2,Person Crime,Rape,6
+2016,R2,Person Crime,Robbery,55
+2016,R2,Property Crime,Burglary,95
+2016,R2,Property Crime,Larceny-Theft,625
+2016,R2,Property Crime,Motor Vehicle Theft,92
+2016,R3,Person Crime,Aggravated Assault,52
+2016,R3,Person Crime,Rape,7
+2016,R3,Person Crime,Robbery,27
+2016,R3,Property Crime,Arson,1
+2016,R3,Property Crime,Burglary,107
+2016,R3,Property Crime,Larceny-Theft,470
+2016,R3,Property Crime,Motor Vehicle Theft,82
+2016,S1,Person Crime,Aggravated Assault,36
+2016,S1,Person Crime,Homicide,2
+2016,S1,Person Crime,Rape,5
+2016,S1,Person Crime,Robbery,60
+2016,S1,Property Crime,Arson,2
+2016,S1,Property Crime,Burglary,113
+2016,S1,Property Crime,Larceny-Theft,200
+2016,S1,Property Crime,Motor Vehicle Theft,91
+2016,S2,Person Crime,Aggravated Assault,56
+2016,S2,Person Crime,Homicide,2
+2016,S2,Person Crime,Rape,4
+2016,S2,Person Crime,Robbery,37
+2016,S2,Property Crime,Arson,1
+2016,S2,Property Crime,Burglary,75
+2016,S2,Property Crime,Larceny-Theft,183
+2016,S2,Property Crime,Motor Vehicle Theft,87
+2016,S3,Person Crime,Aggravated Assault,53
+2016,S3,Person Crime,Homicide,2
+2016,S3,Person Crime,Rape,4
+2016,S3,Person Crime,Robbery,33
+2016,S3,Property Crime,Arson,1
+2016,S3,Property Crime,Burglary,166
+2016,S3,Property Crime,Larceny-Theft,356
+2016,S3,Property Crime,Motor Vehicle Theft,89
+2016,U1,Person Crime,Aggravated Assault,29
+2016,U1,Person Crime,Homicide,1
+2016,U1,Person Crime,Rape,9
+2016,U1,Person Crime,Robbery,38
+2016,U1,Property Crime,Arson,5
+2016,U1,Property Crime,Burglary,360
+2016,U1,Property Crime,Larceny-Theft,809
+2016,U1,Property Crime,Motor Vehicle Theft,223
+2016,U2,Person Crime,Aggravated Assault,62
+2016,U2,Person Crime,Rape,5
+2016,U2,Person Crime,Robbery,49
+2016,U2,Property Crime,Arson,2
+2016,U2,Property Crime,Burglary,302
+2016,U2,Property Crime,Larceny-Theft,544
+2016,U2,Property Crime,Motor Vehicle Theft,60
+2016,U3,Person Crime,Aggravated Assault,36
+2016,U3,Person Crime,Rape,1
+2016,U3,Person Crime,Robbery,24
+2016,U3,Property Crime,Arson,6
+2016,U3,Property Crime,Burglary,394
+2016,U3,Property Crime,Larceny-Theft,850
+2016,U3,Property Crime,Motor Vehicle Theft,124
+2016,W1,Person Crime,Aggravated Assault,34
+2016,W1,Person Crime,Rape,3
+2016,W1,Person Crime,Robbery,21
+2016,W1,Property Crime,Arson,1
+2016,W1,Property Crime,Burglary,143
+2016,W1,Property Crime,Larceny-Theft,410
+2016,W1,Property Crime,Motor Vehicle Theft,80
+2016,W2,Person Crime,Aggravated Assault,33
+2016,W2,Person Crime,Rape,4
+2016,W2,Person Crime,Robbery,17
+2016,W2,Property Crime,Arson,2
+2016,W2,Property Crime,Burglary,166
+2016,W2,Property Crime,Larceny-Theft,653
+2016,W2,Property Crime,Motor Vehicle Theft,133
+2016,W3,Person Crime,Aggravated Assault,16
+2016,W3,Person Crime,Rape,1
+2016,W3,Person Crime,Robbery,7
+2016,W3,Property Crime,Arson,3
+2016,W3,Property Crime,Burglary,134
+2016,W3,Property Crime,Larceny-Theft,452
+2016,W3,Property Crime,Motor Vehicle Theft,93
+2017,B1,Person Crime,Aggravated Assault,54
+2017,B1,Person Crime,Rape,4
+2017,B1,Person Crime,Robbery,32
+2017,B1,Property Crime,Arson,4
+2017,B1,Property Crime,Burglary,302
+2017,B1,Property Crime,Larceny-Theft,628
+2017,B1,Property Crime,Motor Vehicle Theft,95
+2017,B2,Person Crime,Aggravated Assault,33
+2017,B2,Person Crime,Homicide,2
+2017,B2,Person Crime,Robbery,22
+2017,B2,Property Crime,Arson,7
+2017,B2,Property Crime,Burglary,223
+2017,B2,Property Crime,Larceny-Theft,708
+2017,B2,Property Crime,Motor Vehicle Theft,135
+2017,B3,Person Crime,Aggravated Assault,41
+2017,B3,Person Crime,Rape,8
+2017,B3,Person Crime,Robbery,22
+2017,B3,Property Crime,Burglary,266
+2017,B3,Property Crime,Larceny-Theft,779
+2017,B3,Property Crime,Motor Vehicle Theft,139
+2017,C1,Person Crime,Aggravated Assault,26
+2017,C1,Person Crime,Rape,3
+2017,C1,Person Crime,Robbery,21
+2017,C1,Property Crime,Arson,1
+2017,C1,Property Crime,Burglary,191
+2017,C1,Property Crime,Larceny-Theft,406
+2017,C1,Property Crime,Motor Vehicle Theft,73
+2017,C2,Person Crime,Aggravated Assault,22
+2017,C2,Person Crime,Robbery,9
+2017,C2,Property Crime,Arson,3
+2017,C2,Property Crime,Burglary,120
+2017,C2,Property Crime,Larceny-Theft,354
+2017,C2,Property Crime,Motor Vehicle Theft,59
+2017,C3,Person Crime,Aggravated Assault,39
+2017,C3,Person Crime,Rape,4
+2017,C3,Person Crime,Robbery,23
+2017,C3,Property Crime,Arson,1
+2017,C3,Property Crime,Burglary,110
+2017,C3,Property Crime,Larceny-Theft,304
+2017,C3,Property Crime,Motor Vehicle Theft,64
+2017,D1,Person Crime,Aggravated Assault,71
+2017,D1,Person Crime,Rape,5
+2017,D1,Person Crime,Robbery,41
+2017,D1,Property Crime,Arson,3
+2017,D1,Property Crime,Burglary,200
+2017,D1,Property Crime,Larceny-Theft,824
+2017,D1,Property Crime,Motor Vehicle Theft,28
+2017,D2,Person Crime,Aggravated Assault,46
+2017,D2,Person Crime,Homicide,1
+2017,D2,Person Crime,Rape,9
+2017,D2,Person Crime,Robbery,17
+2017,D2,Property Crime,Arson,3
+2017,D2,Property Crime,Burglary,209
+2017,D2,Property Crime,Larceny-Theft,540
+2017,D2,Property Crime,Motor Vehicle Theft,51
+2017,D3,Person Crime,Aggravated Assault,55
+2017,D3,Person Crime,Rape,7
+2017,D3,Person Crime,Robbery,26
+2017,D3,Property Crime,Arson,3
+2017,D3,Property Crime,Burglary,214
+2017,D3,Property Crime,Larceny-Theft,600
+2017,D3,Property Crime,Motor Vehicle Theft,75
+2017,E1,Person Crime,Aggravated Assault,83
+2017,E1,Person Crime,Rape,7
+2017,E1,Person Crime,Robbery,39
+2017,E1,Property Crime,Arson,1
+2017,E1,Property Crime,Burglary,270
+2017,E1,Property Crime,Larceny-Theft,515
+2017,E1,Property Crime,Motor Vehicle Theft,66
+2017,E2,Person Crime,Aggravated Assault,88
+2017,E2,Person Crime,Rape,6
+2017,E2,Person Crime,Robbery,48
+2017,E2,Property Crime,Arson,3
+2017,E2,Property Crime,Burglary,162
+2017,E2,Property Crime,Larceny-Theft,607
+2017,E2,Property Crime,Motor Vehicle Theft,38
+2017,E3,Person Crime,Aggravated Assault,88
+2017,E3,Person Crime,Rape,11
+2017,E3,Person Crime,Robbery,38
+2017,E3,Property Crime,Arson,1
+2017,E3,Property Crime,Burglary,270
+2017,E3,Property Crime,Larceny-Theft,534
+2017,E3,Property Crime,Motor Vehicle Theft,42
+2017,F1,Person Crime,Aggravated Assault,48
+2017,F1,Person Crime,Rape,2
+2017,F1,Person Crime,Robbery,20
+2017,F1,Property Crime,Arson,3
+2017,F1,Property Crime,Burglary,86
+2017,F1,Property Crime,Larceny-Theft,332
+2017,F1,Property Crime,Motor Vehicle Theft,74
+2017,F2,Person Crime,Aggravated Assault,35
+2017,F2,Person Crime,Homicide,2
+2017,F2,Person Crime,Rape,4
+2017,F2,Person Crime,Robbery,38
+2017,F2,Property Crime,Arson,2
+2017,F2,Property Crime,Burglary,88
+2017,F2,Property Crime,Larceny-Theft,566
+2017,F2,Property Crime,Motor Vehicle Theft,93
+2017,F3,Person Crime,Aggravated Assault,46
+2017,F3,Person Crime,Homicide,2
+2017,F3,Person Crime,Robbery,12
+2017,F3,Property Crime,Arson,1
+2017,F3,Property Crime,Burglary,129
+2017,F3,Property Crime,Larceny-Theft,293
+2017,F3,Property Crime,Motor Vehicle Theft,126
+2017,G1,Person Crime,Aggravated Assault,58
+2017,G1,Person Crime,Rape,15
+2017,G1,Person Crime,Robbery,15
+2017,G1,Property Crime,Arson,4
+2017,G1,Property Crime,Burglary,123
+2017,G1,Property Crime,Larceny-Theft,184
+2017,G1,Property Crime,Motor Vehicle Theft,24
+2017,G2,Person Crime,Aggravated Assault,59
+2017,G2,Person Crime,Homicide,2
+2017,G2,Person Crime,Rape,4
+2017,G2,Person Crime,Robbery,15
+2017,G2,Property Crime,Arson,2
+2017,G2,Property Crime,Burglary,97
+2017,G2,Property Crime,Larceny-Theft,270
+2017,G2,Property Crime,Motor Vehicle Theft,55
+2017,G3,Person Crime,Aggravated Assault,38
+2017,G3,Person Crime,Rape,2
+2017,G3,Person Crime,Robbery,21
+2017,G3,Property Crime,Arson,3
+2017,G3,Property Crime,Burglary,107
+2017,G3,Property Crime,Larceny-Theft,318
+2017,G3,Property Crime,Motor Vehicle Theft,44
+2017,J1,Person Crime,Aggravated Assault,60
+2017,J1,Person Crime,Rape,9
+2017,J1,Person Crime,Robbery,40
+2017,J1,Property Crime,Arson,2
+2017,J1,Property Crime,Burglary,160
+2017,J1,Property Crime,Larceny-Theft,508
+2017,J1,Property Crime,Motor Vehicle Theft,76
+2017,J2,Person Crime,Aggravated Assault,15
+2017,J2,Person Crime,Rape,4
+2017,J2,Person Crime,Robbery,10
+2017,J2,Property Crime,Arson,3
+2017,J2,Property Crime,Burglary,182
+2017,J2,Property Crime,Larceny-Theft,431
+2017,J2,Property Crime,Motor Vehicle Theft,83
+2017,J3,Person Crime,Aggravated Assault,35
+2017,J3,Person Crime,Rape,5
+2017,J3,Person Crime,Robbery,17
+2017,J3,Property Crime,Arson,5
+2017,J3,Property Crime,Burglary,179
+2017,J3,Property Crime,Larceny-Theft,793
+2017,J3,Property Crime,Motor Vehicle Theft,80
+2017,K1,Person Crime,Aggravated Assault,64
+2017,K1,Person Crime,Homicide,1
+2017,K1,Person Crime,Rape,12
+2017,K1,Person Crime,Robbery,63
+2017,K1,Property Crime,Arson,1
+2017,K1,Property Crime,Burglary,80
+2017,K1,Property Crime,Larceny-Theft,642
+2017,K1,Property Crime,Motor Vehicle Theft,25
+2017,K2,Person Crime,Aggravated Assault,91
+2017,K2,Person Crime,Rape,8
+2017,K2,Person Crime,Robbery,56
+2017,K2,Property Crime,Burglary,80
+2017,K2,Property Crime,Larceny-Theft,424
+2017,K2,Property Crime,Motor Vehicle Theft,18
+2017,K3,Person Crime,Aggravated Assault,162
+2017,K3,Person Crime,Homicide,2
+2017,K3,Person Crime,Rape,3
+2017,K3,Person Crime,Robbery,121
+2017,K3,Property Crime,Arson,5
+2017,K3,Property Crime,Burglary,163
+2017,K3,Property Crime,Larceny-Theft,1863
+2017,K3,Property Crime,Motor Vehicle Theft,59
+2017,L1,Person Crime,Aggravated Assault,55
+2017,L1,Person Crime,Rape,6
+2017,L1,Person Crime,Robbery,23
+2017,L1,Property Crime,Arson,1
+2017,L1,Property Crime,Burglary,138
+2017,L1,Property Crime,Larceny-Theft,393
+2017,L1,Property Crime,Motor Vehicle Theft,95
+2017,L2,Person Crime,Aggravated Assault,43
+2017,L2,Person Crime,Rape,7
+2017,L2,Person Crime,Robbery,52
+2017,L2,Property Crime,Arson,6
+2017,L2,Property Crime,Burglary,146
+2017,L2,Property Crime,Larceny-Theft,991
+2017,L2,Property Crime,Motor Vehicle Theft,131
+2017,L3,Person Crime,Aggravated Assault,35
+2017,L3,Person Crime,Rape,6
+2017,L3,Person Crime,Robbery,25
+2017,L3,Property Crime,Arson,2
+2017,L3,Property Crime,Burglary,111
+2017,L3,Property Crime,Larceny-Theft,363
+2017,L3,Property Crime,Motor Vehicle Theft,71
+2017,M1,Person Crime,Aggravated Assault,44
+2017,M1,Person Crime,Rape,3
+2017,M1,Person Crime,Robbery,28
+2017,M1,Property Crime,Arson,4
+2017,M1,Property Crime,Burglary,86
+2017,M1,Property Crime,Larceny-Theft,958
+2017,M1,Property Crime,Motor Vehicle Theft,13
+2017,M2,Person Crime,Aggravated Assault,65
+2017,M2,Person Crime,Rape,3
+2017,M2,Person Crime,Robbery,70
+2017,M2,Property Crime,Arson,2
+2017,M2,Property Crime,Burglary,126
+2017,M2,Property Crime,Larceny-Theft,895
+2017,M2,Property Crime,Motor Vehicle Theft,13
+2017,M3,Person Crime,Aggravated Assault,61
+2017,M3,Person Crime,Rape,3
+2017,M3,Person Crime,Robbery,63
+2017,M3,Property Crime,Arson,1
+2017,M3,Property Crime,Burglary,96
+2017,M3,Property Crime,Larceny-Theft,903
+2017,M3,Property Crime,Motor Vehicle Theft,15
+2017,N1,Person Crime,Aggravated Assault,31
+2017,N1,Person Crime,Rape,1
+2017,N1,Person Crime,Robbery,11
+2017,N1,Property Crime,Arson,6
+2017,N1,Property Crime,Burglary,161
+2017,N1,Property Crime,Larceny-Theft,451
+2017,N1,Property Crime,Motor Vehicle Theft,46
+2017,N2,Person Crime,Aggravated Assault,46
+2017,N2,Person Crime,Homicide,1
+2017,N2,Person Crime,Rape,4
+2017,N2,Person Crime,Robbery,42
+2017,N2,Property Crime,Arson,2
+2017,N2,Property Crime,Burglary,118
+2017,N2,Property Crime,Larceny-Theft,520
+2017,N2,Property Crime,Motor Vehicle Theft,53
+2017,N3,Person Crime,Aggravated Assault,81
+2017,N3,Person Crime,Rape,11
+2017,N3,Person Crime,Robbery,37
+2017,N3,Property Crime,Arson,6
+2017,N3,Property Crime,Burglary,151
+2017,N3,Property Crime,Larceny-Theft,683
+2017,N3,Property Crime,Motor Vehicle Theft,73
+2017,O1,Person Crime,Aggravated Assault,46
+2017,O1,Person Crime,Homicide,1
+2017,O1,Person Crime,Rape,3
+2017,O1,Person Crime,Robbery,25
+2017,O1,Property Crime,Arson,2
+2017,O1,Property Crime,Burglary,35
+2017,O1,Property Crime,Larceny-Theft,359
+2017,O1,Property Crime,Motor Vehicle Theft,46
+2017,O2,Person Crime,Aggravated Assault,25
+2017,O2,Person Crime,Homicide,1
+2017,O2,Person Crime,Rape,3
+2017,O2,Person Crime,Robbery,10
+2017,O2,Property Crime,Arson,5
+2017,O2,Property Crime,Burglary,76
+2017,O2,Property Crime,Larceny-Theft,210
+2017,O2,Property Crime,Motor Vehicle Theft,48
+2017,O3,Person Crime,Aggravated Assault,31
+2017,O3,Person Crime,Rape,2
+2017,O3,Person Crime,Robbery,10
+2017,O3,Property Crime,Arson,3
+2017,O3,Property Crime,Burglary,108
+2017,O3,Property Crime,Larceny-Theft,207
+2017,O3,Property Crime,Motor Vehicle Theft,57
+2017,Q1,Person Crime,Aggravated Assault,17
+2017,Q1,Person Crime,Rape,1
+2017,Q1,Person Crime,Robbery,11
+2017,Q1,Property Crime,Arson,7
+2017,Q1,Property Crime,Burglary,170
+2017,Q1,Property Crime,Larceny-Theft,477
+2017,Q1,Property Crime,Motor Vehicle Theft,47
+2017,Q2,Person Crime,Aggravated Assault,29
+2017,Q2,Person Crime,Homicide,1
+2017,Q2,Person Crime,Rape,3
+2017,Q2,Person Crime,Robbery,9
+2017,Q2,Property Crime,Burglary,269
+2017,Q2,Property Crime,Larceny-Theft,585
+2017,Q2,Property Crime,Motor Vehicle Theft,109
+2017,Q3,Person Crime,Aggravated Assault,53
+2017,Q3,Person Crime,Homicide,1
+2017,Q3,Person Crime,Rape,4
+2017,Q3,Person Crime,Robbery,39
+2017,Q3,Property Crime,Burglary,266
+2017,Q3,Property Crime,Larceny-Theft,865
+2017,Q3,Property Crime,Motor Vehicle Theft,55
+2017,R1,Person Crime,Aggravated Assault,55
+2017,R1,Person Crime,Rape,2
+2017,R1,Person Crime,Robbery,25
+2017,R1,Property Crime,Arson,4
+2017,R1,Property Crime,Burglary,86
+2017,R1,Property Crime,Larceny-Theft,308
+2017,R1,Property Crime,Motor Vehicle Theft,126
+2017,R2,Person Crime,Aggravated Assault,64
+2017,R2,Person Crime,Homicide,2
+2017,R2,Person Crime,Rape,6
+2017,R2,Person Crime,Robbery,64
+2017,R2,Property Crime,Arson,1
+2017,R2,Property Crime,Burglary,106
+2017,R2,Property Crime,Larceny-Theft,486
+2017,R2,Property Crime,Motor Vehicle Theft,90
+2017,R3,Person Crime,Aggravated Assault,53
+2017,R3,Person Crime,Homicide,4
+2017,R3,Person Crime,Rape,3
+2017,R3,Person Crime,Robbery,31
+2017,R3,Property Crime,Arson,2
+2017,R3,Property Crime,Burglary,135
+2017,R3,Property Crime,Larceny-Theft,401
+2017,R3,Property Crime,Motor Vehicle Theft,127
+2017,S1,Person Crime,Aggravated Assault,37
+2017,S1,Person Crime,Rape,3
+2017,S1,Person Crime,Robbery,29
+2017,S1,Property Crime,Arson,4
+2017,S1,Property Crime,Burglary,126
+2017,S1,Property Crime,Larceny-Theft,203
+2017,S1,Property Crime,Motor Vehicle Theft,81
+2017,S2,Person Crime,Aggravated Assault,66
+2017,S2,Person Crime,Homicide,3
+2017,S2,Person Crime,Rape,6
+2017,S2,Person Crime,Robbery,49
+2017,S2,Property Crime,Arson,4
+2017,S2,Property Crime,Burglary,87
+2017,S2,Property Crime,Larceny-Theft,172
+2017,S2,Property Crime,Motor Vehicle Theft,102
+2017,S3,Person Crime,Aggravated Assault,55
+2017,S3,Person Crime,Rape,4
+2017,S3,Person Crime,Robbery,24
+2017,S3,Property Crime,Arson,2
+2017,S3,Property Crime,Burglary,152
+2017,S3,Property Crime,Larceny-Theft,324
+2017,S3,Property Crime,Motor Vehicle Theft,107
+2017,U1,Person Crime,Aggravated Assault,23
+2017,U1,Person Crime,Rape,5
+2017,U1,Person Crime,Robbery,27
+2017,U1,Property Crime,Arson,8
+2017,U1,Property Crime,Burglary,372
+2017,U1,Property Crime,Larceny-Theft,806
+2017,U1,Property Crime,Motor Vehicle Theft,161
+2017,U2,Person Crime,Aggravated Assault,74
+2017,U2,Person Crime,Homicide,1
+2017,U2,Person Crime,Rape,7
+2017,U2,Person Crime,Robbery,40
+2017,U2,Property Crime,Arson,3
+2017,U2,Property Crime,Burglary,334
+2017,U2,Property Crime,Larceny-Theft,603
+2017,U2,Property Crime,Motor Vehicle Theft,39
+2017,U3,Person Crime,Aggravated Assault,35
+2017,U3,Person Crime,Rape,9
+2017,U3,Person Crime,Robbery,38
+2017,U3,Property Crime,Arson,2
+2017,U3,Property Crime,Burglary,211
+2017,U3,Property Crime,Larceny-Theft,853
+2017,U3,Property Crime,Motor Vehicle Theft,112
+2017,W1,Person Crime,Aggravated Assault,35
+2017,W1,Person Crime,Homicide,1
+2017,W1,Person Crime,Rape,4
+2017,W1,Person Crime,Robbery,17
+2017,W1,Property Crime,Arson,3
+2017,W1,Property Crime,Burglary,116
+2017,W1,Property Crime,Larceny-Theft,437
+2017,W1,Property Crime,Motor Vehicle Theft,94
+2017,W2,Person Crime,Aggravated Assault,57
+2017,W2,Person Crime,Rape,4
+2017,W2,Person Crime,Robbery,28
+2017,W2,Property Crime,Arson,1
+2017,W2,Property Crime,Burglary,162
+2017,W2,Property Crime,Larceny-Theft,589
+2017,W2,Property Crime,Motor Vehicle Theft,107
+2017,W3,Person Crime,Aggravated Assault,28
+2017,W3,Person Crime,Rape,3
+2017,W3,Person Crime,Robbery,9
+2017,W3,Property Crime,Arson,2
+2017,W3,Property Crime,Burglary,107
+2017,W3,Property Crime,Larceny-Theft,402
+2017,W3,Property Crime,Motor Vehicle Theft,80
+2018,B1,Person Crime,Aggravated Assault,60
+2018,B1,Person Crime,Homicide,2
+2018,B1,Person Crime,Rape,7
+2018,B1,Person Crime,Robbery,31
+2018,B1,Property Crime,Arson,1
+2018,B1,Property Crime,Burglary,267
+2018,B1,Property Crime,Larceny-Theft,671
+2018,B1,Property Crime,Motor Vehicle Theft,111
+2018,B2,Person Crime,Aggravated Assault,39
+2018,B2,Person Crime,Rape,5
+2018,B2,Person Crime,Robbery,18
+2018,B2,Property Crime,Arson,3
+2018,B2,Property Crime,Burglary,273
+2018,B2,Property Crime,Larceny-Theft,1057
+2018,B2,Property Crime,Motor Vehicle Theft,156
+2018,B3,Person Crime,Aggravated Assault,36
+2018,B3,Person Crime,Homicide,1
+2018,B3,Person Crime,Rape,3
+2018,B3,Person Crime,Robbery,14
+2018,B3,Property Crime,Arson,2
+2018,B3,Property Crime,Burglary,352
+2018,B3,Property Crime,Larceny-Theft,861
+2018,B3,Property Crime,Motor Vehicle Theft,124
+2018,C1,Person Crime,Aggravated Assault,28
+2018,C1,Person Crime,Rape,6
+2018,C1,Person Crime,Robbery,29
+2018,C1,Property Crime,Arson,2
+2018,C1,Property Crime,Burglary,174
+2018,C1,Property Crime,Larceny-Theft,358
+2018,C1,Property Crime,Motor Vehicle Theft,61
+2018,C2,Person Crime,Aggravated Assault,28
+2018,C2,Person Crime,Rape,3
+2018,C2,Person Crime,Robbery,16
+2018,C2,Property Crime,Burglary,109
+2018,C2,Property Crime,Larceny-Theft,322
+2018,C2,Property Crime,Motor Vehicle Theft,43
+2018,C3,Person Crime,Aggravated Assault,41
+2018,C3,Person Crime,Rape,3
+2018,C3,Person Crime,Robbery,27
+2018,C3,Property Crime,Burglary,118
+2018,C3,Property Crime,Larceny-Theft,297
+2018,C3,Property Crime,Motor Vehicle Theft,48
+2018,D1,Person Crime,Aggravated Assault,71
+2018,D1,Person Crime,Homicide,1
+2018,D1,Person Crime,Rape,5
+2018,D1,Person Crime,Robbery,34
+2018,D1,Property Crime,Arson,3
+2018,D1,Property Crime,Burglary,162
+2018,D1,Property Crime,Larceny-Theft,681
+2018,D1,Property Crime,Motor Vehicle Theft,22
+2018,D2,Person Crime,Aggravated Assault,38
+2018,D2,Person Crime,Rape,4
+2018,D2,Person Crime,Robbery,22
+2018,D2,Property Crime,Arson,4
+2018,D2,Property Crime,Burglary,268
+2018,D2,Property Crime,Larceny-Theft,518
+2018,D2,Property Crime,Motor Vehicle Theft,54
+2018,D3,Person Crime,Aggravated Assault,38
+2018,D3,Person Crime,Rape,4
+2018,D3,Person Crime,Robbery,28
+2018,D3,Property Crime,Arson,3
+2018,D3,Property Crime,Burglary,247
+2018,D3,Property Crime,Larceny-Theft,514
+2018,D3,Property Crime,Motor Vehicle Theft,54
+2018,E1,Person Crime,Aggravated Assault,91
+2018,E1,Person Crime,Homicide,1
+2018,E1,Person Crime,Rape,16
+2018,E1,Person Crime,Robbery,53
+2018,E1,Property Crime,Arson,2
+2018,E1,Property Crime,Burglary,211
+2018,E1,Property Crime,Larceny-Theft,472
+2018,E1,Property Crime,Motor Vehicle Theft,76
+2018,E2,Person Crime,Aggravated Assault,111
+2018,E2,Person Crime,Rape,12
+2018,E2,Person Crime,Robbery,59
+2018,E2,Property Crime,Arson,1
+2018,E2,Property Crime,Burglary,142
+2018,E2,Property Crime,Larceny-Theft,551
+2018,E2,Property Crime,Motor Vehicle Theft,42
+2018,E3,Person Crime,Aggravated Assault,98
+2018,E3,Person Crime,Rape,9
+2018,E3,Person Crime,Robbery,23
+2018,E3,Property Crime,Arson,7
+2018,E3,Property Crime,Burglary,204
+2018,E3,Property Crime,Larceny-Theft,468
+2018,E3,Property Crime,Motor Vehicle Theft,55
+2018,F1,Person Crime,Aggravated Assault,57
+2018,F1,Person Crime,Rape,4
+2018,F1,Person Crime,Robbery,18
+2018,F1,Property Crime,Arson,1
+2018,F1,Property Crime,Burglary,104
+2018,F1,Property Crime,Larceny-Theft,288
+2018,F1,Property Crime,Motor Vehicle Theft,110
+2018,F2,Person Crime,Aggravated Assault,35
+2018,F2,Person Crime,Homicide,1
+2018,F2,Person Crime,Rape,3
+2018,F2,Person Crime,Robbery,37
+2018,F2,Property Crime,Arson,2
+2018,F2,Property Crime,Burglary,125
+2018,F2,Property Crime,Larceny-Theft,451
+2018,F2,Property Crime,Motor Vehicle Theft,138
+2018,F3,Person Crime,Aggravated Assault,62
+2018,F3,Person Crime,Homicide,3
+2018,F3,Person Crime,Rape,3
+2018,F3,Person Crime,Robbery,17
+2018,F3,Property Crime,Arson,2
+2018,F3,Property Crime,Burglary,173
+2018,F3,Property Crime,Larceny-Theft,349
+2018,F3,Property Crime,Motor Vehicle Theft,139
+2018,G1,Person Crime,Aggravated Assault,69
+2018,G1,Person Crime,Rape,5
+2018,G1,Person Crime,Robbery,17
+2018,G1,Property Crime,Arson,4
+2018,G1,Property Crime,Burglary,111
+2018,G1,Property Crime,Larceny-Theft,201
+2018,G1,Property Crime,Motor Vehicle Theft,33
+2018,G2,Person Crime,Aggravated Assault,60
+2018,G2,Person Crime,Homicide,2
+2018,G2,Person Crime,Rape,2
+2018,G2,Person Crime,Robbery,22
+2018,G2,Property Crime,Arson,1
+2018,G2,Property Crime,Burglary,75
+2018,G2,Property Crime,Larceny-Theft,266
+2018,G2,Property Crime,Motor Vehicle Theft,60
+2018,G3,Person Crime,Aggravated Assault,42
+2018,G3,Person Crime,Rape,4
+2018,G3,Person Crime,Robbery,16
+2018,G3,Property Crime,Arson,1
+2018,G3,Property Crime,Burglary,96
+2018,G3,Property Crime,Larceny-Theft,333
+2018,G3,Property Crime,Motor Vehicle Theft,48
+2018,J1,Person Crime,Aggravated Assault,51
+2018,J1,Person Crime,Rape,4
+2018,J1,Person Crime,Robbery,16
+2018,J1,Property Crime,Burglary,176
+2018,J1,Property Crime,Larceny-Theft,444
+2018,J1,Property Crime,Motor Vehicle Theft,90
+2018,J2,Person Crime,Aggravated Assault,28
+2018,J2,Person Crime,Rape,3
+2018,J2,Person Crime,Robbery,9
+2018,J2,Property Crime,Arson,2
+2018,J2,Property Crime,Burglary,257
+2018,J2,Property Crime,Larceny-Theft,531
+2018,J2,Property Crime,Motor Vehicle Theft,92
+2018,J3,Person Crime,Aggravated Assault,37
+2018,J3,Person Crime,Rape,3
+2018,J3,Person Crime,Robbery,29
+2018,J3,Property Crime,Arson,5
+2018,J3,Property Crime,Burglary,179
+2018,J3,Property Crime,Larceny-Theft,633
+2018,J3,Property Crime,Motor Vehicle Theft,104
+2018,K1,Person Crime,Aggravated Assault,91
+2018,K1,Person Crime,Homicide,2
+2018,K1,Person Crime,Rape,7
+2018,K1,Person Crime,Robbery,70
+2018,K1,Property Crime,Arson,3
+2018,K1,Property Crime,Burglary,64
+2018,K1,Property Crime,Larceny-Theft,525
+2018,K1,Property Crime,Motor Vehicle Theft,26
+2018,K2,Person Crime,Aggravated Assault,114
+2018,K2,Person Crime,Homicide,1
+2018,K2,Person Crime,Rape,6
+2018,K2,Person Crime,Robbery,38
+2018,K2,Property Crime,Arson,2
+2018,K2,Property Crime,Burglary,48
+2018,K2,Property Crime,Larceny-Theft,507
+2018,K2,Property Crime,Motor Vehicle Theft,23
+2018,K3,Person Crime,Aggravated Assault,209
+2018,K3,Person Crime,Homicide,2
+2018,K3,Person Crime,Rape,18
+2018,K3,Person Crime,Robbery,140
+2018,K3,Property Crime,Burglary,219
+2018,K3,Property Crime,Larceny-Theft,1815
+2018,K3,Property Crime,Motor Vehicle Theft,65
+2018,L1,Person Crime,Aggravated Assault,49
+2018,L1,Person Crime,Rape,6
+2018,L1,Person Crime,Robbery,19
+2018,L1,Property Crime,Arson,1
+2018,L1,Property Crime,Burglary,142
+2018,L1,Property Crime,Larceny-Theft,357
+2018,L1,Property Crime,Motor Vehicle Theft,91
+2018,L2,Person Crime,Aggravated Assault,29
+2018,L2,Person Crime,Rape,1
+2018,L2,Person Crime,Robbery,59
+2018,L2,Property Crime,Arson,2
+2018,L2,Property Crime,Burglary,162
+2018,L2,Property Crime,Larceny-Theft,837
+2018,L2,Property Crime,Motor Vehicle Theft,117
+2018,L3,Person Crime,Aggravated Assault,46
+2018,L3,Person Crime,Homicide,1
+2018,L3,Person Crime,Rape,4
+2018,L3,Person Crime,Robbery,32
+2018,L3,Property Crime,Arson,1
+2018,L3,Property Crime,Burglary,157
+2018,L3,Property Crime,Larceny-Theft,360
+2018,L3,Property Crime,Motor Vehicle Theft,64
+2018,M1,Person Crime,Aggravated Assault,60
+2018,M1,Person Crime,Rape,6
+2018,M1,Person Crime,Robbery,37
+2018,M1,Property Crime,Arson,2
+2018,M1,Property Crime,Burglary,142
+2018,M1,Property Crime,Larceny-Theft,1012
+2018,M1,Property Crime,Motor Vehicle Theft,21
+2018,M2,Person Crime,Aggravated Assault,44
+2018,M2,Person Crime,Rape,1
+2018,M2,Person Crime,Robbery,80
+2018,M2,Property Crime,Arson,2
+2018,M2,Property Crime,Burglary,82
+2018,M2,Property Crime,Larceny-Theft,909
+2018,M2,Property Crime,Motor Vehicle Theft,29
+2018,M3,Person Crime,Aggravated Assault,70
+2018,M3,Person Crime,Rape,7
+2018,M3,Person Crime,Robbery,81
+2018,M3,Property Crime,Arson,2
+2018,M3,Property Crime,Burglary,84
+2018,M3,Property Crime,Larceny-Theft,942
+2018,M3,Property Crime,Motor Vehicle Theft,17
+2018,N1,Person Crime,Aggravated Assault,24
+2018,N1,Person Crime,Rape,7
+2018,N1,Person Crime,Robbery,13
+2018,N1,Property Crime,Burglary,175
+2018,N1,Property Crime,Larceny-Theft,370
+2018,N1,Property Crime,Motor Vehicle Theft,64
+2018,N2,Person Crime,Aggravated Assault,69
+2018,N2,Person Crime,Rape,7
+2018,N2,Person Crime,Robbery,54
+2018,N2,Property Crime,Arson,1
+2018,N2,Property Crime,Burglary,131
+2018,N2,Property Crime,Larceny-Theft,472
+2018,N2,Property Crime,Motor Vehicle Theft,69
+2018,N3,Person Crime,Aggravated Assault,80
+2018,N3,Person Crime,Homicide,1
+2018,N3,Person Crime,Rape,12
+2018,N3,Person Crime,Robbery,58
+2018,N3,Property Crime,Burglary,126
+2018,N3,Property Crime,Larceny-Theft,561
+2018,N3,Property Crime,Motor Vehicle Theft,75
+2018,O1,Person Crime,Aggravated Assault,56
+2018,O1,Person Crime,Homicide,3
+2018,O1,Person Crime,Robbery,41
+2018,O1,Property Crime,Arson,3
+2018,O1,Property Crime,Burglary,50
+2018,O1,Property Crime,Larceny-Theft,519
+2018,O1,Property Crime,Motor Vehicle Theft,54
+2018,O2,Person Crime,Aggravated Assault,36
+2018,O2,Person Crime,Rape,4
+2018,O2,Person Crime,Robbery,3
+2018,O2,Property Crime,Arson,4
+2018,O2,Property Crime,Burglary,89
+2018,O2,Property Crime,Larceny-Theft,256
+2018,O2,Property Crime,Motor Vehicle Theft,51
+2018,O3,Person Crime,Aggravated Assault,26
+2018,O3,Person Crime,Rape,1
+2018,O3,Person Crime,Robbery,20
+2018,O3,Property Crime,Burglary,92
+2018,O3,Property Crime,Larceny-Theft,253
+2018,O3,Property Crime,Motor Vehicle Theft,84
+2018,Q1,Person Crime,Aggravated Assault,30
+2018,Q1,Person Crime,Rape,3
+2018,Q1,Person Crime,Robbery,17
+2018,Q1,Property Crime,Arson,2
+2018,Q1,Property Crime,Burglary,190
+2018,Q1,Property Crime,Larceny-Theft,470
+2018,Q1,Property Crime,Motor Vehicle Theft,72
+2018,Q2,Person Crime,Aggravated Assault,32
+2018,Q2,Person Crime,Rape,1
+2018,Q2,Person Crime,Robbery,13
+2018,Q2,Property Crime,Arson,3
+2018,Q2,Property Crime,Burglary,241
+2018,Q2,Property Crime,Larceny-Theft,660
+2018,Q2,Property Crime,Motor Vehicle Theft,105
+2018,Q3,Person Crime,Aggravated Assault,61
+2018,Q3,Person Crime,Homicide,2
+2018,Q3,Person Crime,Rape,4
+2018,Q3,Person Crime,Robbery,37
+2018,Q3,Property Crime,Arson,1
+2018,Q3,Property Crime,Burglary,230
+2018,Q3,Property Crime,Larceny-Theft,808
+2018,Q3,Property Crime,Motor Vehicle Theft,72
+2018,R1,Person Crime,Aggravated Assault,57
+2018,R1,Person Crime,Homicide,1
+2018,R1,Person Crime,Rape,3
+2018,R1,Person Crime,Robbery,44
+2018,R1,Property Crime,Arson,1
+2018,R1,Property Crime,Burglary,160
+2018,R1,Property Crime,Larceny-Theft,414
+2018,R1,Property Crime,Motor Vehicle Theft,147
+2018,R2,Person Crime,Aggravated Assault,87
+2018,R2,Person Crime,Rape,5
+2018,R2,Person Crime,Robbery,69
+2018,R2,Property Crime,Arson,2
+2018,R2,Property Crime,Burglary,176
+2018,R2,Property Crime,Larceny-Theft,679
+2018,R2,Property Crime,Motor Vehicle Theft,125
+2018,R3,Person Crime,Aggravated Assault,44
+2018,R3,Person Crime,Homicide,1
+2018,R3,Person Crime,Rape,2
+2018,R3,Person Crime,Robbery,31
+2018,R3,Property Crime,Arson,2
+2018,R3,Property Crime,Burglary,141
+2018,R3,Property Crime,Larceny-Theft,370
+2018,R3,Property Crime,Motor Vehicle Theft,115
+2018,S1,Person Crime,Aggravated Assault,46
+2018,S1,Person Crime,Rape,7
+2018,S1,Person Crime,Robbery,23
+2018,S1,Property Crime,Arson,1
+2018,S1,Property Crime,Burglary,94
+2018,S1,Property Crime,Larceny-Theft,215
+2018,S1,Property Crime,Motor Vehicle Theft,112
+2018,S2,Person Crime,Aggravated Assault,67
+2018,S2,Person Crime,Homicide,3
+2018,S2,Person Crime,Rape,4
+2018,S2,Person Crime,Robbery,38
+2018,S2,Property Crime,Arson,4
+2018,S2,Property Crime,Burglary,98
+2018,S2,Property Crime,Larceny-Theft,189
+2018,S2,Property Crime,Motor Vehicle Theft,122
+2018,S3,Person Crime,Aggravated Assault,64
+2018,S3,Person Crime,Homicide,1
+2018,S3,Person Crime,Rape,3
+2018,S3,Person Crime,Robbery,48
+2018,S3,Property Crime,Arson,2
+2018,S3,Property Crime,Burglary,141
+2018,S3,Property Crime,Larceny-Theft,354
+2018,S3,Property Crime,Motor Vehicle Theft,109
+2018,U1,Person Crime,Aggravated Assault,38
+2018,U1,Person Crime,Rape,5
+2018,U1,Person Crime,Robbery,31
+2018,U1,Property Crime,Arson,2
+2018,U1,Property Crime,Burglary,354
+2018,U1,Property Crime,Larceny-Theft,702
+2018,U1,Property Crime,Motor Vehicle Theft,140
+2018,U2,Person Crime,Aggravated Assault,69
+2018,U2,Person Crime,Homicide,1
+2018,U2,Person Crime,Rape,8
+2018,U2,Person Crime,Robbery,40
+2018,U2,Property Crime,Arson,4
+2018,U2,Property Crime,Burglary,240
+2018,U2,Property Crime,Larceny-Theft,624
+2018,U2,Property Crime,Motor Vehicle Theft,58
+2018,U3,Person Crime,Aggravated Assault,34
+2018,U3,Person Crime,Rape,4
+2018,U3,Person Crime,Robbery,37
+2018,U3,Property Crime,Arson,1
+2018,U3,Property Crime,Burglary,246
+2018,U3,Property Crime,Larceny-Theft,876
+2018,U3,Property Crime,Motor Vehicle Theft,79
+2018,W1,Person Crime,Aggravated Assault,30
+2018,W1,Person Crime,Homicide,2
+2018,W1,Person Crime,Robbery,16
+2018,W1,Property Crime,Arson,2
+2018,W1,Property Crime,Burglary,142
+2018,W1,Property Crime,Larceny-Theft,369
+2018,W1,Property Crime,Motor Vehicle Theft,113
+2018,W2,Person Crime,Aggravated Assault,35
+2018,W2,Person Crime,Rape,4
+2018,W2,Person Crime,Robbery,17
+2018,W2,Property Crime,Arson,4
+2018,W2,Property Crime,Burglary,208
+2018,W2,Property Crime,Larceny-Theft,574
+2018,W2,Property Crime,Motor Vehicle Theft,128
+2018,W3,Person Crime,Aggravated Assault,27
+2018,W3,Person Crime,Homicide,1
+2018,W3,Person Crime,Rape,1
+2018,W3,Person Crime,Robbery,6
+2018,W3,Property Crime,Arson,3
+2018,W3,Property Crime,Burglary,128
+2018,W3,Property Crime,Larceny-Theft,447
+2018,W3,Property Crime,Motor Vehicle Theft,104
+2019,B1,Person Crime,Aggravated Assault,23
+2019,B1,Person Crime,Rape,2
+2019,B1,Person Crime,Robbery,9
+2019,B1,Property Crime,Burglary,68
+2019,B1,Property Crime,Larceny-Theft,204
+2019,B1,Property Crime,Motor Vehicle Theft,22
+2019,B2,Person Crime,Aggravated Assault,13
+2019,B2,Person Crime,Homicide,1
+2019,B2,Person Crime,Rape,1
+2019,B2,Person Crime,Robbery,5
+2019,B2,Property Crime,Burglary,78
+2019,B2,Property Crime,Larceny-Theft,311
+2019,B2,Property Crime,Motor Vehicle Theft,45
+2019,B3,Person Crime,Aggravated Assault,9
+2019,B3,Person Crime,Rape,1
+2019,B3,Person Crime,Robbery,4
+2019,B3,Property Crime,Burglary,90
+2019,B3,Property Crime,Larceny-Theft,186
+2019,B3,Property Crime,Motor Vehicle Theft,44
+2019,C1,Person Crime,Aggravated Assault,5
+2019,C1,Person Crime,Robbery,9
+2019,C1,Property Crime,Burglary,51
+2019,C1,Property Crime,Larceny-Theft,129
+2019,C1,Property Crime,Motor Vehicle Theft,11
+2019,C2,Person Crime,Aggravated Assault,9
+2019,C2,Person Crime,Rape,1
+2019,C2,Person Crime,Robbery,1
+2019,C2,Property Crime,Burglary,40
+2019,C2,Property Crime,Larceny-Theft,91
+2019,C2,Property Crime,Motor Vehicle Theft,21
+2019,C3,Person Crime,Aggravated Assault,4
+2019,C3,Person Crime,Rape,1
+2019,C3,Person Crime,Robbery,4
+2019,C3,Property Crime,Arson,1
+2019,C3,Property Crime,Burglary,19
+2019,C3,Property Crime,Larceny-Theft,92
+2019,C3,Property Crime,Motor Vehicle Theft,10
+2019,D1,Person Crime,Aggravated Assault,20
+2019,D1,Person Crime,Rape,2
+2019,D1,Person Crime,Robbery,13
+2019,D1,Property Crime,Arson,1
+2019,D1,Property Crime,Burglary,64
+2019,D1,Property Crime,Larceny-Theft,150
+2019,D1,Property Crime,Motor Vehicle Theft,7
+2019,D2,Person Crime,Aggravated Assault,19
+2019,D2,Person Crime,Rape,1
+2019,D2,Person Crime,Robbery,4
+2019,D2,Property Crime,Arson,1
+2019,D2,Property Crime,Burglary,56
+2019,D2,Property Crime,Larceny-Theft,174
+2019,D2,Property Crime,Motor Vehicle Theft,23
+2019,D3,Person Crime,Aggravated Assault,18
+2019,D3,Person Crime,Rape,3
+2019,D3,Person Crime,Robbery,6
+2019,D3,Property Crime,Burglary,45
+2019,D3,Property Crime,Larceny-Theft,171
+2019,D3,Property Crime,Motor Vehicle Theft,11
+2019,E1,Person Crime,Aggravated Assault,28
+2019,E1,Person Crime,Rape,2
+2019,E1,Person Crime,Robbery,11
+2019,E1,Property Crime,Arson,1
+2019,E1,Property Crime,Burglary,60
+2019,E1,Property Crime,Larceny-Theft,154
+2019,E1,Property Crime,Motor Vehicle Theft,16
+2019,E2,Person Crime,Aggravated Assault,16
+2019,E2,Person Crime,Homicide,2
+2019,E2,Person Crime,Rape,2
+2019,E2,Person Crime,Robbery,13
+2019,E2,Property Crime,Arson,1
+2019,E2,Property Crime,Burglary,31
+2019,E2,Property Crime,Larceny-Theft,171
+2019,E2,Property Crime,Motor Vehicle Theft,8
+2019,E3,Person Crime,Aggravated Assault,36
+2019,E3,Person Crime,Rape,2
+2019,E3,Person Crime,Robbery,13
+2019,E3,Property Crime,Burglary,78
+2019,E3,Property Crime,Larceny-Theft,151
+2019,E3,Property Crime,Motor Vehicle Theft,19
+2019,F1,Person Crime,Aggravated Assault,11
+2019,F1,Person Crime,Rape,3
+2019,F1,Person Crime,Robbery,8
+2019,F1,Property Crime,Arson,1
+2019,F1,Property Crime,Burglary,28
+2019,F1,Property Crime,Larceny-Theft,66
+2019,F1,Property Crime,Motor Vehicle Theft,17
+2019,F2,Person Crime,Aggravated Assault,11
+2019,F2,Person Crime,Rape,3
+2019,F2,Person Crime,Robbery,20
+2019,F2,Property Crime,Burglary,29
+2019,F2,Property Crime,Larceny-Theft,148
+2019,F2,Property Crime,Motor Vehicle Theft,38
+2019,F3,Person Crime,Aggravated Assault,15
+2019,F3,Person Crime,Robbery,6
+2019,F3,Property Crime,Arson,1
+2019,F3,Property Crime,Burglary,51
+2019,F3,Property Crime,Larceny-Theft,135
+2019,F3,Property Crime,Motor Vehicle Theft,42
+2019,G1,Person Crime,Aggravated Assault,22
+2019,G1,Person Crime,Rape,5
+2019,G1,Person Crime,Robbery,6
+2019,G1,Property Crime,Burglary,27
+2019,G1,Property Crime,Larceny-Theft,75
+2019,G1,Property Crime,Motor Vehicle Theft,9
+2019,G2,Person Crime,Aggravated Assault,17
+2019,G2,Person Crime,Rape,2
+2019,G2,Person Crime,Robbery,7
+2019,G2,Property Crime,Arson,1
+2019,G2,Property Crime,Burglary,32
+2019,G2,Property Crime,Larceny-Theft,85
+2019,G2,Property Crime,Motor Vehicle Theft,10
+2019,G3,Person Crime,Aggravated Assault,11
+2019,G3,Person Crime,Robbery,4
+2019,G3,Property Crime,Burglary,20
+2019,G3,Property Crime,Larceny-Theft,92
+2019,G3,Property Crime,Motor Vehicle Theft,11
+2019,J1,Person Crime,Aggravated Assault,13
+2019,J1,Person Crime,Rape,1
+2019,J1,Person Crime,Robbery,8
+2019,J1,Property Crime,Burglary,46
+2019,J1,Property Crime,Larceny-Theft,123
+2019,J1,Property Crime,Motor Vehicle Theft,19
+2019,J2,Person Crime,Aggravated Assault,9
+2019,J2,Person Crime,Robbery,6
+2019,J2,Property Crime,Arson,1
+2019,J2,Property Crime,Burglary,79
+2019,J2,Property Crime,Larceny-Theft,153
+2019,J2,Property Crime,Motor Vehicle Theft,24
+2019,J3,Person Crime,Aggravated Assault,9
+2019,J3,Person Crime,Rape,2
+2019,J3,Person Crime,Robbery,4
+2019,J3,Property Crime,Burglary,60
+2019,J3,Property Crime,Larceny-Theft,197
+2019,J3,Property Crime,Motor Vehicle Theft,26
+2019,K1,Person Crime,Aggravated Assault,23
+2019,K1,Person Crime,Rape,1
+2019,K1,Person Crime,Robbery,22
+2019,K1,Property Crime,Burglary,15
+2019,K1,Property Crime,Larceny-Theft,167
+2019,K2,Person Crime,Aggravated Assault,45
+2019,K2,Person Crime,Rape,1
+2019,K2,Person Crime,Robbery,17
+2019,K2,Property Crime,Burglary,24
+2019,K2,Property Crime,Larceny-Theft,164
+2019,K2,Property Crime,Motor Vehicle Theft,5
+2019,K3,Person Crime,Aggravated Assault,74
+2019,K3,Person Crime,Rape,7
+2019,K3,Person Crime,Robbery,29
+2019,K3,Property Crime,Arson,2
+2019,K3,Property Crime,Burglary,59
+2019,K3,Property Crime,Larceny-Theft,321
+2019,K3,Property Crime,Motor Vehicle Theft,29
+2019,L1,Person Crime,Aggravated Assault,14
+2019,L1,Person Crime,Rape,2
+2019,L1,Person Crime,Robbery,9
+2019,L1,Property Crime,Burglary,37
+2019,L1,Property Crime,Larceny-Theft,112
+2019,L1,Property Crime,Motor Vehicle Theft,21
+2019,L2,Person Crime,Aggravated Assault,11
+2019,L2,Person Crime,Robbery,14
+2019,L2,Property Crime,Arson,3
+2019,L2,Property Crime,Burglary,53
+2019,L2,Property Crime,Larceny-Theft,254
+2019,L2,Property Crime,Motor Vehicle Theft,32
+2019,L3,Person Crime,Aggravated Assault,12
+2019,L3,Person Crime,Homicide,1
+2019,L3,Person Crime,Rape,1
+2019,L3,Person Crime,Robbery,9
+2019,L3,Property Crime,Burglary,71
+2019,L3,Property Crime,Larceny-Theft,96
+2019,L3,Property Crime,Motor Vehicle Theft,24
+2019,M1,Person Crime,Aggravated Assault,15
+2019,M1,Person Crime,Rape,4
+2019,M1,Person Crime,Robbery,11
+2019,M1,Property Crime,Burglary,36
+2019,M1,Property Crime,Larceny-Theft,286
+2019,M1,Property Crime,Motor Vehicle Theft,5
+2019,M2,Person Crime,Aggravated Assault,13
+2019,M2,Person Crime,Robbery,17
+2019,M2,Property Crime,Burglary,15
+2019,M2,Property Crime,Larceny-Theft,237
+2019,M2,Property Crime,Motor Vehicle Theft,7
+2019,M3,Person Crime,Aggravated Assault,22
+2019,M3,Person Crime,Rape,1
+2019,M3,Person Crime,Robbery,23
+2019,M3,Property Crime,Arson,1
+2019,M3,Property Crime,Burglary,26
+2019,M3,Property Crime,Larceny-Theft,223
+2019,M3,Property Crime,Motor Vehicle Theft,3
+2019,N1,Person Crime,Aggravated Assault,23
+2019,N1,Person Crime,Rape,5
+2019,N1,Person Crime,Robbery,2
+2019,N1,Property Crime,Burglary,48
+2019,N1,Property Crime,Larceny-Theft,112
+2019,N1,Property Crime,Motor Vehicle Theft,33
+2019,N2,Person Crime,Aggravated Assault,16
+2019,N2,Person Crime,Rape,4
+2019,N2,Person Crime,Robbery,13
+2019,N2,Property Crime,Burglary,29
+2019,N2,Property Crime,Larceny-Theft,146
+2019,N2,Property Crime,Motor Vehicle Theft,16
+2019,N3,Person Crime,Aggravated Assault,22
+2019,N3,Person Crime,Homicide,1
+2019,N3,Person Crime,Rape,3
+2019,N3,Person Crime,Robbery,6
+2019,N3,Property Crime,Burglary,27
+2019,N3,Property Crime,Larceny-Theft,155
+2019,N3,Property Crime,Motor Vehicle Theft,18
+2019,O1,Person Crime,Aggravated Assault,11
+2019,O1,Person Crime,Homicide,1
+2019,O1,Person Crime,Robbery,9
+2019,O1,Property Crime,Arson,1
+2019,O1,Property Crime,Burglary,23
+2019,O1,Property Crime,Larceny-Theft,194
+2019,O1,Property Crime,Motor Vehicle Theft,13
+2019,O2,Person Crime,Aggravated Assault,12
+2019,O2,Property Crime,Arson,1
+2019,O2,Property Crime,Burglary,23
+2019,O2,Property Crime,Larceny-Theft,50
+2019,O2,Property Crime,Motor Vehicle Theft,8
+2019,O3,Person Crime,Aggravated Assault,9
+2019,O3,Person Crime,Robbery,5
+2019,O3,Property Crime,Burglary,29
+2019,O3,Property Crime,Larceny-Theft,72
+2019,O3,Property Crime,Motor Vehicle Theft,16
+2019,Q1,Person Crime,Aggravated Assault,7
+2019,Q1,Person Crime,Rape,2
+2019,Q1,Person Crime,Robbery,3
+2019,Q1,Property Crime,Burglary,54
+2019,Q1,Property Crime,Larceny-Theft,160
+2019,Q1,Property Crime,Motor Vehicle Theft,40
+2019,Q2,Person Crime,Aggravated Assault,14
+2019,Q2,Person Crime,Rape,1
+2019,Q2,Person Crime,Robbery,3
+2019,Q2,Property Crime,Arson,2
+2019,Q2,Property Crime,Burglary,88
+2019,Q2,Property Crime,Larceny-Theft,217
+2019,Q2,Property Crime,Motor Vehicle Theft,30
+2019,Q3,Person Crime,Aggravated Assault,10
+2019,Q3,Person Crime,Rape,2
+2019,Q3,Person Crime,Robbery,15
+2019,Q3,Property Crime,Arson,1
+2019,Q3,Property Crime,Burglary,83
+2019,Q3,Property Crime,Larceny-Theft,206
+2019,Q3,Property Crime,Motor Vehicle Theft,11
+2019,R1,Person Crime,Aggravated Assault,15
+2019,R1,Person Crime,Rape,1
+2019,R1,Person Crime,Robbery,11
+2019,R1,Property Crime,Arson,1
+2019,R1,Property Crime,Burglary,48
+2019,R1,Property Crime,Larceny-Theft,95
+2019,R1,Property Crime,Motor Vehicle Theft,32
+2019,R2,Person Crime,Aggravated Assault,29
+2019,R2,Person Crime,Rape,1
+2019,R2,Person Crime,Robbery,17
+2019,R2,Property Crime,Arson,2
+2019,R2,Property Crime,Burglary,46
+2019,R2,Property Crime,Larceny-Theft,193
+2019,R2,Property Crime,Motor Vehicle Theft,32
+2019,R3,Person Crime,Aggravated Assault,17
+2019,R3,Person Crime,Robbery,7
+2019,R3,Property Crime,Burglary,38
+2019,R3,Property Crime,Larceny-Theft,97
+2019,R3,Property Crime,Motor Vehicle Theft,19
+2019,S1,Person Crime,Aggravated Assault,10
+2019,S1,Person Crime,Robbery,17
+2019,S1,Property Crime,Burglary,37
+2019,S1,Property Crime,Larceny-Theft,71
+2019,S1,Property Crime,Motor Vehicle Theft,22
+2019,S2,Person Crime,Aggravated Assault,16
+2019,S2,Person Crime,Rape,2
+2019,S2,Person Crime,Robbery,21
+2019,S2,Property Crime,Burglary,30
+2019,S2,Property Crime,Larceny-Theft,68
+2019,S2,Property Crime,Motor Vehicle Theft,29
+2019,S3,Person Crime,Aggravated Assault,19
+2019,S3,Person Crime,Rape,2
+2019,S3,Person Crime,Robbery,11
+2019,S3,Property Crime,Burglary,36
+2019,S3,Property Crime,Larceny-Theft,97
+2019,S3,Property Crime,Motor Vehicle Theft,23
+2019,U1,Person Crime,Aggravated Assault,16
+2019,U1,Person Crime,Rape,1
+2019,U1,Person Crime,Robbery,6
+2019,U1,Property Crime,Burglary,128
+2019,U1,Property Crime,Larceny-Theft,214
+2019,U1,Property Crime,Motor Vehicle Theft,39
+2019,U2,Person Crime,Aggravated Assault,29
+2019,U2,Person Crime,Rape,2
+2019,U2,Person Crime,Robbery,21
+2019,U2,Property Crime,Arson,2
+2019,U2,Property Crime,Burglary,83
+2019,U2,Property Crime,Larceny-Theft,226
+2019,U2,Property Crime,Motor Vehicle Theft,18
+2019,U3,Person Crime,Aggravated Assault,9
+2019,U3,Person Crime,Rape,1
+2019,U3,Person Crime,Robbery,7
+2019,U3,Property Crime,Burglary,56
+2019,U3,Property Crime,Larceny-Theft,273
+2019,U3,Property Crime,Motor Vehicle Theft,26
+2019,W1,Person Crime,Aggravated Assault,9
+2019,W1,Person Crime,Rape,2
+2019,W1,Person Crime,Robbery,9
+2019,W1,Property Crime,Burglary,32
+2019,W1,Property Crime,Larceny-Theft,103
+2019,W1,Property Crime,Motor Vehicle Theft,18
+2019,W2,Person Crime,Aggravated Assault,13
+2019,W2,Person Crime,Rape,3
+2019,W2,Person Crime,Robbery,12
+2019,W2,Property Crime,Burglary,61
+2019,W2,Property Crime,Larceny-Theft,178
+2019,W2,Property Crime,Motor Vehicle Theft,18
+2019,W3,Person Crime,Aggravated Assault,6
+2019,W3,Person Crime,Rape,1
+2019,W3,Person Crime,Robbery,6
+2019,W3,Property Crime,Burglary,49
+2019,W3,Property Crime,Larceny-Theft,109
+2019,W3,Property Crime,Motor Vehicle Theft,20
