@@ -10,6 +10,7 @@ Potential answers to the above questions can shed light on some of the character
 
 ## Data
 - Call Data: [https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
+- call_data_csv.zip in the data repository
 - License : Public Domain
 
 Data is queried from Data Analytics Platformm (DAP) and updated incrementally on a daily basis. A full refresh will occur twice a year and is intented to reconcile minor changes. In order to ensure the analysis is completely reproducible, static instead of updated data will be used in this project. This data represents police response activity. Each row is a record of a Call for Service (CfS) logged with the Seattle Police Department (SPD) Communications Center. Calls originated from the community and range from in progress or active emergencies to requests for problem solving. Additionally, officers will log calls from their observations of the field. The data has 4154077 rows and 11 columns, and it is around 770 MB.
@@ -31,6 +32,7 @@ Data is queried from Data Analytics Platformm (DAP) and updated incrementally on
 This dataset only contains records of police response. If a call is queued in the system but cleared before an officer can respond, it will not be included. The data itself does not contain any identify or ethical information. However, the CAD Event Number is an unique identifier for each call (or instance), and there might exist external source that happens to have this information as well alone with other detailed information such as name of the caller and specific location of the instance. Currently, I am not able to find any of the external source.
 
 - Crime Data: [https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5]
+- crime_data_csv.zip in the data repository
 - License : Public Domain
 
 | Column Name | Description | Datatype |
