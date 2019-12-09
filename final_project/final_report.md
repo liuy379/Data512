@@ -1,17 +1,16 @@
-# Project Plan - Seattle Police Call Response Time Analysis
+# Project Report - Seattle Police Call Response Time Analysis
 ## Introduction
 When we run into emergencies, knowing that polices are typically only a few minutes away and they can reach us in fairly short amount of time is definitely comforting. Clearly, average response times in different cities can vary a lot due to factors such as city population, police funding, and available resources in a given region. Specifically, according to [this article by Matt Halpin](https://www.asecurelife.com/average-police-response-time/), the average police response time in Seattle is 9 minutes, which is quite higher than the response time in other US major cities. When it comes to emergencies, every minute counts. Therefore, I decide to take a look at the police response time in Seattle alone with other interesting/helpful characteristics.
 
 ## Research Questions
-- How does SPD's response time varies by call priority, call type, event type, and region?
+- How does SPD's response time vary by call priority, call type, event type, and region?
 - Can we build a model to predict response time with the given dataset?
 
 Potential answers to the above questions can shed light on some of the characteristics of SPD's response time. For example, plotting response time to emergency calls of different priorities overtime can show the trend of response time. Side by side comparison of crime counts and response time by regions can help SPD to identify regions that have high total crime counts but are not receiving fast enough responses yet, so the SPD can make adjustments based on that.
 
 ## Data
-- Data: [https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
+- Call Data: [https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
 - License : Public Domain
-- Source Link: http://www.seattle.gov/police/
 
 Data is queried from Data Analytics Platformm (DAP) and updated incrementally on a daily basis. A full refresh will occur twice a year and is intented to reconcile minor changes. In order to ensure the analysis is completely reproducible, static instead of updated data will be used in this project. This data represents police response activity. Each row is a record of a Call for Service (CfS) logged with the Seattle Police Department (SPD) Communications Center. Calls originated from the community and range from in progress or active emergencies to requests for problem solving. Additionally, officers will log calls from their observations of the field. The data has 4154077 rows and 11 columns, and it is around 770 MB.
 
@@ -31,9 +30,29 @@ Data is queried from Data Analytics Platformm (DAP) and updated incrementally on
 
 This dataset only contains records of police response. If a call is queued in the system but cleared before an officer can respond, it will not be included. The data itself does not contain any identify or ethical information. However, the CAD Event Number is an unique identifier for each call (or instance), and there might exist external source that happens to have this information as well alone with other detailed information such as name of the caller and specific location of the instance. Currently, I am not able to find any of the external source.
 
+- Crime Data: [https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5]
+- License : Public Domain
 
-Add crime table here
-Add description of crime table here
+| Column Name | Description | Datatype |
+| --- | --- | --- |
+| Beat | Beat where the event occurred | Text |
+| Council District | Council district where the event occurred | Text |
+| Crime Category | Category of the event | Text |
+| Crime Description | Description of the event | Text |
+| Crime Group | Property crime or personal crime | Text |
+| Current Yr | Whether the event occurred this year | Text |
+| Definition | More detailed information of the event | Floating Timestamp |
+| Neighborhood | Neighborhood where the event occurred | Text |
+| Occ Date | Time when the event occurred | Text |
+| Precinct | Precinct where the event occurred | Text |
+
+This dataset contains records of crime events from 2008-2019.
+
+- SPD Spatial Data: [https://data.seattle.gov/Public-Safety/Seattle-Police-Department-Beats/nnxn-434b]
+- License : Public Domain
+
+This dataset supports map visualization.
+
 
 
 
@@ -48,17 +67,29 @@ Most US police departments follow at least three levels of prioritization to ens
 ### Response Time by Priority
 Generally, priority 1 represents events that require immediate actions such as in progress shooting. Priority 2 are events slightly less urgent than priority 1 but also require immediate actions to prevent them developing into priority 1 events. Priority 3 & 4 events are less moderate events such as traffic issues. And finally starting at priority 5, the events are directly handled by the communication center instead of officers. To make the groups more representative and also make the chart more easier on the eye, I regroup the priorities into 1, 2, 3 & 4, and 5+. So in the below chart, we can see that response time to top priority calls is consistent overtime. Response to priority 2 calls becomes slower as time goes. And for certain period (2015 - 2018), response time to priority 3 & 4 is shorter than priority 5 plus.
 
+![screenshot](screenshots/response_by_priority.png)
+
 ### Response Time by Call Type
 Call type in the datasets indicates the method that the person requests call for service. There are 11 unique call types in total and the chart below shows the top call types sorted by response time. Clearly, SPD response to alarm calls (bank, school, residential, bust, taxi) in shortest time compare to other call types. Perhaps because initiating alarm calls in these locations is easy and well practiced, the response time of this type ranks at the top in the chart. Other than this, it is interesting to observe that response to text messages is slightly faster than 911 calls, but the difference is not statistically significant. While I was working on this part, I wondered if response to 911 calls faster than non 911 calls. And according to the below chart, the answer is yes. Response to 911 calls are generally faster than non 911 calls even for low priority calls such as priority 6 and 7.
+
+![screenshot](screenshots/response_by_call_type.png)
+![screenshot](screenshots/911_vs_non_911.png)
+
 
 ### Response Time by Event type
 Event type in the dataset indicates is the description of event initially identified by communication center. There are 271 unique event types in total and the chart below shows the top event types sorted by response time. It is comforting to see that calls that request backups or report active shootings receive fastest responses. Additionally, most of the times here are less than 6 minutes, which is the goal SPD is aiming for.
 
+![screenshot](screenshots/response_by_event_type.png)
+
 ### Response Time by Region
-A side by side comparison of crime counts and response time is done in Tableau. The entire Seattle region is divided into beats, which is the most granular unit used by SPD for patrol deployment. Below is a screenshot of the dashboard and the actual interactive dashboard can be found here. Optimally, we want to see regions with dark red on the left chart are also in light green on the right chart. This means regions that have high crime counts are also receiving fast responses. Hovering over any region on the left chart will give you the breakdown of crime counts in categories in that region. Hovering over any region on the right chart will give you the average response time of each priority group for that region. Clicking any region in the left chart will give you the crime counts overtime for that region, and of course clicking any region in the right chart will give you the average response time overtime for that region. This dashboard can be useful to SPD to identify regions that have high crime counts but are not receiving fast enough responses yet (regions in both dark red and dark green) such as K1, and SPD can make adjustments in terms of police force or policies to address the issue.
+A side by side comparison of crime counts and response time is done in Tableau. The entire Seattle region is divided into beats, which is the most granular unit used by SPD for patrol deployment. Below is a screenshot of the dashboard and the actual interactive dashboard can be found [here](https://public.tableau.com/profile/yiming.liu3280#!/vizhome/SPD_response_time/Dashboard). Optimally, we want to see regions with dark red on the left chart are also in light green on the right chart. This means regions that have high crime counts are also receiving fast responses. Hovering over any region on the left chart will give you the breakdown of crime counts in categories in that region. Hovering over any region on the right chart will give you the average response time of each priority group for that region. Clicking any region in the left chart will give you the crime counts overtime for that region, and of course clicking any region in the right chart will give you the average response time overtime for that region. This dashboard can be useful to SPD to identify regions that have high crime counts but are not receiving fast enough responses yet (regions in both dark red and dark green) such as K1, and SPD can make adjustments in terms of police force or policies to address the issue.
+
+![screenshot](screenshots/crime_counts_vs_response_time.png)
 
 ### Predict Response Time
 As mentioned before, decision tree is selected to model response time in this project. I chose to use xgboost, which is the fast version of gradient boosting trees, and the final root mean square error is 13.8. The feature importances are plotted below and we can see that priority is much more crucial than call time in determining response time. This is comforting result for sure, and one future work is to add traffic data into the model and see if that would replace priority features.
+
+![screenshot](screenshots/feature_importance.png)
 
 ## Reflection
 ### Data Collection
@@ -76,5 +107,7 @@ First of all, one of the reasons that choosing decision tree in this project is 
 
 ### Sources
 - https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy]
+- https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5
+- https://data.seattle.gov/Public-Safety/Seattle-Police-Department-Beats/nnxn-434b
 - http://www.seattle.gov/police/
 - https://www.asecurelife.com/average-police-response-time/
