@@ -43,15 +43,6 @@ Most US police departments follow at least three levels of prioritization to ens
 ## Methodology and Tools
 `Matplotlib` and `seaborn` are mainly used for visualization purpose. A `Tableau` dashboard is also included in the analysis to compare crime counts and average response time on two identical maps. `t-test` is used to test perform statistical tests in some parts of the analysis, and the code is written in python with the `scipy` package. Finally, `decision tree` is used for modeling response time as all the features in the dataset are binaries and the feature importance provided by tree based model is useful for interpretation.
 
-### List of Dependencies
-jupyter notebook
-pandas version
-numpy version
-xgboost version
-Matplotlib
-seaborn
-Tableau license and version
-
 
 ## Results
 ### Response Time by Priority
